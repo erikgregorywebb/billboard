@@ -1,3 +1,4 @@
+
 ### Genres
 
 # define scraper funciton
@@ -78,4 +79,4 @@ for (i in 1:length(all_artists)) {
 raw = do.call(rbind, datalist)
 
 # export to csv
-write_csv(raw, 'artist-genres.csv')
+write_csv(raw, 'artist-main-genre.csv')
