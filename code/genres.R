@@ -30,10 +30,11 @@ artist_genres = read_csv(url) %>% select(artist, genre)
 all_artist_subgenres = artist_genres %>% distinct(genre) %>% pull(genre)
 datalist = list()
 for (i in 1:length(all_artist_subgenres)) {
-  mapped_genre = genres %>% 
-    filter(subgenre == all_artist_subgenres[i]) %>%
-    arrange(rownumber) %>% pull(genre) %>% first()
-  datalist[[i]] = tibble(mapped_genre, mapped_subgenre = all_artist_subgenres[i])
+  temp = genres %>% 
+    filter(subgenre == all_artist_subgenres[i]) %>% arrange(rownumber) 
+  mapped_genre = temp %>% pull(genre) %>% first()
+  rownumber = temp %>% pull(rownumber) %>% first()
+  datalist[[i]] = tibble(mapped_genre, mapped_subgenre = all_artist_subgenres[i], rownumber)
 }
 all_mapped_genres_subgenres = do.call(rbind, datalist)
 all_mapped_genres_subgenres %>% arrange(mapped_genre)
@@ -44,7 +45,7 @@ artist_genres_subgenres = left_join(
   y = all_mapped_genres_subgenres,
   by = c('genre' = 'mapped_subgenre')
 ) %>% rename(subgenre = genre, genre = mapped_genre) %>%
-  select(artist, genre, subgenre)
+  select(artist, genre, subgenre, rownumber)
 
 # manual overrides
 # 'pop rap' -> rap, not pop
@@ -54,7 +55,7 @@ artist_genres_subgenres = artist_genres_subgenres %>%
 
 # determine single genre for each artist
 all_artists = artist_genres_subgenres %>% distinct(artist) %>% pull(artist)
-counter = 0
+datalist = list()
 for (i in 1:length(all_artists)) {
   percent_majority = artist_genres_subgenres %>%
     filter(artist == all_artists[i]) %>%
@@ -62,7 +63,19 @@ for (i in 1:length(all_artists)) {
     mutate(percent = n/sum(n)) %>%
     pull(percent) %>% first()
   if(percent_majority <= .5) {
-    counter = counter + 1
+    artist_main_genre = artist_genres_subgenres %>%
+      filter(artist == all_artists[i]) %>%
+      group_by(genre) %>% summarise(avg_rank = mean(rownumber)) %>%
+      arrange(avg_rank) %>% pull(genre) %>% first()
   }
+  else {
+    artist_main_genre = artist_genres_subgenres %>%
+      filter(artist == all_artists[i]) %>%
+      group_by(genre) %>% count(sort = T) %>% pull(genre) %>% first()
+  }
+  datalist[[i]] = tibble(artist = all_artists[i], genre = artist_main_genre)
 }
-counter / length(all_artists)
+raw = do.call(rbind, datalist)
+
+# export to csv
+write_csv(raw, 'artist-genres.csv')
