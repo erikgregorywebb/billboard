@@ -1,0 +1,2616 @@
+,artist,genre
+0,Sean Paul,dance pop
+1,Sean Paul,dancehall
+2,Sean Paul,pop
+3,Sean Paul,pop rap
+0,Chris Brown,dance pop
+1,Chris Brown,pop
+2,Chris Brown,pop rap
+3,Chris Brown,r&b
+4,Chris Brown,rap
+0,Nickelback,alternative metal
+1,Nickelback,canadian rock
+2,Nickelback,nu metal
+3,Nickelback,post-grunge
+0,Ne-Yo,baton rouge rap
+1,Ne-Yo,trap
+0,The Fray,modern rock
+1,The Fray,neo mellow
+2,The Fray,piano rock
+3,The Fray,pop
+4,The Fray,pop rock
+0,Rihanna,barbadian pop
+1,Rihanna,dance pop
+2,Rihanna,pop
+3,Rihanna,post-teen pop
+4,Rihanna,r&b
+5,Rihanna,urban contemporary
+0,The Pussycat Dolls,dance pop
+1,The Pussycat Dolls,girl group
+2,The Pussycat Dolls,pop
+3,The Pussycat Dolls,pop rap
+4,The Pussycat Dolls,post-teen pop
+5,The Pussycat Dolls,r&b
+6,The Pussycat Dolls,urban contemporary
+0,The All-American Rejects,modern rock
+1,The All-American Rejects,neo mellow
+2,The All-American Rejects,pop punk
+3,The All-American Rejects,pop rock
+4,The All-American Rejects,post-grunge
+0,Rascal Flatts,contemporary country
+1,Rascal Flatts,country
+2,Rascal Flatts,country road
+0,Justin Timberlake,dance pop
+1,Justin Timberlake,pop
+0,Beyonce,dance pop
+1,Beyonce,pop
+2,Beyonce,post-teen pop
+3,Beyonce,r&b
+0,Mary J. Blige,dance pop
+1,Mary J. Blige,hip pop
+2,Mary J. Blige,neo soul
+3,Mary J. Blige,pop
+4,Mary J. Blige,r&b
+5,Mary J. Blige,urban contemporary
+0,Daniel Powter,canadian pop
+1,Daniel Powter,neo mellow
+2,Daniel Powter,pop rock
+0,James Blunt,neo mellow
+1,James Blunt,pop
+2,James Blunt,pop rock
+0,Kelly Clarkson,dance pop
+1,Kelly Clarkson,neo mellow
+2,Kelly Clarkson,pop
+3,Kelly Clarkson,pop rock
+4,Kelly Clarkson,post-teen pop
+5,Kelly Clarkson,talent show
+6,Kelly Clarkson,viral pop
+0,Natasha Bedingfield,dance pop
+1,Natasha Bedingfield,europop
+2,Natasha Bedingfield,neo mellow
+3,Natasha Bedingfield,pop
+4,Natasha Bedingfield,pop rock
+5,Natasha Bedingfield,post-teen pop
+0,Fall Out Boy,emo
+1,Fall Out Boy,modern rock
+2,Fall Out Boy,pop punk
+0,T.I.,atl hip hop
+1,T.I.,dance pop
+2,T.I.,dirty south rap
+3,T.I.,gangster rap
+4,T.I.,hip hop
+5,T.I.,pop rap
+6,T.I.,rap
+7,T.I.,southern hip hop
+8,T.I.,trap
+0,Yung Joc,atl hip hop
+1,Yung Joc,crunk
+2,Yung Joc,dirty south rap
+3,Yung Joc,gangster rap
+4,Yung Joc,pop rap
+5,Yung Joc,rap
+6,Yung Joc,southern hip hop
+7,Yung Joc,trap
+0,Nelly Furtado,canadian latin
+1,Nelly Furtado,canadian pop
+2,Nelly Furtado,dance pop
+3,Nelly Furtado,pop
+4,Nelly Furtado,pop rap
+5,Nelly Furtado,pop rock
+0,Gnarls Barkley,atl hip hop
+1,Gnarls Barkley,neo soul
+0,Chamillionaire,dirty south rap
+1,Chamillionaire,gangster rap
+2,Chamillionaire,pop rap
+3,Chamillionaire,rap
+4,Chamillionaire,southern hip hop
+5,Chamillionaire,trap
+0,Fergie,dance pop
+1,Fergie,pop
+2,Fergie,post-teen pop
+3,Fergie,urban contemporary
+0,Cassie,dance pop
+1,Cassie,deep pop r&b
+2,Cassie,hip pop
+3,Cassie,pop rap
+4,Cassie,r&b
+5,Cassie,urban contemporary
+0,The Black Eyed Peas,
+0,Red Hot Chili Peppers,alternative rock
+1,Red Hot Chili Peppers,funk metal
+2,Red Hot Chili Peppers,funk rock
+3,Red Hot Chili Peppers,permanent wave
+4,Red Hot Chili Peppers,post-grunge
+5,Red Hot Chili Peppers,rock
+0,Shakira,colombian pop
+1,Shakira,dance pop
+2,Shakira,latin
+3,Shakira,latin pop
+4,Shakira,pop
+0,Nelly,dance pop
+1,Nelly,hip hop
+2,Nelly,pop
+3,Nelly,pop rap
+4,Nelly,rap
+5,Nelly,southern hip hop
+6,Nelly,st louis rap
+7,Nelly,urban contemporary
+0,Panic! At The Disco,baroque pop
+1,Panic! At The Disco,emo
+2,Panic! At The Disco,modern rock
+3,Panic! At The Disco,pop punk
+0,Mariah Carey,dance pop
+1,Mariah Carey,pop
+2,Mariah Carey,r&b
+3,Mariah Carey,urban contemporary
+0,Dem Franchize Boyz,atl hip hop
+1,Dem Franchize Boyz,crunk
+2,Dem Franchize Boyz,dirty south rap
+3,Dem Franchize Boyz,gangster rap
+4,Dem Franchize Boyz,pop rap
+5,Dem Franchize Boyz,rap
+6,Dem Franchize Boyz,southern hip hop
+7,Dem Franchize Boyz,trap
+0,Eminem,detroit hip hop
+1,Eminem,hip hop
+2,Eminem,rap
+0,T-Pain,dance pop
+1,T-Pain,hip hop
+2,T-Pain,pop
+3,T-Pain,pop rap
+4,T-Pain,r&b
+5,T-Pain,rap
+6,T-Pain,southern hip hop
+7,T-Pain,trap
+8,T-Pain,urban contemporary
+0,Christina Aguilera,dance pop
+1,Christina Aguilera,europop
+2,Christina Aguilera,pop
+3,Christina Aguilera,pop rap
+4,Christina Aguilera,post-teen pop
+0,Carrie Underwood,contemporary country
+1,Carrie Underwood,country
+2,Carrie Underwood,country dawn
+3,Carrie Underwood,country road
+4,Carrie Underwood,dance pop
+5,Carrie Underwood,oklahoma country
+6,Carrie Underwood,pop
+0,Snow Patrol,irish rock
+1,Snow Patrol,modern rock
+2,Snow Patrol,neo mellow
+3,Snow Patrol,permanent wave
+4,Snow Patrol,pop rock
+5,Snow Patrol,rock
+0,Ludacris,atl hip hop
+1,Ludacris,dance pop
+2,Ludacris,dirty south rap
+3,Ludacris,hip hop
+4,Ludacris,pop rap
+5,Ludacris,rap
+6,Ludacris,southern hip hop
+7,Ludacris,trap
+0,Jamie Foxx,dance pop
+1,Jamie Foxx,hip hop
+2,Jamie Foxx,hip pop
+3,Jamie Foxx,neo soul
+4,Jamie Foxx,pop rap
+5,Jamie Foxx,r&b
+6,Jamie Foxx,southern hip hop
+7,Jamie Foxx,urban contemporary
+0,Hinder,alternative metal
+1,Hinder,nu metal
+2,Hinder,pop rock
+3,Hinder,post-grunge
+0,KT Tunstall,lilith
+1,KT Tunstall,neo mellow
+2,KT Tunstall,pop rock
+3,KT Tunstall,scottish singer-songwriter
+0,Cascada,bubblegum dance
+1,Cascada,dance pop
+2,Cascada,eurodance
+3,Cascada,europop
+4,Cascada,german techno
+5,Cascada,melbourne bounce international
+6,Cascada,pop rap
+0,D4L,atl hip hop
+1,D4L,crunk
+2,D4L,dirty south rap
+3,D4L,gangster rap
+4,D4L,pop rap
+5,D4L,southern hip hop
+6,D4L,trap
+0,Kenny Chesney,contemporary country
+1,Kenny Chesney,country
+2,Kenny Chesney,country road
+0,Keyshia Cole,dance pop
+1,Keyshia Cole,deep pop r&b
+2,Keyshia Cole,hip pop
+3,Keyshia Cole,neo soul
+4,Keyshia Cole,pop
+5,Keyshia Cole,pop rap
+6,Keyshia Cole,r&b
+7,Keyshia Cole,rap
+8,Keyshia Cole,urban contemporary
+0,Kanye West,chicago rap
+1,Kanye West,rap
+0,E-40,cali rap
+1,E-40,gangster rap
+2,E-40,hip hop
+3,E-40,hyphy
+4,E-40,oakland hip hop
+5,E-40,pop rap
+6,E-40,rap
+7,E-40,southern hip hop
+8,E-40,trap
+9,E-40,west coast rap
+0,Juelz Santana,gangster rap
+1,Juelz Santana,harlem hip hop
+2,Juelz Santana,hip hop
+3,Juelz Santana,nyc rap
+4,Juelz Santana,pop rap
+5,Juelz Santana,rap
+6,Juelz Santana,trap
+0,Nick Lachey,dance pop
+0,Busta Rhymes,east coast hip hop
+1,Busta Rhymes,hardcore hip hop
+2,Busta Rhymes,hip hop
+3,Busta Rhymes,hip pop
+4,Busta Rhymes,pop rap
+5,Busta Rhymes,rap
+0,Lil Jon,atl hip hop
+1,Lil Jon,crunk
+2,Lil Jon,dance pop
+3,Lil Jon,dirty south rap
+4,Lil Jon,pop rap
+5,Lil Jon,southern hip hop
+0,Akon,dance pop
+0,Bon Jovi,glam metal
+1,Bon Jovi,rock
+0,Ciara,dance pop
+1,Ciara,hip pop
+2,Ciara,pop
+3,Ciara,pop rap
+4,Ciara,post-teen pop
+5,Ciara,r&b
+6,Ciara,rap
+7,Ciara,urban contemporary
+0,Fort Minor,rap rock
+0,Three 6 Mafia,crunk
+1,Three 6 Mafia,dirty south rap
+2,Three 6 Mafia,gangster rap
+3,Three 6 Mafia,hip hop
+4,Three 6 Mafia,memphis hip hop
+5,Three 6 Mafia,pop rap
+6,Three 6 Mafia,rap
+7,Three 6 Mafia,southern hip hop
+8,Three 6 Mafia,tennessee hip hop
+9,Three 6 Mafia,trap
+0,Bubba Sparxxx,atl hip hop
+1,Bubba Sparxxx,country rap
+2,Bubba Sparxxx,dirty south rap
+3,Bubba Sparxxx,pop rap
+4,Bubba Sparxxx,redneck
+5,Bubba Sparxxx,southern hip hop
+0,Tim McGraw,contemporary country
+1,Tim McGraw,country
+2,Tim McGraw,country road
+0,Jibbs,dirty south rap
+1,Jibbs,pop rap
+2,Jibbs,southern hip hop
+0,Dierks Bentley,contemporary country
+1,Dierks Bentley,country
+2,Dierks Bentley,country road
+3,Dierks Bentley,modern country rock
+0,Ray J,pop rap
+1,Ray J,r&b
+2,Ray J,urban contemporary
+0,Josh Turner,contemporary country
+1,Josh Turner,country
+2,Josh Turner,country road
+3,Josh Turner,modern country rock
+0,Keith Urban,australian country
+1,Keith Urban,australian pop
+2,Keith Urban,contemporary country
+3,Keith Urban,country
+4,Keith Urban,country road
+0,Lil Wayne,hip hop
+1,Lil Wayne,new orleans rap
+2,Lil Wayne,pop rap
+3,Lil Wayne,rap
+4,Lil Wayne,trap
+0,Brad Paisley,contemporary country
+1,Brad Paisley,country
+2,Brad Paisley,country road
+0,Ashlee Simpson,dance pop
+1,Ashlee Simpson,pop rock
+2,Ashlee Simpson,post-teen pop
+0,Cherish,atl hip hop
+1,Cherish,dance pop
+2,Cherish,deep pop r&b
+3,Cherish,girl group
+4,Cherish,hip pop
+5,Cherish,pop rap
+6,Cherish,r&b
+7,Cherish,southern hip hop
+8,Cherish,urban contemporary
+0,JoJo,dance pop
+1,JoJo,hip pop
+2,JoJo,pop
+3,JoJo,pop rap
+4,JoJo,post-teen pop
+5,JoJo,r&b
+6,JoJo,urban contemporary
+0,Danity Kane,dance pop
+1,Danity Kane,deep pop r&b
+2,Danity Kane,girl group
+3,Danity Kane,hip pop
+4,Danity Kane,post-teen pop
+5,Danity Kane,r&b
+6,Danity Kane,urban contemporary
+0,Field Mob,atl hip hop
+1,Field Mob,dirty south rap
+2,Field Mob,gangster rap
+3,Field Mob,pop rap
+4,Field Mob,southern hip hop
+5,Field Mob,trap
+0,Timbaland,dance pop
+1,Timbaland,hip hop
+2,Timbaland,hip pop
+3,Timbaland,pop
+4,Timbaland,pop rap
+5,Timbaland,urban contemporary
+0,Daddy Yankee,latin
+1,Daddy Yankee,latin hip hop
+2,Daddy Yankee,reggaeton
+3,Daddy Yankee,tropical
+0,Evanescence,alternative metal
+1,Evanescence,post-grunge
+0,Weezer,alternative rock
+1,Weezer,modern power pop
+2,Weezer,modern rock
+3,Weezer,permanent wave
+4,Weezer,pop punk
+5,Weezer,pop rock
+6,Weezer,post-grunge
+7,Weezer,rock
+0,Madonna,dance pop
+1,Madonna,pop
+0,Blue October,pop rock
+1,Blue October,post-grunge
+2,Blue October,san marcos tx indie
+0,Toby Keith,contemporary country
+1,Toby Keith,country
+2,Toby Keith,country road
+3,Toby Keith,oklahoma country
+0,Lifehouse,alternative metal
+1,Lifehouse,neo mellow
+2,Lifehouse,pop rock
+3,Lifehouse,post-grunge
+0,Wyclef Jean,rap kreyol
+0,Bow Wow,dance pop
+1,Bow Wow,hip hop
+2,Bow Wow,hip pop
+3,Bow Wow,pop
+4,Bow Wow,pop rap
+5,Bow Wow,r&b
+6,Bow Wow,rap
+7,Bow Wow,southern hip hop
+8,Bow Wow,urban contemporary
+0,Young Dro,atl hip hop
+1,Young Dro,crunk
+2,Young Dro,dirty south rap
+3,Young Dro,gangster rap
+4,Young Dro,hip hop
+5,Young Dro,pop rap
+6,Young Dro,rap
+7,Young Dro,southern hip hop
+8,Young Dro,trap
+0,John Mayer,neo mellow
+1,John Mayer,pop
+2,John Mayer,pop rock
+3,John Mayer,singer-songwriter
+0,Paul Wall,chopped and screwed
+1,Paul Wall,crunk
+2,Paul Wall,dirty south rap
+3,Paul Wall,gangster rap
+4,Paul Wall,hip hop
+5,Paul Wall,houston rap
+6,Paul Wall,pop rap
+7,Paul Wall,rap
+8,Paul Wall,southern hip hop
+9,Paul Wall,trap
+0,Kelis,dance pop
+1,Kelis,electropop
+2,Kelis,hip pop
+3,Kelis,neo soul
+4,Kelis,r&b
+5,Kelis,urban contemporary
+0,Chingy,crunk
+1,Chingy,dance pop
+2,Chingy,dirty south rap
+3,Chingy,gangster rap
+4,Chingy,hip hop
+5,Chingy,hip pop
+6,Chingy,pop rap
+7,Chingy,rap
+8,Chingy,southern hip hop
+9,Chingy,urban contemporary
+0,Gwen Stefani,dance pop
+1,Gwen Stefani,europop
+2,Gwen Stefani,hip pop
+3,Gwen Stefani,pop
+4,Gwen Stefani,pop rock
+5,Gwen Stefani,post-teen pop
+6,Gwen Stefani,urban contemporary
+0,Krayzie Bone,gangster rap
+1,Krayzie Bone,ohio hip hop
+0,George Strait,contemporary country
+1,George Strait,country
+2,George Strait,country road
+0,Slim Thug,crunk
+1,Slim Thug,dirty south rap
+2,Slim Thug,gangster rap
+3,Slim Thug,hip hop
+4,Slim Thug,houston rap
+5,Slim Thug,pop rap
+6,Slim Thug,rap
+7,Slim Thug,southern hip hop
+8,Slim Thug,trap
+0,Trace Adkins,contemporary country
+1,Trace Adkins,country
+2,Trace Adkins,country road
+3,Trace Adkins,modern country rock
+4,Trace Adkins,redneck
+0,Gorillaz,alternative hip hop
+1,Gorillaz,art pop
+0,Taylor Hicks,idol
+0,Snoop Dogg,g funk
+1,Snoop Dogg,gangster rap
+2,Snoop Dogg,hip hop
+3,Snoop Dogg,rap
+4,Snoop Dogg,west coast rap
+0,Little Big Town,contemporary country
+1,Little Big Town,country
+2,Little Big Town,country dawn
+3,Little Big Town,country road
+4,Little Big Town,modern country rock
+0,P!nk,dance pop
+1,P!nk,pop
+2,P!nk,post-teen pop
+0,Goo Goo Dolls,alternative rock
+1,Goo Goo Dolls,neo mellow
+2,Goo Goo Dolls,permanent wave
+3,Goo Goo Dolls,pop rock
+4,Goo Goo Dolls,post-grunge
+0,Faith Hill,contemporary country
+1,Faith Hill,country
+2,Faith Hill,country dawn
+3,Faith Hill,country road
+4,Faith Hill,dance pop
+5,Faith Hill,pop rock
+0,Teddy Geiger,acoustic pop
+1,Teddy Geiger,la pop
+2,Teddy Geiger,neo mellow
+3,Teddy Geiger,pop rock
+4,Teddy Geiger,transpop
+0,The Wreckers,candy pop
+1,The Wreckers,country
+2,The Wreckers,country dawn
+0,Daughtry,alternative metal
+1,Daughtry,neo mellow
+2,Daughtry,pop rock
+3,Daughtry,post-grunge
+0,Avril Lavigne,canadian pop
+1,Avril Lavigne,candy pop
+2,Avril Lavigne,dance pop
+3,Avril Lavigne,pop
+4,Avril Lavigne,post-teen pop
+0,Maroon 5,pop
+1,Maroon 5,pop rock
+0,Plain White T's,neo mellow
+1,Plain White T's,pop
+2,Plain White T's,pop punk
+3,Plain White T's,pop rock
+0,Mims,pop rap
+0,Unk,chillwave
+1,Unk,indie pop
+2,Unk,indie rock
+3,Unk,indie soul
+4,Unk,indietronica
+5,Unk,kiwi rock
+6,Unk,neo-psychedelic
+7,Unk,new rave
+8,Unk,portland hip hop
+9,Unk,psychedelic pop
+0,Shop Boyz,atl hip hop
+1,Shop Boyz,dirty south rap
+2,Shop Boyz,pop rap
+3,Shop Boyz,southern hip hop
+0,Sean Kingston,dance pop
+1,Sean Kingston,miami hip hop
+2,Sean Kingston,pop
+3,Sean Kingston,post-teen pop
+4,Sean Kingston,urban contemporary
+0,Soulja Boy Tell'em,atl hip hop
+1,Soulja Boy Tell'em,dance pop
+2,Soulja Boy Tell'em,dirty south rap
+3,Soulja Boy Tell'em,pop rap
+4,Soulja Boy Tell'em,rap
+5,Soulja Boy Tell'em,southern hip hop
+6,Soulja Boy Tell'em,trap
+0,Lloyd,dance pop
+1,Lloyd,deep pop r&b
+2,Lloyd,hip pop
+3,Lloyd,pop
+4,Lloyd,pop rap
+5,Lloyd,r&b
+6,Lloyd,southern hip hop
+7,Lloyd,trap
+8,Lloyd,urban contemporary
+0,Jim Jones,gangster rap
+1,Jim Jones,harlem hip hop
+2,Jim Jones,hip hop
+3,Jim Jones,pop rap
+4,Jim Jones,rap
+5,Jim Jones,trap
+0,Linkin Park,alternative metal
+1,Linkin Park,nu metal
+2,Linkin Park,post-grunge
+3,Linkin Park,rap metal
+0,JAY-Z,east coast hip hop
+1,JAY-Z,hip hop
+2,JAY-Z,pop rap
+3,JAY-Z,rap
+0,My Chemical Romance,emo
+1,My Chemical Romance,modern rock
+2,My Chemical Romance,pop punk
+0,Gym Class Heroes,dance pop
+1,Gym Class Heroes,pop
+2,Gym Class Heroes,pop rap
+3,Gym Class Heroes,pop rock
+0,Diddy,dance pop
+1,Diddy,east coast hip hop
+2,Diddy,hip hop
+3,Diddy,hip pop
+4,Diddy,pop rap
+5,Diddy,r&b
+6,Diddy,rap
+0,Huey,album rock
+1,Huey,classic rock
+2,Huey,folk rock
+3,Huey,mellow gold
+4,Huey,new wave pop
+5,Huey,pop rock
+6,Huey,rock
+7,Huey,soft rock
+0,Taylor Swift,dance pop
+1,Taylor Swift,pop
+2,Taylor Swift,post-teen pop
+0,Omarion,dance pop
+1,Omarion,deep pop r&b
+2,Omarion,hip pop
+3,Omarion,pop
+4,Omarion,r&b
+5,Omarion,rap
+6,Omarion,southern hip hop
+7,Omarion,trap
+8,Omarion,urban contemporary
+0,Robin Thicke,dance pop
+1,Robin Thicke,hip pop
+2,Robin Thicke,neo soul
+3,Robin Thicke,pop
+4,Robin Thicke,r&b
+5,Robin Thicke,urban contemporary
+0,Hurricane Chris,deep southern trap
+1,Hurricane Chris,dirty south rap
+2,Hurricane Chris,gangster rap
+3,Hurricane Chris,pop rap
+4,Hurricane Chris,rap
+5,Hurricane Chris,southern hip hop
+6,Hurricane Chris,trap
+0,The Red Jumpsuit Apparatus,emo
+1,The Red Jumpsuit Apparatus,pop punk
+2,The Red Jumpsuit Apparatus,pop rock
+3,The Red Jumpsuit Apparatus,post-grunge
+4,The Red Jumpsuit Apparatus,screamo
+0,Fabolous,dance pop
+1,Fabolous,gangster rap
+2,Fabolous,hip hop
+3,Fabolous,hip pop
+4,Fabolous,pop rap
+5,Fabolous,r&b
+6,Fabolous,rap
+7,Fabolous,trap
+8,Fabolous,urban contemporary
+0,50 Cent,east coast hip hop
+1,50 Cent,gangster rap
+2,50 Cent,hip hop
+3,50 Cent,pop rap
+4,50 Cent,queens hip hop
+5,50 Cent,rap
+0,Amy Winehouse,british soul
+1,Amy Winehouse,neo soul
+0,Rodney Atkins,contemporary country
+1,Rodney Atkins,country
+2,Rodney Atkins,country road
+3,Rodney Atkins,modern country rock
+0,Sugarland,contemporary country
+1,Sugarland,country
+2,Sugarland,country dawn
+3,Sugarland,country road
+4,Sugarland,modern country rock
+5,Sugarland,pop rock
+0,Musiq Soulchild,dance pop
+1,Musiq Soulchild,hip pop
+2,Musiq Soulchild,neo soul
+3,Musiq Soulchild,new jack swing
+4,Musiq Soulchild,quiet storm
+5,Musiq Soulchild,r&b
+6,Musiq Soulchild,urban contemporary
+0,Colbie Caillat,acoustic pop
+1,Colbie Caillat,dance pop
+2,Colbie Caillat,neo mellow
+3,Colbie Caillat,pop
+4,Colbie Caillat,pop rock
+5,Colbie Caillat,post-teen pop
+6,Colbie Caillat,viral pop
+0,J. Holiday,bassline
+1,J. Holiday,deep pop r&b
+2,J. Holiday,hip pop
+3,J. Holiday,new jack swing
+4,J. Holiday,pop rap
+5,J. Holiday,r&b
+6,J. Holiday,urban contemporary
+0,Fat Joe,bronx hip hop
+1,Fat Joe,east coast hip hop
+2,Fat Joe,gangster rap
+3,Fat Joe,hardcore hip hop
+4,Fat Joe,hip hop
+5,Fat Joe,hip pop
+6,Fat Joe,pop rap
+7,Fat Joe,rap
+8,Fat Joe,trap
+0,Alicia Keys,hip pop
+1,Alicia Keys,neo soul
+2,Alicia Keys,pop
+3,Alicia Keys,r&b
+4,Alicia Keys,urban contemporary
+0,Plies,deep pop r&b
+1,Plies,dirty south rap
+2,Plies,gangster rap
+3,Plies,hip hop
+4,Plies,miami hip hop
+5,Plies,pop rap
+6,Plies,rap
+7,Plies,southern hip hop
+8,Plies,trap
+9,Plies,urban contemporary
+0,Boys Like Girls,neo mellow
+1,Boys Like Girls,neon pop punk
+2,Boys Like Girls,pop punk
+3,Boys Like Girls,pop rock
+4,Boys Like Girls,post-teen pop
+0,Hellogoodbye,neon pop punk
+1,Hellogoodbye,pop emo
+2,Hellogoodbye,pop punk
+0,Pretty Ricky,dance pop
+1,Pretty Ricky,deep pop r&b
+2,Pretty Ricky,hip hop
+3,Pretty Ricky,hip pop
+4,Pretty Ricky,miami hip hop
+5,Pretty Ricky,pop rap
+6,Pretty Ricky,r&b
+7,Pretty Ricky,rap
+8,Pretty Ricky,southern hip hop
+9,Pretty Ricky,trap
+10,Pretty Ricky,urban contemporary
+0,Baby Boy Da Prince,dirty south rap
+1,Baby Boy Da Prince,pop rap
+2,Baby Boy Da Prince,southern hip hop
+0,Bone Thugs-N-Harmony,gangster rap
+1,Bone Thugs-N-Harmony,hip hop
+2,Bone Thugs-N-Harmony,ohio hip hop
+3,Bone Thugs-N-Harmony,pop rap
+4,Bone Thugs-N-Harmony,rap
+5,Bone Thugs-N-Harmony,southern hip hop
+0,Three Days Grace,alternative metal
+1,Three Days Grace,canadian metal
+2,Three Days Grace,canadian rock
+3,Three Days Grace,nu metal
+4,Three Days Grace,pop punk
+5,Three Days Grace,post-grunge
+0,Paula DeAnda,dance pop
+1,Paula DeAnda,hip pop
+2,Paula DeAnda,r&b
+3,Paula DeAnda,urban contemporary
+0,Jonas Brothers,boy band
+1,Jonas Brothers,dance pop
+2,Jonas Brothers,pop
+3,Jonas Brothers,pop rock
+4,Jonas Brothers,post-teen pop
+0,Finger Eleven,alternative metal
+1,Finger Eleven,canadian rock
+2,Finger Eleven,funk metal
+3,Finger Eleven,nu metal
+4,Finger Eleven,post-grunge
+5,Finger Eleven,rap rock
+6,Finger Eleven,wrestling
+0,Rich Boy,alabama rap
+1,Rich Boy,dirty south rap
+2,Rich Boy,gangster rap
+3,Rich Boy,pop rap
+4,Rich Boy,rap
+5,Rich Boy,southern hip hop
+6,Rich Boy,trap
+0,Fantasia,dance pop
+1,Fantasia,deep pop r&b
+2,Fantasia,hip pop
+3,Fantasia,neo soul
+4,Fantasia,pop rap
+5,Fantasia,quiet storm
+6,Fantasia,r&b
+7,Fantasia,urban contemporary
+0,Hannah Montana,dance pop
+1,Hannah Montana,pop
+2,Hannah Montana,post-teen pop
+0,Keri Hilson,dance pop
+1,Keri Hilson,deep pop r&b
+2,Keri Hilson,hip pop
+3,Keri Hilson,pop
+4,Keri Hilson,post-teen pop
+5,Keri Hilson,r&b
+6,Keri Hilson,southern hip hop
+7,Keri Hilson,urban contemporary
+0,Big & Rich,contemporary country
+1,Big & Rich,country
+2,Big & Rich,country road
+3,Big & Rich,modern country rock
+0,Jason Aldean,contemporary country
+1,Jason Aldean,country
+2,Jason Aldean,country road
+0,DJ Khaled,dance pop
+1,DJ Khaled,dirty south rap
+2,DJ Khaled,hip hop
+3,DJ Khaled,miami hip hop
+4,DJ Khaled,pop
+5,DJ Khaled,pop rap
+6,DJ Khaled,rap
+7,DJ Khaled,southern hip hop
+8,DJ Khaled,trap
+9,DJ Khaled,urban contemporary
+0,Augustana,acoustic pop
+1,Augustana,neo mellow
+2,Augustana,piano rock
+3,Augustana,pop rock
+0,Britney Spears,dance pop
+1,Britney Spears,pop
+2,Britney Spears,pop rap
+3,Britney Spears,post-teen pop
+0,Eve,dance pop
+1,Eve,hip hop
+2,Eve,hip pop
+3,Eve,philly rap
+4,Eve,pop rap
+5,Eve,r&b
+6,Eve,rap
+7,Eve,urban contemporary
+0,Patrick Stump,neon pop punk
+1,Patrick Stump,pop punk
+0,Kilo,alternative r&b
+1,Kilo,art pop
+2,Kilo,electropop
+3,Kilo,escape room
+4,Kilo,hyperpop
+5,Kilo,indie r&b
+0,Leona Lewis,british soul
+1,Leona Lewis,dance pop
+2,Leona Lewis,europop
+3,Leona Lewis,neo mellow
+4,Leona Lewis,pop
+5,Leona Lewis,post-teen pop
+6,Leona Lewis,talent show
+7,Leona Lewis,urban contemporary
+0,Flo Rida,dance pop
+1,Flo Rida,edm
+2,Flo Rida,miami hip hop
+3,Flo Rida,pop
+4,Flo Rida,pop rap
+0,Jordin Sparks,dance pop
+1,Jordin Sparks,neo mellow
+2,Jordin Sparks,pop
+3,Jordin Sparks,pop rap
+4,Jordin Sparks,pop rock
+5,Jordin Sparks,post-teen pop
+6,Jordin Sparks,r&b
+7,Jordin Sparks,urban contemporary
+0,Katy Perry,dance pop
+1,Katy Perry,pop
+2,Katy Perry,post-teen pop
+0,Sara Bareilles,acoustic pop
+1,Sara Bareilles,dance pop
+2,Sara Bareilles,lilith
+3,Sara Bareilles,neo mellow
+4,Sara Bareilles,pop
+5,Sara Bareilles,pop rock
+0,Coldplay,permanent wave
+1,Coldplay,pop
+0,Miley Cyrus,dance pop
+1,Miley Cyrus,pop
+2,Miley Cyrus,post-teen pop
+0,Usher,atl hip hop
+1,Usher,dance pop
+2,Usher,pop
+3,Usher,r&b
+4,Usher,south carolina hip hop
+5,Usher,urban contemporary
+0,OneRepublic,dance pop
+1,OneRepublic,piano rock
+2,OneRepublic,pop
+3,OneRepublic,pop rock
+0,The-Dream,dance pop
+1,The-Dream,deep pop r&b
+2,The-Dream,hip hop
+3,The-Dream,hip pop
+4,The-Dream,pop
+5,The-Dream,r&b
+6,The-Dream,southern hip hop
+7,The-Dream,trap
+8,The-Dream,urban contemporary
+0,Jesse McCartney,dance pop
+1,Jesse McCartney,neo mellow
+2,Jesse McCartney,pop
+3,Jesse McCartney,pop rock
+4,Jesse McCartney,post-teen pop
+5,Jesse McCartney,urban contemporary
+6,Jesse McCartney,viral pop
+0,Jason Mraz,acoustic pop
+1,Jason Mraz,neo mellow
+2,Jason Mraz,pop
+3,Jason Mraz,pop rock
+0,Metro Station,electropowerpop
+1,Metro Station,neon pop punk
+2,Metro Station,pixie
+3,Metro Station,pop punk
+0,David Cook,idol
+1,David Cook,neo mellow
+2,David Cook,pop rock
+3,David Cook,talent show
+0,Yung Berg,chicago rap
+1,Yung Berg,pop rap
+0,M.I.A.,dance pop
+1,M.I.A.,escape room
+2,M.I.A.,new rave
+0,Paramore,candy pop
+1,Paramore,emo
+2,Paramore,pixie
+3,Paramore,pop emo
+4,Paramore,pop punk
+0,Buckcherry,alternative metal
+1,Buckcherry,glam metal
+2,Buckcherry,hard rock
+3,Buckcherry,nu metal
+4,Buckcherry,post-grunge
+5,Buckcherry,rock
+6,Buckcherry,sleaze rock
+0,3 Doors Down,alternative metal
+1,3 Doors Down,nu metal
+2,3 Doors Down,pop rock
+3,3 Doors Down,post-grunge
+0,Kardinal Offishall,pop rap
+1,Kardinal Offishall,toronto rap
+0,Alan Jackson,contemporary country
+1,Alan Jackson,country
+2,Alan Jackson,country road
+0,Secondhand Serenade,neo mellow
+1,Secondhand Serenade,piano rock
+2,Secondhand Serenade,pixie
+3,Secondhand Serenade,pop punk
+4,Secondhand Serenade,pop rock
+0,Static Major,indie r&b
+0,Trey Songz,dance pop
+1,Trey Songz,pop
+2,Trey Songz,r&b
+3,Trey Songz,southern hip hop
+4,Trey Songz,trap
+5,Trey Songz,urban contemporary
+0,Colby O'Donis,pop rap
+1,Colby O'Donis,urban contemporary
+0,David Archuleta,dance pop
+1,David Archuleta,idol
+2,David Archuleta,lds youth
+3,David Archuleta,neo mellow
+4,David Archuleta,post-teen pop
+5,David Archuleta,viral pop
+0,Montgomery Gentry,contemporary country
+1,Montgomery Gentry,country
+2,Montgomery Gentry,country road
+3,Montgomery Gentry,modern country rock
+4,Montgomery Gentry,redneck
+0,Estelle,r&b
+0,Webbie,baton rouge rap
+1,Webbie,crunk
+2,Webbie,deep southern trap
+3,Webbie,dirty south rap
+4,Webbie,gangster rap
+5,Webbie,pop rap
+6,Webbie,rap
+7,Webbie,southern hip hop
+8,Webbie,trap
+0,Rick Ross,dirty south rap
+1,Rick Ross,gangster rap
+2,Rick Ross,hip hop
+3,Rick Ross,pop rap
+4,Rick Ross,rap
+5,Rick Ross,southern hip hop
+6,Rick Ross,trap
+0,Baby Bash,chicano rap
+1,Baby Bash,dance pop
+2,Baby Bash,dirty south rap
+3,Baby Bash,gangster rap
+4,Baby Bash,hip hop
+5,Baby Bash,hip pop
+6,Baby Bash,latin hip hop
+7,Baby Bash,pop rap
+8,Baby Bash,r&b
+9,Baby Bash,rap
+10,Baby Bash,southern hip hop
+11,Baby Bash,texas latin rap
+12,Baby Bash,urban contemporary
+0,Kid Rock,alternative metal
+1,Kid Rock,nu metal
+2,Kid Rock,post-grunge
+3,Kid Rock,rock
+0,Gavin DeGraw,acoustic pop
+1,Gavin DeGraw,neo mellow
+2,Gavin DeGraw,pop
+3,Gavin DeGraw,pop rock
+0,Jazmine Sullivan,alternative r&b
+1,Jazmine Sullivan,dance pop
+2,Jazmine Sullivan,deep pop r&b
+3,Jazmine Sullivan,hip pop
+4,Jazmine Sullivan,neo soul
+5,Jazmine Sullivan,pop
+6,Jazmine Sullivan,pop rap
+7,Jazmine Sullivan,r&b
+8,Jazmine Sullivan,urban contemporary
+0,Gavin Rossdale,pop rock
+1,Gavin Rossdale,post-grunge
+0,Lupe Fiasco,chicago rap
+1,Lupe Fiasco,conscious hip hop
+2,Lupe Fiasco,hip hop
+3,Lupe Fiasco,political hip hop
+4,Lupe Fiasco,pop rap
+5,Lupe Fiasco,rap
+6,Lupe Fiasco,southern hip hop
+0,Kevin Rudolf,dance pop
+1,Kevin Rudolf,pop rap
+0,David Banner,conscious hip hop
+1,David Banner,crunk
+2,David Banner,dirty south rap
+3,David Banner,gangster rap
+4,David Banner,hip hop
+5,David Banner,mississippi hip hop
+6,David Banner,pop rap
+7,David Banner,rap
+8,David Banner,southern hip hop
+9,David Banner,trap
+0,Saving Abel,alternative metal
+1,Saving Abel,nu metal
+2,Saving Abel,post-grunge
+0,Yael Naim,french indie pop
+0,Pitbull,dance pop
+1,Pitbull,latin
+2,Pitbull,miami hip hop
+3,Pitbull,pop
+4,Pitbull,pop rap
+0,Jennifer Hudson,dance pop
+1,Jennifer Hudson,hip pop
+2,Jennifer Hudson,hollywood
+3,Jennifer Hudson,neo soul
+4,Jennifer Hudson,pop
+5,Jennifer Hudson,r&b
+6,Jennifer Hudson,urban contemporary
+0,The Game,gangster rap
+1,The Game,hip hop
+2,The Game,pop rap
+3,The Game,rap
+4,The Game,southern hip hop
+5,The Game,trap
+0,Mario,dance pop
+1,Mario,deep pop r&b
+2,Mario,hip pop
+3,Mario,pop
+4,Mario,r&b
+5,Mario,rap
+6,Mario,urban contemporary
+0,James Otto,contemporary country
+1,James Otto,country
+2,James Otto,country road
+3,James Otto,modern country rock
+0,Duffy,
+0,matchbox twenty,neo mellow
+1,matchbox twenty,pop rock
+2,matchbox twenty,post-grunge
+0,Blake Shelton,contemporary country
+1,Blake Shelton,country
+2,Blake Shelton,country road
+3,Blake Shelton,oklahoma country
+0,Lady Gaga,dance pop
+1,Lady Gaga,pop
+0,Drake,canadian hip hop
+1,Drake,canadian pop
+2,Drake,hip hop
+3,Drake,pop rap
+4,Drake,rap
+5,Drake,toronto rap
+0,Kings Of Leon,modern rock
+1,Kings Of Leon,rock
+0,Kid Cudi,hip hop
+1,Kid Cudi,ohio hip hop
+2,Kid Cudi,pop rap
+3,Kid Cudi,rap
+0,Shinedown,alternative metal
+1,Shinedown,nu metal
+2,Shinedown,post-grunge
+0,Zac Brown Band,contemporary country
+1,Zac Brown Band,country
+2,Zac Brown Band,country road
+3,Zac Brown Band,modern country rock
+0,3OH!3,dance pop
+1,3OH!3,electropowerpop
+2,3OH!3,pop
+3,3OH!3,pop punk
+4,3OH!3,pop rap
+5,3OH!3,post-teen pop
+0,Jeremih,chicago rap
+1,Jeremih,dance pop
+2,Jeremih,hip hop
+3,Jeremih,pop
+4,Jeremih,pop rap
+5,Jeremih,r&b
+6,Jeremih,southern hip hop
+7,Jeremih,trap
+8,Jeremih,urban contemporary
+0,Jay Sean,dance pop
+1,Jay Sean,pop
+2,Jay Sean,pop rap
+3,Jay Sean,post-teen pop
+4,Jay Sean,urban contemporary
+0,Jason Derulo,dance pop
+1,Jason Derulo,pop
+2,Jason Derulo,pop rap
+3,Jason Derulo,post-teen pop
+0,Lady A,contemporary country
+1,Lady A,country
+2,Lady A,country dawn
+3,Lady A,country pop
+4,Lady A,country road
+5,Lady A,neo mellow
+0,Green Day,permanent wave
+1,Green Day,pop punk
+2,Green Day,punk
+0,Darius Rucker,contemporary country
+1,Darius Rucker,country
+2,Darius Rucker,country road
+3,Darius Rucker,modern country rock
+4,Darius Rucker,pop rock
+0,Billy Currington,contemporary country
+1,Billy Currington,country
+2,Billy Currington,country road
+3,Billy Currington,modern country rock
+0,Owl City,modern rock
+1,Owl City,pop
+2,Owl City,pop rock
+3,Owl City,post-teen pop
+0,Justin Bieber,canadian pop
+1,Justin Bieber,pop
+2,Justin Bieber,post-teen pop
+0,Cobra Starship,dance pop
+1,Cobra Starship,neon pop punk
+2,Cobra Starship,pop punk
+3,Cobra Starship,post-teen pop
+0,Young Money,dirty south rap
+1,Young Money,gangster rap
+2,Young Money,hip hop
+3,Young Money,pop rap
+4,Young Money,rap
+5,Young Money,southern hip hop
+6,Young Money,trap
+0,The Veronicas,australian pop
+1,The Veronicas,candy pop
+2,The Veronicas,dance pop
+3,The Veronicas,electropop
+4,The Veronicas,girl group
+5,The Veronicas,pop
+6,The Veronicas,post-teen pop
+0,Asher Roth,alternative hip hop
+1,Asher Roth,indie pop rap
+2,Asher Roth,pop rap
+3,Asher Roth,rap
+0,Maxwell,dance pop
+1,Maxwell,funk
+2,Maxwell,hip pop
+3,Maxwell,neo soul
+4,Maxwell,new jack swing
+5,Maxwell,quiet storm
+6,Maxwell,r&b
+7,Maxwell,soul
+8,Maxwell,urban contemporary
+0,Rob Thomas,acoustic pop
+1,Rob Thomas,neo mellow
+2,Rob Thomas,pop rock
+3,Rob Thomas,post-grunge
+0,Iyaz,dance pop
+1,Iyaz,pop rap
+2,Iyaz,post-teen pop
+0,Demi Lovato,dance pop
+1,Demi Lovato,pop
+2,Demi Lovato,post-teen pop
+0,New Boyz,dance pop
+1,New Boyz,pop rap
+2,New Boyz,rap
+3,New Boyz,southern hip hop
+0,Kristinia DeBarge,dance pop
+1,Kristinia DeBarge,post-teen pop
+0,Sammie,dance pop
+1,Sammie,deep pop r&b
+2,Sammie,hip pop
+3,Sammie,pop rap
+4,Sammie,r&b
+5,Sammie,urban contemporary
+0,The Ting Tings,alternative dance
+1,The Ting Tings,dance pop
+2,The Ting Tings,dance-punk
+3,The Ting Tings,electropop
+4,The Ting Tings,new rave
+0,Pleasure P,dance pop
+1,Pleasure P,deep pop r&b
+2,Pleasure P,hip pop
+3,Pleasure P,pop rap
+4,Pleasure P,r&b
+5,Pleasure P,southern hip hop
+6,Pleasure P,urban contemporary
+0,Theory Of A Deadman,alternative metal
+1,Theory Of A Deadman,canadian metal
+2,Theory Of A Deadman,canadian rock
+3,Theory Of A Deadman,nu metal
+4,Theory Of A Deadman,post-grunge
+5,Theory Of A Deadman,wrestling
+0,LMFAO,dance pop
+1,LMFAO,edm
+2,LMFAO,pop
+3,LMFAO,pop rap
+0,Dorrough,dfw rap
+1,Dorrough,dirty south rap
+2,Dorrough,pop rap
+3,Dorrough,rap
+4,Dorrough,southern hip hop
+5,Dorrough,trap
+0,Kellie Pickler,contemporary country
+1,Kellie Pickler,country
+2,Kellie Pickler,country dawn
+3,Kellie Pickler,country road
+0,David Guetta,dance pop
+1,David Guetta,edm
+2,David Guetta,pop
+0,Ke$ha,black comedy
+1,Ke$ha,comedy
+0,Taio Cruz,dance pop
+1,Taio Cruz,edm
+2,Taio Cruz,pop
+3,Taio Cruz,pop rap
+0,B.o.B,atl hip hop
+1,B.o.B,dance pop
+2,B.o.B,hip hop
+3,B.o.B,pop
+4,B.o.B,pop rap
+5,B.o.B,rap
+6,B.o.B,southern hip hop
+0,Train,dance pop
+1,Train,hip pop
+2,Train,pop
+3,Train,post-teen pop
+0,Bruno Mars,dance pop
+1,Bruno Mars,pop
+0,Mike Posner,dance pop
+1,Mike Posner,pop
+2,Mike Posner,pop rap
+0,Nicki Minaj,dance pop
+1,Nicki Minaj,hip pop
+2,Nicki Minaj,pop
+3,Nicki Minaj,pop rap
+4,Nicki Minaj,post-teen pop
+5,Nicki Minaj,queens hip hop
+0,Glee Cast,glee club
+1,Glee Cast,hollywood
+2,Glee Cast,post-teen pop
+3,Glee Cast,viral pop
+0,The Script,celtic rock
+1,The Script,dance pop
+2,The Script,neo mellow
+3,The Script,pop
+4,The Script,pop rock
+5,The Script,post-teen pop
+6,The Script,viral pop
+0,Adam Lambert,dance pop
+1,Adam Lambert,idol
+2,Adam Lambert,pop
+3,Adam Lambert,post-teen pop
+0,Enrique Iglesias,dance pop
+1,Enrique Iglesias,latin
+2,Enrique Iglesias,latin pop
+3,Enrique Iglesias,mexican pop
+4,Enrique Iglesias,pop
+5,Enrique Iglesias,tropical
+0,Travie McCoy,dance pop
+0,Michael Buble,adult standards
+1,Michael Buble,canadian pop
+2,Michael Buble,lounge
+3,Michael Buble,neo mellow
+0,La Roux,alternative dance
+1,La Roux,art pop
+2,La Roux,dance pop
+3,La Roux,electropop
+4,La Roux,indietronica
+5,La Roux,neo-synthpop
+6,La Roux,new rave
+0,Selena Gomez,dance pop
+1,Selena Gomez,pop
+2,Selena Gomez,post-teen pop
+0,Miranda Lambert,contemporary country
+1,Miranda Lambert,country
+2,Miranda Lambert,country dawn
+3,Miranda Lambert,country road
+0,Kris Allen,acoustic pop
+1,Kris Allen,idol
+2,Kris Allen,neo mellow
+3,Kris Allen,pop rock
+0,will.i.am,dance pop
+1,will.i.am,pop
+2,will.i.am,pop rap
+3,will.i.am,post-teen pop
+0,Far*East Movement,asian american hip hop
+1,Far*East Movement,dance pop
+2,Far*East Movement,edm
+3,Far*East Movement,pop
+4,Far*East Movement,pop rap
+0,Orianthi,candy pop
+0,Neon Trees,indie pop
+1,Neon Trees,modern alternative rock
+2,Neon Trees,modern rock
+3,Neon Trees,neo mellow
+4,Neon Trees,pop
+5,Neon Trees,pop punk
+6,Neon Trees,pop rock
+7,Neon Trees,post-teen pop
+8,Neon Trees,rock
+0,Shontelle,barbadian pop
+1,Shontelle,dance pop
+2,Shontelle,post-teen pop
+0,Luke Bryan,contemporary country
+1,Luke Bryan,country
+2,Luke Bryan,country road
+0,Easton Corbin,contemporary country
+1,Easton Corbin,country
+2,Easton Corbin,country road
+3,Easton Corbin,modern country rock
+0,Gucci Mane,atl hip hop
+1,Gucci Mane,dirty south rap
+2,Gucci Mane,hip hop
+3,Gucci Mane,pop rap
+4,Gucci Mane,rap
+5,Gucci Mane,southern hip hop
+6,Gucci Mane,trap
+0,Monica,dance pop
+1,Monica,deep pop r&b
+2,Monica,hip pop
+3,Monica,neo soul
+4,Monica,new jack swing
+5,Monica,pop
+6,Monica,pop rap
+7,Monica,quiet storm
+8,Monica,r&b
+9,Monica,urban contemporary
+0,The Band Perry,contemporary country
+1,The Band Perry,country
+2,The Band Perry,country dawn
+3,The Band Perry,country road
+4,The Band Perry,modern country rock
+0,Reba McEntire,contemporary country
+1,Reba McEntire,country
+2,Reba McEntire,country dawn
+3,Reba McEntire,oklahoma country
+0,Uncle Kracker,country
+1,Uncle Kracker,country road
+2,Uncle Kracker,neo mellow
+3,Uncle Kracker,pop rock
+4,Uncle Kracker,post-grunge
+0,Cali Swag District,pop rap
+0,Jerrod Niemann,contemporary country
+1,Jerrod Niemann,country
+2,Jerrod Niemann,country pop
+3,Jerrod Niemann,country road
+4,Jerrod Niemann,modern country rock
+5,Jerrod Niemann,redneck
+0,Jaron And The Long Road To Love,contemporary country
+1,Jaron And The Long Road To Love,country
+2,Jaron And The Long Road To Love,country road
+3,Jaron And The Long Road To Love,modern country rock
+0,CeeLo Green,atl hip hop
+0,Chris Young,contemporary country
+1,Chris Young,country
+2,Chris Young,country road
+3,Chris Young,modern country rock
+0,Adele,british soul
+1,Adele,pop
+2,Adele,uk pop
+0,Wiz Khalifa,hip hop
+1,Wiz Khalifa,pittsburgh rap
+2,Wiz Khalifa,pop rap
+3,Wiz Khalifa,rap
+4,Wiz Khalifa,southern hip hop
+5,Wiz Khalifa,trap
+0,Foster The People,indie pop
+1,Foster The People,modern alternative rock
+2,Foster The People,modern rock
+3,Foster The People,rock
+0,Jennifer Lopez,dance pop
+1,Jennifer Lopez,pop
+2,Jennifer Lopez,pop rap
+3,Jennifer Lopez,urban contemporary
+0,Hot Chelle Rae,dance pop
+1,Hot Chelle Rae,neo mellow
+2,Hot Chelle Rae,neon pop punk
+3,Hot Chelle Rae,pop
+4,Hot Chelle Rae,pop punk
+5,Hot Chelle Rae,pop rock
+6,Hot Chelle Rae,post-teen pop
+7,Hot Chelle Rae,viral pop
+0,Christina Perri,dance pop
+1,Christina Perri,neo mellow
+2,Christina Perri,pop
+3,Christina Perri,pop rock
+4,Christina Perri,post-teen pop
+5,Christina Perri,viral pop
+0,Bad Meets Evil,detroit hip hop
+1,Bad Meets Evil,gangster rap
+2,Bad Meets Evil,hip hop
+3,Bad Meets Evil,pop rap
+4,Bad Meets Evil,rap
+0,Dev,contemporary country
+1,Dev,country pop
+2,Dev,modern country rock
+0,Dr. Dre,g funk
+1,Dr. Dre,gangster rap
+2,Dr. Dre,hip hop
+3,Dr. Dre,rap
+4,Dr. Dre,west coast rap
+0,Diddy - Dirty Money,hip pop
+1,Diddy - Dirty Money,pop rap
+2,Diddy - Dirty Money,r&b
+3,Diddy - Dirty Money,urban contemporary
+0,Waka Flocka Flame,atl hip hop
+1,Waka Flocka Flame,dirty south rap
+2,Waka Flocka Flame,gangster rap
+3,Waka Flocka Flame,hip hop
+4,Waka Flocka Flame,pop rap
+5,Waka Flocka Flame,rap
+6,Waka Flocka Flame,southern hip hop
+7,Waka Flocka Flame,trap
+0,Miguel,dance pop
+1,Miguel,pop
+2,Miguel,pop rap
+3,Miguel,r&b
+4,Miguel,urban contemporary
+0,Big Sean,detroit hip hop
+1,Big Sean,hip hop
+2,Big Sean,pop
+3,Big Sean,pop rap
+4,Big Sean,rap
+5,Big Sean,southern hip hop
+6,Big Sean,trap
+0,Eli Young Band,contemporary country
+1,Eli Young Band,country
+2,Eli Young Band,country road
+3,Eli Young Band,heartland rock
+4,Eli Young Band,modern country rock
+5,Eli Young Band,pop rock
+6,Eli Young Band,texas country
+0,Thompson Square,contemporary country
+1,Thompson Square,country
+2,Thompson Square,country dawn
+3,Thompson Square,country pop
+4,Thompson Square,country road
+5,Thompson Square,modern country rock
+0,Kelly Rowland,atl hip hop
+1,Kelly Rowland,dance pop
+2,Kelly Rowland,deep pop r&b
+3,Kelly Rowland,hip pop
+4,Kelly Rowland,neo soul
+5,Kelly Rowland,pop
+6,Kelly Rowland,pop rap
+7,Kelly Rowland,post-teen pop
+8,Kelly Rowland,r&b
+9,Kelly Rowland,urban contemporary
+0,Jake Owen,contemporary country
+1,Jake Owen,country
+2,Jake Owen,country road
+3,Jake Owen,modern country rock
+0,Tinie Tempah,dance pop
+1,Tinie Tempah,grime
+2,Tinie Tempah,house
+3,Tinie Tempah,pop
+4,Tinie Tempah,pop rap
+5,Tinie Tempah,tropical house
+0,Eric Church,contemporary country
+1,Eric Church,country
+2,Eric Church,country road
+3,Eric Church,modern country rock
+0,Afrojack,big room
+1,Afrojack,dance pop
+2,Afrojack,deep big room
+3,Afrojack,dutch house
+4,Afrojack,edm
+5,Afrojack,electro house
+6,Afrojack,pop
+7,Afrojack,progressive electro house
+8,Afrojack,progressive house
+9,Afrojack,tropical house
+0,Skylar Grey,piano rock
+1,Skylar Grey,viral pop
+0,Alexandra Stan,dance pop
+1,Alexandra Stan,romanian pop
+0,Mumford & Sons,modern folk rock
+1,Mumford & Sons,modern rock
+2,Mumford & Sons,neo mellow
+3,Mumford & Sons,pop rock
+4,Mumford & Sons,stomp and holler
+5,Mumford & Sons,uk americana
+0,Sara Evans,contemporary country
+1,Sara Evans,country
+2,Sara Evans,country dawn
+3,Sara Evans,country gospel
+4,Sara Evans,country road
+0,Edward Maya,romanian pop
+0,Vika Jigulina,moldovan pop
+0,Jessie J,canadian contemporary r&b
+1,Jessie J,canadian pop
+2,Jessie J,pop
+0,Selena Gomez & The Scene,dance pop
+1,Selena Gomez & The Scene,pop
+2,Selena Gomez & The Scene,pop rap
+3,Selena Gomez & The Scene,post-teen pop
+4,Selena Gomez & The Scene,viral pop
+0,WILLOW,afrofuturism
+1,WILLOW,dance pop
+2,WILLOW,electropop
+3,WILLOW,pop
+4,WILLOW,post-teen pop
+0,fun.,baroque pop
+1,fun.,metropopolis
+2,fun.,modern rock
+3,fun.,pop
+4,fun.,pop rock
+0,Carly Rae Jepsen,canadian pop
+1,Carly Rae Jepsen,dance pop
+2,Carly Rae Jepsen,electropop
+3,Carly Rae Jepsen,indie poptimism
+4,Carly Rae Jepsen,pop
+5,Carly Rae Jepsen,post-teen pop
+0,One Direction,boy band
+1,One Direction,dance pop
+2,One Direction,pop
+3,One Direction,post-teen pop
+4,One Direction,talent show
+0,Gotye,australian pop
+0,The Wanted,boy band
+1,The Wanted,dance pop
+2,The Wanted,pop
+3,The Wanted,pop rock
+4,The Wanted,post-teen pop
+0,Ellie Goulding,dance pop
+1,Ellie Goulding,electropop
+2,Ellie Goulding,metropopolis
+3,Ellie Goulding,pop
+4,Ellie Goulding,post-teen pop
+5,Ellie Goulding,tropical house
+6,Ellie Goulding,uk pop
+0,Calvin Harris,dance pop
+1,Calvin Harris,edm
+2,Calvin Harris,electro house
+3,Calvin Harris,house
+4,Calvin Harris,pop
+5,Calvin Harris,progressive house
+6,Calvin Harris,tropical house
+7,Calvin Harris,uk dance
+0,Tyga,hip hop
+1,Tyga,pop rap
+2,Tyga,rap
+3,Tyga,trap
+0,Alex Clare,modern alternative rock
+0,2 Chainz,atl hip hop
+1,2 Chainz,gangster rap
+2,2 Chainz,hip hop
+3,2 Chainz,pop rap
+4,2 Chainz,rap
+5,2 Chainz,southern hip hop
+6,2 Chainz,trap
+0,Kimbra,bergen indie
+1,Kimbra,electropop
+2,Kimbra,nz pop
+0,J. Cole,conscious hip hop
+1,J. Cole,hip hop
+2,J. Cole,north carolina hip hop
+3,J. Cole,rap
+0,Sia,australian dance
+1,Sia,australian pop
+2,Sia,dance pop
+3,Sia,pop
+0,Hunter Hayes,contemporary country
+1,Hunter Hayes,country
+2,Hunter Hayes,country road
+3,Hunter Hayes,modern country rock
+4,Hunter Hayes,neo mellow
+5,Hunter Hayes,pop
+6,Hunter Hayes,pop rock
+7,Hunter Hayes,post-teen pop
+0,Janelle Monae,afrofuturism
+1,Janelle Monae,alternative r&b
+2,Janelle Monae,art pop
+3,Janelle Monae,atl hip hop
+4,Janelle Monae,dance pop
+5,Janelle Monae,electropop
+6,Janelle Monae,escape room
+7,Janelle Monae,neo soul
+8,Janelle Monae,pop
+9,Janelle Monae,r&b
+0,PSY,art rock
+1,PSY,dance rock
+2,PSY,new romantic
+3,PSY,new wave
+4,PSY,new wave pop
+5,PSY,post-punk
+6,PSY,rock
+0,Lee Brice,contemporary country
+1,Lee Brice,country
+2,Lee Brice,country road
+3,Lee Brice,modern country rock
+0,Phillip Phillips,folk-pop
+1,Phillip Phillips,neo mellow
+2,Phillip Phillips,pop rock
+0,Karmin,dance pop
+1,Karmin,electropop
+2,Karmin,post-teen pop
+3,Karmin,viral pop
+0,Cher Lloyd,dance pop
+1,Cher Lloyd,electropop
+2,Cher Lloyd,pop
+3,Cher Lloyd,post-teen pop
+4,Cher Lloyd,social media pop
+5,Cher Lloyd,talent show
+6,Cher Lloyd,viral pop
+0,The Lumineers,folk-pop
+1,The Lumineers,modern rock
+2,The Lumineers,stomp and holler
+0,Imagine Dragons,modern rock
+1,Imagine Dragons,rock
+0,Kip Moore,contemporary country
+1,Kip Moore,country
+2,Kip Moore,country road
+3,Kip Moore,modern country rock
+0,Kirko Bangz,deep pop r&b
+1,Kirko Bangz,dirty south rap
+2,Kirko Bangz,pop rap
+3,Kirko Bangz,rap
+4,Kirko Bangz,southern hip hop
+5,Kirko Bangz,trap
+0,Ca$h Out,atl hip hop
+1,Ca$h Out,dirty south rap
+2,Ca$h Out,pop rap
+3,Ca$h Out,rap
+4,Ca$h Out,southern hip hop
+5,Ca$h Out,trap
+0,Of Monsters And Men,folk-pop
+1,Of Monsters And Men,indie pop
+2,Of Monsters And Men,metropopolis
+3,Of Monsters And Men,modern rock
+4,Of Monsters And Men,pop rock
+5,Of Monsters And Men,stomp and holler
+0,Future,atl hip hop
+1,Future,pop rap
+2,Future,rap
+3,Future,southern hip hop
+4,Future,trap
+0,Love And Theft,contemporary country
+1,Love And Theft,country
+2,Love And Theft,country pop
+3,Love And Theft,country road
+4,Love And Theft,modern country rock
+0,Gloriana,contemporary country
+1,Gloriana,country
+2,Gloriana,country dawn
+3,Gloriana,country road
+4,Gloriana,modern country rock
+0,Dustin Lynch,contemporary country
+1,Dustin Lynch,country
+2,Dustin Lynch,country road
+3,Dustin Lynch,modern country rock
+0,Wale,dance pop
+1,Wale,gangster rap
+2,Wale,hip hop
+3,Wale,pop
+4,Wale,pop rap
+5,Wale,r&b
+6,Wale,rap
+7,Wale,southern hip hop
+8,Wale,trap
+9,Wale,urban contemporary
+0,Outasight,soul flow
+0,Frank Ocean,alternative r&b
+1,Frank Ocean,hip hop
+2,Frank Ocean,lgbtq+ hip hop
+3,Frank Ocean,neo soul
+4,Frank Ocean,pop
+0,Brantley Gilbert,contemporary country
+1,Brantley Gilbert,country
+2,Brantley Gilbert,country road
+3,Brantley Gilbert,modern country rock
+0,Macklemore & Ryan Lewis,dance pop
+1,Macklemore & Ryan Lewis,pop
+2,Macklemore & Ryan Lewis,pop rap
+3,Macklemore & Ryan Lewis,seattle hip hop
+0,Baauer,bass trap
+1,Baauer,brostep
+2,Baauer,electro house
+3,Baauer,electronic trap
+4,Baauer,escape room
+5,Baauer,vapor twitch
+0,Florida Georgia Line,contemporary country
+1,Florida Georgia Line,country
+2,Florida Georgia Line,country pop
+3,Florida Georgia Line,country road
+4,Florida Georgia Line,modern country rock
+0,Lorde,art pop
+1,Lorde,dance pop
+2,Lorde,electropop
+3,Lorde,metropopolis
+4,Lorde,nz pop
+5,Lorde,pop
+0,Avicii,big room
+1,Avicii,dance pop
+2,Avicii,edm
+3,Avicii,pop
+0,Kendrick Lamar,conscious hip hop
+1,Kendrick Lamar,hip hop
+2,Kendrick Lamar,rap
+3,Kendrick Lamar,west coast rap
+0,Anna Kendrick,hollywood
+1,Anna Kendrick,movie tunes
+0,Daft Punk,electro
+1,Daft Punk,filter house
+0,AWOLNATION,la indie
+1,AWOLNATION,modern alternative rock
+2,AWOLNATION,modern rock
+3,AWOLNATION,pop rock
+4,AWOLNATION,rock
+5,AWOLNATION,stomp pop
+0,Capital Cities,alternative dance
+1,Capital Cities,indie pop
+2,Capital Cities,metropopolis
+3,Capital Cities,modern rock
+0,Pharrell Williams,pop
+1,Pharrell Williams,pop rap
+0,Zedd,complextro
+1,Zedd,dance pop
+2,Zedd,edm
+3,Zedd,electro house
+4,Zedd,electropop
+5,Zedd,german techno
+6,Zedd,pop
+7,Zedd,post-teen pop
+8,Zedd,tropical house
+0,Ed Sheeran,pop
+1,Ed Sheeran,uk pop
+0,Ariana Grande,dance pop
+1,Ariana Grande,pop
+2,Ariana Grande,post-teen pop
+0,Swedish House Mafia,big room
+1,Swedish House Mafia,dance pop
+2,Swedish House Mafia,edm
+3,Swedish House Mafia,electro house
+4,Swedish House Mafia,pop
+5,Swedish House Mafia,progressive electro house
+0,Icona Pop,candy pop
+1,Icona Pop,dance pop
+2,Icona Pop,electropop
+3,Icona Pop,metropopolis
+4,Icona Pop,pop
+5,Icona Pop,swedish electropop
+6,Icona Pop,swedish synthpop
+0,A$AP Rocky,east coast hip hop
+1,A$AP Rocky,hip hop
+2,A$AP Rocky,pop rap
+3,A$AP Rocky,rap
+4,A$AP Rocky,southern hip hop
+5,A$AP Rocky,trap
+0,Lana Del Rey,art pop
+1,Lana Del Rey,pop
+0,Randy Houser,contemporary country
+1,Randy Houser,country
+2,Randy Houser,country road
+3,Randy Houser,modern country rock
+4,Randy Houser,redneck
+0,Sage The Gemini,dance pop
+1,Sage The Gemini,hyphy
+2,Sage The Gemini,pop rap
+3,Sage The Gemini,rap
+4,Sage The Gemini,southern hip hop
+5,Sage The Gemini,trap
+0,Ylvis,comic
+0,Mikky Ekko,nashville indie
+0,Juicy J,crunk
+1,Juicy J,dirty south rap
+2,Juicy J,gangster rap
+3,Juicy J,hip hop
+4,Juicy J,memphis hip hop
+5,Juicy J,pop rap
+6,Juicy J,rap
+7,Juicy J,southern hip hop
+8,Juicy J,trap
+0,Emeli Sande,dance pop
+1,Emeli Sande,neo soul
+2,Emeli Sande,pop
+3,Emeli Sande,r&b
+4,Emeli Sande,uk pop
+0,Thomas Rhett,contemporary country
+1,Thomas Rhett,country
+2,Thomas Rhett,country road
+3,Thomas Rhett,modern country rock
+0,Cedric Gervais,big room
+1,Cedric Gervais,edm
+2,Cedric Gervais,electro house
+3,Cedric Gervais,house
+4,Cedric Gervais,progressive electro house
+5,Cedric Gervais,progressive house
+0,Passenger,folk-pop
+1,Passenger,neo mellow
+2,Passenger,pop
+3,Passenger,pop rock
+0,Trinidad James,atl hip hop
+1,Trinidad James,rap
+2,Trinidad James,southern hip hop
+3,Trinidad James,trap
+0,Iggy Azalea,australian hip hop
+1,Iggy Azalea,dance pop
+2,Iggy Azalea,hip pop
+3,Iggy Azalea,pop
+4,Iggy Azalea,pop rap
+5,Iggy Azalea,post-teen pop
+0,John Legend,neo mellow
+1,John Legend,neo soul
+2,John Legend,pop
+3,John Legend,r&b
+4,John Legend,urban contemporary
+0,Sam Smith,pop
+1,Sam Smith,post-teen pop
+2,Sam Smith,uk pop
+0,Meghan Trainor,dance pop
+1,Meghan Trainor,hip pop
+2,Meghan Trainor,pop
+3,Meghan Trainor,post-teen pop
+0,MAGIC!,latin
+1,MAGIC!,latin hip hop
+2,MAGIC!,reggaeton
+3,MAGIC!,reggaeton flow
+4,MAGIC!,tropical
+0,Charli XCX,candy pop
+1,Charli XCX,dance pop
+2,Charli XCX,electropop
+3,Charli XCX,escape room
+4,Charli XCX,metropopolis
+5,Charli XCX,pop
+6,Charli XCX,post-teen pop
+7,Charli XCX,uk pop
+0,Bastille,metropopolis
+1,Bastille,modern rock
+2,Bastille,pop
+3,Bastille,pop rock
+0,Nico & Vinz,dance pop
+1,Nico & Vinz,pop rap
+0,Idina Menzel,hollywood
+1,Idina Menzel,show tunes
+0,Tove Lo,dance pop
+1,Tove Lo,electropop
+2,Tove Lo,metropopolis
+3,Tove Lo,pop
+4,Tove Lo,pop rap
+5,Tove Lo,post-teen pop
+6,Tove Lo,swedish electropop
+7,Tove Lo,swedish pop
+8,Tove Lo,swedish synthpop
+0,American Authors,indie poptimism
+1,American Authors,modern alternative rock
+2,American Authors,modern rock
+3,American Authors,neo mellow
+4,American Authors,pop
+5,American Authors,pop rock
+0,5 Seconds Of Summer,boy band
+1,5 Seconds Of Summer,dance pop
+2,5 Seconds Of Summer,pop
+3,5 Seconds Of Summer,post-teen pop
+0,YG,cali rap
+1,YG,gangster rap
+2,YG,hip hop
+3,YG,pop rap
+4,YG,rap
+5,YG,southern hip hop
+6,YG,trap
+0,Kid Ink,dance pop
+1,Kid Ink,hip hop
+2,Kid Ink,pop rap
+3,Kid Ink,rap
+4,Kid Ink,southern hip hop
+5,Kid Ink,trap
+0,DJ Snake,dance pop
+1,DJ Snake,edm
+2,DJ Snake,electro house
+3,DJ Snake,electronic trap
+4,DJ Snake,pop
+5,DJ Snake,pop rap
+0,Aloe Blacc,r&b
+0,Disclosure,house
+1,Disclosure,pop
+2,Disclosure,tropical house
+3,Disclosure,uk dance
+0,ScHoolboy Q,gangster rap
+1,ScHoolboy Q,hip hop
+2,ScHoolboy Q,pop rap
+3,ScHoolboy Q,rap
+4,ScHoolboy Q,southern hip hop
+5,ScHoolboy Q,trap
+6,ScHoolboy Q,underground hip hop
+0,MKTO,dance pop
+1,MKTO,pop
+2,MKTO,pop rap
+3,MKTO,pop rock
+4,MKTO,post-teen pop
+0,A Great Big World,indiecoustica
+1,A Great Big World,neo mellow
+2,A Great Big World,piano rock
+3,A Great Big World,pop rock
+0,Bobby Shmurda,nyc rap
+1,Bobby Shmurda,trap
+0,Clean Bandit,dance pop
+1,Clean Bandit,edm
+2,Clean Bandit,pop
+3,Clean Bandit,post-teen pop
+4,Clean Bandit,tropical house
+5,Clean Bandit,uk dance
+6,Clean Bandit,uk funky
+0,Echosmith,dance pop
+1,Echosmith,indie poptimism
+2,Echosmith,pop rock
+0,Cole Swindell,contemporary country
+1,Cole Swindell,country
+2,Cole Swindell,country road
+3,Cole Swindell,modern country rock
+0,Young Thug,atl hip hop
+1,Young Thug,atl trap
+2,Young Thug,gangster rap
+3,Young Thug,melodic rap
+4,Young Thug,pop rap
+5,Young Thug,rap
+6,Young Thug,trap
+0,Becky G,dance pop
+1,Becky G,latin
+2,Becky G,latin pop
+3,Becky G,latin viral pop
+4,Becky G,rap latina
+5,Becky G,reggaeton
+0,Rixton,dance pop
+1,Rixton,pop
+2,Rixton,post-teen pop
+3,Rixton,viral pop
+0,Martin Garrix,big room
+1,Martin Garrix,edm
+2,Martin Garrix,electro house
+3,Martin Garrix,pop
+4,Martin Garrix,progressive house
+5,Martin Garrix,tropical house
+0,Rae Sremmurd,hip hop
+1,Rae Sremmurd,melodic rap
+2,Rae Sremmurd,mississippi hip hop
+3,Rae Sremmurd,pop rap
+4,Rae Sremmurd,rap
+5,Rae Sremmurd,southern hip hop
+6,Rae Sremmurd,trap
+0,Frankie Ballard,contemporary country
+1,Frankie Ballard,country
+2,Frankie Ballard,country road
+3,Frankie Ballard,modern country rock
+0,The Neighbourhood,modern alternative rock
+1,The Neighbourhood,modern rock
+2,The Neighbourhood,pop
+3,The Neighbourhood,rock
+0,Ty Dolla $ign,hip hop
+1,Ty Dolla $ign,pop
+2,Ty Dolla $ign,pop rap
+3,Ty Dolla $ign,r&b
+4,Ty Dolla $ign,southern hip hop
+5,Ty Dolla $ign,trap
+6,Ty Dolla $ign,trap soul
+0,Sam Hunt,contemporary country
+1,Sam Hunt,country pop
+0,Joe Nichols,arkansas country
+1,Joe Nichols,contemporary country
+2,Joe Nichols,country
+3,Joe Nichols,country road
+4,Joe Nichols,modern country rock
+0,John Newman,pop
+0,Rich Homie Quan,atl hip hop
+1,Rich Homie Quan,pop rap
+2,Rich Homie Quan,rap
+3,Rich Homie Quan,southern hip hop
+4,Rich Homie Quan,trap
+0,KONGOS,modern alternative rock
+1,KONGOS,modern blues rock
+2,KONGOS,modern rock
+3,KONGOS,south african rock
+0,Tinashe,alternative r&b
+1,Tinashe,dance pop
+2,Tinashe,deep pop r&b
+3,Tinashe,electropop
+4,Tinashe,hip pop
+5,Tinashe,metropopolis
+6,Tinashe,pop
+7,Tinashe,pop rap
+8,Tinashe,post-teen pop
+9,Tinashe,r&b
+10,Tinashe,urban contemporary
+0,Rita Ora,dance pop
+1,Rita Ora,edm
+2,Rita Ora,pop
+3,Rita Ora,post-teen pop
+4,Rita Ora,tropical house
+5,Rita Ora,uk pop
+0,Vance Joy,folk-pop
+1,Vance Joy,modern rock
+2,Vance Joy,pop
+3,Vance Joy,pop rock
+0,The Weeknd,canadian contemporary r&b
+1,The Weeknd,canadian pop
+2,The Weeknd,pop
+0,Fetty Wap,new jersey rap
+1,Fetty Wap,pop rap
+2,Fetty Wap,rap
+3,Fetty Wap,southern hip hop
+4,Fetty Wap,trap
+0,Mark Ronson,dance pop
+1,Mark Ronson,pop
+0,WALK THE MOON,indie pop
+1,WALK THE MOON,indie poptimism
+2,WALK THE MOON,modern alternative rock
+3,WALK THE MOON,modern rock
+4,WALK THE MOON,pop rock
+5,WALK THE MOON,rock
+0,Silento,pinoy hip hop
+0,OMI,dance pop
+1,OMI,tropical house
+0,Nick Jonas,dance pop
+1,Nick Jonas,pop
+2,Nick Jonas,post-teen pop
+3,Nick Jonas,viral pop
+0,Hozier,irish singer-songwriter
+1,Hozier,pop
+0,Rachel Platten,dance pop
+1,Rachel Platten,neo mellow
+2,Rachel Platten,pop
+3,Rachel Platten,post-teen pop
+4,Rachel Platten,viral pop
+0,Charlie Puth,dance pop
+1,Charlie Puth,pop
+2,Charlie Puth,post-teen pop
+3,Charlie Puth,viral pop
+0,Andy Grammer,dance pop
+1,Andy Grammer,neo mellow
+2,Andy Grammer,pop
+3,Andy Grammer,pop rock
+4,Andy Grammer,post-teen pop
+0,Fifth Harmony,dance pop
+1,Fifth Harmony,girl group
+2,Fifth Harmony,pop
+3,Fifth Harmony,post-teen pop
+4,Fifth Harmony,talent show
+5,Fifth Harmony,viral pop
+0,Shawn Mendes,canadian pop
+1,Shawn Mendes,dance pop
+2,Shawn Mendes,pop
+3,Shawn Mendes,post-teen pop
+4,Shawn Mendes,viral pop
+0,T-Wayne,london rap
+1,T-Wayne,uk hip hop
+0,X Ambassadors,modern alternative rock
+1,X Ambassadors,modern rock
+2,X Ambassadors,pop
+3,X Ambassadors,pop rock
+4,X Ambassadors,rock
+5,X Ambassadors,stomp pop
+0,R. City,reggae fusion
+1,R. City,virgin islands reggae
+0,Meek Mill,hip hop
+1,Meek Mill,philly rap
+2,Meek Mill,pop rap
+3,Meek Mill,rap
+4,Meek Mill,southern hip hop
+5,Meek Mill,trap
+0,Major Lazer,dance pop
+1,Major Lazer,edm
+2,Major Lazer,electro house
+3,Major Lazer,moombahton
+4,Major Lazer,pop
+5,Major Lazer,pop rap
+0,Brett Eldredge,contemporary country
+1,Brett Eldredge,country
+2,Brett Eldredge,country road
+3,Brett Eldredge,modern country rock
+0,O.T. Genasis,gangster rap
+1,O.T. Genasis,pop rap
+2,O.T. Genasis,rap
+3,O.T. Genasis,southern hip hop
+4,O.T. Genasis,trap
+5,O.T. Genasis,viral trap
+0,Skrillex,brostep
+1,Skrillex,complextro
+2,Skrillex,edm
+3,Skrillex,electro
+4,Skrillex,electro house
+0,M0,brazilian house
+0,George Ezra,folk-pop
+1,George Ezra,neo-singer-songwriter
+2,George Ezra,pop
+0,DeJ Loaf,deep pop r&b
+1,DeJ Loaf,detroit hip hop
+2,DeJ Loaf,pop rap
+3,DeJ Loaf,rap
+4,DeJ Loaf,trap
+5,DeJ Loaf,trap queen
+0,Jidenna,ghanaian hip hop
+0,Ella Henderson,dance pop
+1,Ella Henderson,neo mellow
+2,Ella Henderson,pop
+3,Ella Henderson,post-teen pop
+4,Ella Henderson,talent show
+5,Ella Henderson,tropical house
+6,Ella Henderson,uk pop
+0,Alessia Cara,canadian contemporary r&b
+1,Alessia Cara,canadian pop
+2,Alessia Cara,dance pop
+3,Alessia Cara,electropop
+4,Alessia Cara,pop
+5,Alessia Cara,post-teen pop
+0,Mr. Probz,dutch hip hop
+1,Mr. Probz,tropical house
+0,Chris Janson,contemporary country
+1,Chris Janson,country
+2,Chris Janson,country road
+3,Chris Janson,modern country rock
+0,Remy Boyz,
+0,Paul McCartney,album rock
+1,Paul McCartney,art rock
+2,Paul McCartney,beatlesque
+3,Paul McCartney,classic rock
+4,Paul McCartney,folk rock
+5,Paul McCartney,mellow gold
+6,Paul McCartney,rock
+7,Paul McCartney,soft rock
+0,James Newton Howard,scorecore
+1,James Newton Howard,soundtrack
+0,I LOVE MAKONNEN,atl hip hop
+1,I LOVE MAKONNEN,lgbtq+ hip hop
+2,I LOVE MAKONNEN,trap
+3,I LOVE MAKONNEN,underground hip hop
+0,twenty one pilots,modern rock
+1,twenty one pilots,rock
+0,The Chainsmokers,dance pop
+1,The Chainsmokers,edm
+2,The Chainsmokers,electropop
+3,The Chainsmokers,pop
+4,The Chainsmokers,tropical house
+0,Desiigner,pop rap
+1,Desiigner,rap
+2,Desiigner,southern hip hop
+3,Desiigner,trap
+4,Desiigner,viral trap
+0,Lukas Graham,danish pop
+1,Lukas Graham,pop
+2,Lukas Graham,scandipop
+0,Bryson Tiller,kentucky hip hop
+1,Bryson Tiller,pop
+2,Bryson Tiller,pop rap
+3,Bryson Tiller,rap
+4,Bryson Tiller,trap
+0,DNCE,dance pop
+1,DNCE,pop
+2,DNCE,pop rock
+3,DNCE,post-teen pop
+0,Daya,dance pop
+1,Daya,electropop
+2,Daya,pop
+3,Daya,post-teen pop
+4,Daya,tropical house
+5,Daya,viral pop
+0,Zayn,dance pop
+1,Zayn,electropop
+2,Zayn,pop
+3,Zayn,post-teen pop
+4,Zayn,uk pop
+0,Kevin Gates,baton rouge rap
+1,Kevin Gates,rap
+2,Kevin Gates,southern hip hop
+3,Kevin Gates,trap
+0,Tory Lanez,canadian hip hop
+1,Tory Lanez,melodic rap
+2,Tory Lanez,pop rap
+3,Tory Lanez,rap
+4,Tory Lanez,toronto rap
+5,Tory Lanez,trap
+0,G-Eazy,hip hop
+1,G-Eazy,indie pop rap
+2,G-Eazy,oakland hip hop
+3,G-Eazy,pop rap
+4,G-Eazy,rap
+0,Bebe Rexha,dance pop
+1,Bebe Rexha,electropop
+2,Bebe Rexha,pop
+3,Bebe Rexha,post-teen pop
+0,James Bay,neo mellow
+1,James Bay,pop
+2,James Bay,pop rock
+0,Kent Jones,miami hip hop
+1,Kent Jones,viral trap
+0,Kiiara,electropop
+1,Kiiara,indie poptimism
+2,Kiiara,indietronica
+3,Kiiara,pop
+0,Travis Scott,rap
+0,Halsey,dance pop
+1,Halsey,electropop
+2,Halsey,etherpop
+3,Halsey,indie poptimism
+4,Halsey,pop
+5,Halsey,post-teen pop
+0,Post Malone,dfw rap
+1,Post Malone,melodic rap
+2,Post Malone,rap
+0,gnash,pop
+0,Prince,funk
+1,Prince,funk rock
+2,Prince,minneapolis sound
+3,Prince,motown
+4,Prince,synth funk
+0,Lil Uzi Vert,melodic rap
+1,Lil Uzi Vert,philly rap
+2,Lil Uzi Vert,rap
+3,Lil Uzi Vert,trap
+0,Ruth B,canadian pop
+1,Ruth B,pop
+2,Ruth B,post-teen pop
+3,Ruth B,viral pop
+0,Kelsea Ballerini,contemporary country
+1,Kelsea Ballerini,pop
+0,Zara Larsson,dance pop
+1,Zara Larsson,edm
+2,Zara Larsson,electropop
+3,Zara Larsson,pop
+4,Zara Larsson,post-teen pop
+5,Zara Larsson,scandipop
+6,Zara Larsson,swedish electropop
+7,Zara Larsson,swedish pop
+8,Zara Larsson,tropical house
+0,Lil Yachty,atl hip hop
+1,Lil Yachty,hip hop
+2,Lil Yachty,melodic rap
+3,Lil Yachty,rap
+4,Lil Yachty,southern hip hop
+5,Lil Yachty,trap
+0,Yo Gotti,dirty south rap
+1,Yo Gotti,gangster rap
+2,Yo Gotti,hip hop
+3,Yo Gotti,memphis hip hop
+4,Yo Gotti,pop rap
+5,Yo Gotti,rap
+6,Yo Gotti,southern hip hop
+7,Yo Gotti,tennessee hip hop
+8,Yo Gotti,trap
+0,Flume,australian dance
+1,Flume,australian electropop
+2,Flume,australian indie
+3,Flume,downtempo
+4,Flume,edm
+5,Flume,pop
+0,Old Dominion,contemporary country
+1,Old Dominion,country road
+0,MNEK,tropical house
+1,MNEK,uk contemporary r&b
+0,Maren Morris,contemporary country
+1,Maren Morris,pop
+2,Maren Morris,texas country
+0,Jon Pardi,contemporary country
+1,Jon Pardi,country
+2,Jon Pardi,country road
+3,Jon Pardi,modern country rock
+0,Kyla,uk funky
+0,Dan + Shay,contemporary country
+1,Dan + Shay,pop
+0,LOCASH,contemporary country
+1,LOCASH,country pop
+2,LOCASH,country rap
+3,LOCASH,country road
+4,LOCASH,modern country rock
+0,Disturbed,alternative metal
+1,Disturbed,nu metal
+2,Disturbed,post-grunge
+3,Disturbed,rap metal
+0,MadeinTYO,atl hip hop
+1,MadeinTYO,hip hop
+2,MadeinTYO,melodic rap
+3,MadeinTYO,pop rap
+4,MadeinTYO,rap
+5,MadeinTYO,southern hip hop
+6,MadeinTYO,trap
+7,MadeinTYO,underground hip hop
+8,MadeinTYO,vapor trap
+0,Rozes,electropop
+1,Rozes,indie poptimism
+2,Rozes,pop edm
+0,Troye Sivan,australian pop
+1,Troye Sivan,dance pop
+2,Troye Sivan,electropop
+3,Troye Sivan,pop
+4,Troye Sivan,post-teen pop
+5,Troye Sivan,viral pop
+0,Migos,atl hip hop
+1,Migos,hip hop
+2,Migos,pop rap
+3,Migos,rap
+4,Migos,southern hip hop
+5,Migos,trap
+0,Khalid,alternative r&b
+1,Khalid,pop
+0,James Arthur,pop
+1,James Arthur,post-teen pop
+2,James Arthur,talent show
+3,James Arthur,uk pop
+0,Niall Horan,dance pop
+1,Niall Horan,pop
+2,Niall Horan,pop rock
+3,Niall Horan,post-teen pop
+0,Luis Fonsi,latin
+1,Luis Fonsi,latin pop
+2,Luis Fonsi,puerto rican pop
+3,Luis Fonsi,tropical
+0,Kodak Black,florida rap
+1,Kodak Black,hip hop
+2,Kodak Black,melodic rap
+3,Kodak Black,miami hip hop
+4,Kodak Black,rap
+5,Kodak Black,southern hip hop
+6,Kodak Black,trap
+0,21 Savage,atl hip hop
+1,21 Savage,rap
+2,21 Savage,trap
+0,Cardi B,pop
+1,Cardi B,pop rap
+2,Cardi B,rap
+0,Childish Gambino,atl hip hop
+1,Childish Gambino,hip hop
+2,Childish Gambino,pop rap
+3,Childish Gambino,rap
+0,Julia Michaels,dance pop
+1,Julia Michaels,electropop
+2,Julia Michaels,pop
+3,Julia Michaels,pop rock
+4,Julia Michaels,post-teen pop
+0,Quavo,atl hip hop
+1,Quavo,hip hop
+2,Quavo,melodic rap
+3,Quavo,pop rap
+4,Quavo,rap
+5,Quavo,trap
+0,French Montana,hip hop
+1,French Montana,pop rap
+2,French Montana,rap
+3,French Montana,southern hip hop
+4,French Montana,trap
+0,XXXTENTACION,emo rap
+1,XXXTENTACION,miami hip hop
+0,Camila Cabello,dance pop
+1,Camila Cabello,pop
+2,Camila Cabello,post-teen pop
+0,Brett Young,contemporary country
+0,KYLE,pop rap
+1,KYLE,rap
+0,Luke Combs,contemporary country
+0,Portugal. The Man,indie pop
+1,Portugal. The Man,indie rock
+2,Portugal. The Man,indietronica
+3,Portugal. The Man,modern alternative rock
+4,Portugal. The Man,modern rock
+5,Portugal. The Man,rock
+0,Logic,conscious hip hop
+1,Logic,dmv rap
+2,Logic,hip hop
+3,Logic,pop rap
+4,Logic,rap
+0,SZA,pop
+1,SZA,pop rap
+2,SZA,rap
+0,Liam Payne,dance pop
+1,Liam Payne,edm
+2,Liam Payne,pop
+3,Liam Payne,post-teen pop
+4,Liam Payne,tropical house
+0,Amine,hip hop
+1,Amine,pop rap
+2,Amine,portland hip hop
+3,Amine,rap
+0,Ayo & Teo,social media pop
+1,Ayo & Teo,trap
+0,Zay Hilfigerrr & Zayion McCall,
+0,Kesha,dance pop
+1,Kesha,electropop
+2,Kesha,pop
+3,Kesha,post-teen pop
+0,Kygo,edm
+1,Kygo,pop
+2,Kygo,tropical house
+0,Playboi Carti,atl hip hop
+1,Playboi Carti,hip hop
+2,Playboi Carti,rap
+3,Playboi Carti,trap
+4,Playboi Carti,underground hip hop
+0,Machine Gun Kelly,ohio hip hop
+1,Machine Gun Kelly,pop rap
+2,Machine Gun Kelly,rap
+0,A Boogie Wit da Hoodie,melodic rap
+1,A Boogie Wit da Hoodie,pop rap
+2,A Boogie Wit da Hoodie,rap
+0,Jon Bellion,pop rap
+0,Harry Styles,pop
+1,Harry Styles,post-teen pop
+0,Hailee Steinfeld,dance pop
+1,Hailee Steinfeld,pop
+2,Hailee Steinfeld,post-teen pop
+0,Swae Lee,melodic rap
+1,Swae Lee,trap
+0,Marian Hill,electropop
+0,Dua Lipa,dance pop
+1,Dua Lipa,pop
+2,Dua Lipa,uk pop
+0,blackbear,pop
+1,blackbear,pop rap
+0,Maluma,latin
+1,Maluma,reggaeton
+0,Kane Brown,contemporary country
+1,Kane Brown,country road
+0,Juice WRLD,chicago rap
+1,Juice WRLD,melodic rap
+0,6ix9ine,emo rap
+0,Ella Mai,deep pop r&b
+1,Ella Mai,pop
+2,Ella Mai,pop rap
+3,Ella Mai,r&b
+4,Ella Mai,rap
+5,Ella Mai,uk contemporary r&b
+6,Ella Mai,urban contemporary
+0,Bazzi,pop
+1,Bazzi,post-teen pop
+0,Marshmello,brostep
+1,Marshmello,pop
+2,Marshmello,progressive electro house
+0,Lil Pump,emo rap
+1,Lil Pump,miami hip hop
+2,Lil Pump,rap
+3,Lil Pump,trap
+0,NF,hip hop
+1,NF,pop rap
+2,NF,rap
+0,Lil Baby,atl hip hop
+1,Lil Baby,atl trap
+2,Lil Baby,rap
+0,J Balvin,latin
+1,J Balvin,reggaeton
+0,YoungBoy Never Broke Again,baton rouge rap
+1,YoungBoy Never Broke Again,trap
+0,Rich The Kid,atl hip hop
+1,Rich The Kid,hip hop
+2,Rich The Kid,melodic rap
+3,Rich The Kid,pop rap
+4,Rich The Kid,rap
+5,Rich The Kid,southern hip hop
+6,Rich The Kid,trap
+0,Bad Bunny,latin
+1,Bad Bunny,reggaeton
+2,Bad Bunny,trap latino
+0,Lauv,pop
+0,BlocBoy JB,rap
+1,BlocBoy JB,southern hip hop
+2,BlocBoy JB,tennessee hip hop
+3,BlocBoy JB,trap
+4,BlocBoy JB,vapor trap
+0,Offset,atl hip hop
+1,Offset,hip hop
+2,Offset,pop rap
+3,Offset,rap
+4,Offset,southern hip hop
+5,Offset,trap
+0,Normani,dance pop
+1,Normani,pop
+2,Normani,post-teen pop
+3,Normani,r&b
+0,Grey,pop edm
+0,Famous Dex,chicago rap
+1,Famous Dex,drill
+2,Famous Dex,hip hop
+3,Famous Dex,pop rap
+4,Famous Dex,rap
+5,Famous Dex,southern hip hop
+6,Famous Dex,trap
+7,Famous Dex,underground hip hop
+8,Famous Dex,vapor trap
+0,Metro Boomin,hip hop
+1,Metro Boomin,pop rap
+2,Metro Boomin,rap
+3,Metro Boomin,southern hip hop
+4,Metro Boomin,trap
+0,Russell Dickerson,contemporary country
+1,Russell Dickerson,country
+2,Russell Dickerson,country road
+3,Russell Dickerson,modern country rock
+0,Anne-Marie,dance pop
+1,Anne-Marie,pop
+2,Anne-Marie,post-teen pop
+3,Anne-Marie,tropical house
+4,Anne-Marie,uk pop
+0,Lil Dicky,comedy rap
+1,Lil Dicky,pop rap
+2,Lil Dicky,rap
+0,The Carters,pop
+1,The Carters,pop rap
+2,The Carters,r&b
+3,The Carters,rap
+4,The Carters,urban contemporary
+0,Lil Skies,melodic rap
+1,Lil Skies,pop rap
+2,Lil Skies,rap
+3,Lil Skies,trap
+0,Chris Stapleton,contemporary country
+1,Chris Stapleton,outlaw country
+0,MAX,dance pop
+1,MAX,pop
+2,MAX,post-teen pop
+0,Ozuna,latin
+1,Ozuna,puerto rican pop
+2,Ozuna,reggaeton
+3,Ozuna,trap latino
+0,lovelytheband,indie pop
+1,lovelytheband,indie poptimism
+2,lovelytheband,indietronica
+3,lovelytheband,modern alternative rock
+4,lovelytheband,modern rock
+5,lovelytheband,pop rock
+6,lovelytheband,rock
+0,A$AP Ferg,hip hop
+1,A$AP Ferg,pop rap
+2,A$AP Ferg,rap
+3,A$AP Ferg,southern hip hop
+4,A$AP Ferg,trap
+5,A$AP Ferg,underground hip hop
+0,Queen Naija,deep pop r&b
+1,Queen Naija,pop
+2,Queen Naija,r&b
+3,Queen Naija,urban contemporary
+0,Billie Eilish,electropop
+1,Billie Eilish,pop
+0,Lil Nas X,country rap
+1,Lil Nas X,lgbtq+ hip hop
+2,Lil Nas X,pop rap
+0,DaBaby,north carolina hip hop
+1,DaBaby,rap
+0,Lizzo,dance pop
+1,Lizzo,escape room
+2,Lizzo,minnesota hip hop
+3,Lizzo,pop
+4,Lizzo,pop rap
+5,Lizzo,trap queen
+0,Ava Max,dance pop
+1,Ava Max,pop
+2,Ava Max,post-teen pop
+0,Lil Tecca,melodic rap
+1,Lil Tecca,rap
+2,Lil Tecca,trap
+0,Billy Ray Cyrus,country
+0,Lewis Capaldi,pop
+1,Lewis Capaldi,uk pop
+0,YNW Melly,melodic rap
+0,Gunna,atl hip hop
+1,Gunna,melodic rap
+2,Gunna,rap
+3,Gunna,trap
+0,Blueface,cali rap
+1,Blueface,trap
+0,City Girls,pop
+1,City Girls,scam rap
+2,City Girls,trap queen
+0,Sheck Wes,rap
+1,Sheck Wes,trap
+2,Sheck Wes,underground hip hop
+3,Sheck Wes,vapor trap
+0,Morgan Wallen,contemporary country
+1,Morgan Wallen,country road
+2,Morgan Wallen,deep talent show
+0,Bradley Cooper,hollywood
+0,Dean Lewis,australian pop
+1,Dean Lewis,pop
+0,Lauren Daigle,ccm
+1,Lauren Daigle,christian alternative rock
+2,Lauren Daigle,christian music
+3,Lauren Daigle,worship
+0,Blanco Brown,country rap
+0,Calboy,chicago rap
+1,Calboy,melodic rap
+2,Calboy,rap
+3,Calboy,southern hip hop
+4,Calboy,trap
+0,Megan Thee Stallion,houston rap
+1,Megan Thee Stallion,pop
+2,Megan Thee Stallion,pop rap
+3,Megan Thee Stallion,trap queen
+0,Mustard,cali rap
+1,Mustard,pop rap
+2,Mustard,rap
+3,Mustard,southern hip hop
+4,Mustard,trap
+0,NLE Choppa,memphis hip hop
+0,SHAED,electropop
+1,SHAED,pop
+0,Flipp Dinero,hip hop
+1,Flipp Dinero,melodic rap
+2,Flipp Dinero,pop rap
+3,Flipp Dinero,rap
+4,Flipp Dinero,southern hip hop
+5,Flipp Dinero,trap
+6,Flipp Dinero,vapor trap
+0,Polo G,chicago rap
+0,benny blanco,electropop
+1,benny blanco,pop
+2,benny blanco,pop rap
+0,Summer Walker,pop
+0,Pinkfong,cartoon
+1,Pinkfong,children's music
+2,Pinkfong,dong-yo
+0,Saweetie,cali rap
+1,Saweetie,pop
+2,Saweetie,pop rap
+3,Saweetie,post-teen pop
+4,Saweetie,trap queen
+0,YK Osiris,deep pop r&b
+1,YK Osiris,melodic rap
+2,YK Osiris,pop rap
+3,YK Osiris,trap
+0,"Tyler, The Creator",hip hop
+1,"Tyler, The Creator",rap
+0,Lil Tjay,brooklyn drill
+1,Lil Tjay,melodic rap
+2,Lil Tjay,nyc rap
+0,Anuel AA,latin
+1,Anuel AA,reggaeton flow
+2,Anuel AA,trap latino
+0,Chase Rice,contemporary country
+1,Chase Rice,country
+2,Chase Rice,country road
+3,Chase Rice,modern country rock
+0,Scotty McCreery,contemporary country
+1,Scotty McCreery,country
+2,Scotty McCreery,country road
+3,Scotty McCreery,modern country rock

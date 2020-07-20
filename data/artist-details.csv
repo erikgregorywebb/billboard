@@ -1,0 +1,586 @@
+,artist,spotify_artist,id,href,popularity,image
+0,Sean Paul,Sean Paul,3Isy6kedDrgPYoTS1dazA9,https://api.spotify.com/v1/artists/3Isy6kedDrgPYoTS1dazA9,83,https://i.scdn.co/image/e15025ccdfab6e62b9c2b391e4e5f44bac36a3db
+1,Chris Brown,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z,91,https://i.scdn.co/image/e153d6448b17ce97b2a79da70d64b89230c67053
+2,Nickelback,Nickelback,6deZN1bslXzeGvOLaLMOIF,https://api.spotify.com/v1/artists/6deZN1bslXzeGvOLaLMOIF,79,https://i.scdn.co/image/3cab7a705d1fefebd1f7c8bf03f27587ae697ead
+3,Ne-Yo,YoungBoy Never Broke Again,7wlFDEWiM5OoIAt8RSli8b,https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b,86,https://i.scdn.co/image/97bb629b95a57ce4b12d82959c3557244bc669c2
+4,The Fray,The Fray,0zOcE3mg9nS6l3yxt1Y0bK,https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK,73,https://i.scdn.co/image/7ef82e06e47b33e302ca2503f3decfbf9c7f2fff
+5,Rihanna,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H,90,https://i.scdn.co/image/1fc2f537d678d701d7d143a8fd4f0c2f29fbde22
+6,The Pussycat Dolls,The Pussycat Dolls,6wPhSqRtPu1UhRCDX5yaDJ,https://api.spotify.com/v1/artists/6wPhSqRtPu1UhRCDX5yaDJ,74,https://i.scdn.co/image/15793cac497b87ee337ed77a85b7896c23ae2b15
+7,The All-American Rejects,The All-American Rejects,3vAaWhdBR38Q02ohXqaNHT,https://api.spotify.com/v1/artists/3vAaWhdBR38Q02ohXqaNHT,71,https://i.scdn.co/image/62c79a93a1e6c795ce335996ccde270b6488f90c
+8,Rascal Flatts,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,https://api.spotify.com/v1/artists/0a1gHP0HAqALbEyxaD5Ngn,74,https://i.scdn.co/image/0e1a0ac507aba697f5562bd772ca1d411cbb31dc
+9,Justin Timberlake,Justin Timberlake,31TPClRtHm23RisEBtV3X7,https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7,83,https://i.scdn.co/image/5b73ff32952c810c98bd5fbe8860ca99414ad6aa
+10,Beyonce,Beyoncé,6vWDO969PvNqNYHIOW5v0m,https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m,90,https://i.scdn.co/image/9fef2047e4e3f05031807d5fa9e121b7862ba259
+11,Mary J. Blige,Mary J. Blige,1XkoF8ryArs86LZvFOkbyr,https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr,74,https://i.scdn.co/image/571753934f6679837e4f74ffc597484204542145
+12,Daniel Powter,Daniel Powter,7xTcuBOIAAIGDOSvwYFPzk,https://api.spotify.com/v1/artists/7xTcuBOIAAIGDOSvwYFPzk,63,https://i.scdn.co/image/f17fbc609bd3d1303608760628f1770609dff406
+13,James Blunt,James Blunt,7KMqksf0UMdyA0UCf4R3ux,https://api.spotify.com/v1/artists/7KMqksf0UMdyA0UCf4R3ux,76,https://i.scdn.co/image/f87792caa6da101c22961f85effbb748a23ad3a1
+14,Kelly Clarkson,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX,78,https://i.scdn.co/image/e83f002015ece3302c98bfc425f497091d48ecaf
+15,Natasha Bedingfield,Natasha Bedingfield,7o95ZoZt5ZYn31e9z1Hc0a,https://api.spotify.com/v1/artists/7o95ZoZt5ZYn31e9z1Hc0a,69,https://i.scdn.co/image/980befa9b0f49cfdf4eb9a4b891039d26a35afda
+16,Fall Out Boy,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,https://api.spotify.com/v1/artists/4UXqAaa6dQYAk18Lv7PEgX,83,https://i.scdn.co/image/078a111caaad88290dfa51d1aebf76f305f63dbf
+17,T.I.,T.I.,4OBJLual30L7gRl5UkeRcT,https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT,79,https://i.scdn.co/image/eae4a88e33baad4b4ce4605aa074c45766e94d09
+18,Yung Joc,Yung Joc,23LbwefIODbyGdRbAz3urj,https://api.spotify.com/v1/artists/23LbwefIODbyGdRbAz3urj,67,https://i.scdn.co/image/6f0af01b403d6d8d7f98e33a683dc6fe218ae6c2
+19,Nelly Furtado,Nelly Furtado,2jw70GZXlAI8QzWeY2bgRc,https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc,74,https://i.scdn.co/image/84893281888b8f84b1580f477dbcc7bbaa5a1712
+20,Gnarls Barkley,Gnarls Barkley,5SbkVQYYzlw1kte75QIabH,https://api.spotify.com/v1/artists/5SbkVQYYzlw1kte75QIabH,67,https://i.scdn.co/image/03e8855382d21e1cbf8172c03001ab8847889f38
+21,Chamillionaire,Chamillionaire,6vdMPayKk8YJxxeNP5oMCb,https://api.spotify.com/v1/artists/6vdMPayKk8YJxxeNP5oMCb,64,https://i.scdn.co/image/9837f337431ea4a73bf699e24c4d588028bb0fce
+22,Fergie,Fergie,3r17AfJCCUqC9Lf0OAc73G,https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G,72,https://i.scdn.co/image/8f3351450c30b08da0fcfc9a7c317570b6bb291d
+23,Cassie,Cassie,27FGXRNruFoOdf1vP8dqcH,https://api.spotify.com/v1/artists/27FGXRNruFoOdf1vP8dqcH,62,https://i.scdn.co/image/da51ac34792a4c784ca1bb5fce218866f70e0d0f
+24,The Black Eyed Peas,,,,,
+25,Red Hot Chili Peppers,Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5,https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5,85,https://i.scdn.co/image/89bc3c14aa2b4f250033ffcf5f322b2a553d9331
+26,Shakira,Shakira,0EmeFodog0BfCgMzAIvKQp,https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp,86,https://i.scdn.co/image/234f86923486e8ba3860def8518c01d5054aac1f
+27,Nelly,Nelly,2gBjLmx6zQnFGQJCAQpRgw,https://api.spotify.com/v1/artists/2gBjLmx6zQnFGQJCAQpRgw,78,https://i.scdn.co/image/3677690af58abb70a5c5fd58d69db4d1ad705d4f
+28,Panic! At The Disco,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK,84,https://i.scdn.co/image/58518a04cdd1f20a24cf0545838f3a7b775f8080
+29,Mariah Carey,Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ,79,https://i.scdn.co/image/0c68c052a574cffff7a6a09cbd801adb9b79219c
+30,Dem Franchize Boyz,Dem Franchize Boyz,0VKTLKamj4IH8OfQbUL0kq,https://api.spotify.com/v1/artists/0VKTLKamj4IH8OfQbUL0kq,52,https://i.scdn.co/image/7f89ea1a94c3912412895aa6875f59d5d6b5e8b0
+31,Eminem,Eminem,7dGJo4pcD2V6oG8kP0tJRR,https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR,93,https://i.scdn.co/image/56f4762485066b4ef867b96e16775f2b5b4db277
+32,T-Pain,T-Pain,3aQeKQSyrW4qWr35idm0cy,https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy,81,https://i.scdn.co/image/90890e95f26516915b4862f2b399739bb394239f
+33,Christina Aguilera,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,https://api.spotify.com/v1/artists/1l7ZsJRRS8wlW3WfJfPfNS,80,https://i.scdn.co/image/e3ea6d2340bba0d93450a813a0843fd9cf998e39
+34,Carrie Underwood,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,https://api.spotify.com/v1/artists/4xFUf1FHVy696Q1JQZMTRj,75,https://i.scdn.co/image/8483a22c7df8b3a0473e798f29617b6d11739ca9
+35,Snow Patrol,Snow Patrol,3rIZMv9rysU7JkLzEaC5Jp,https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp,72,https://i.scdn.co/image/9efec97c21ff998d874b96116bf4315975a8b42a
+36,Ludacris,Ludacris,3ipn9JLAPI5GUEo4y4jcoi,https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi,79,https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d
+37,Jamie Foxx,Jamie Foxx,7LnaAXbDVIL75IVPnndf7w,https://api.spotify.com/v1/artists/7LnaAXbDVIL75IVPnndf7w,70,https://i.scdn.co/image/a3823abbd476fa00cdf95a9f5cbbe09d2f96add2
+38,Hinder,Hinder,6BMhCQJYHxxKAeqYS1p5rY,https://api.spotify.com/v1/artists/6BMhCQJYHxxKAeqYS1p5rY,64,https://i.scdn.co/image/63a598d126200b22680e8793edff9044c1e86ec2
+39,KT Tunstall,KT Tunstall,5zzrJD2jXrE9dZ1AklRFcL,https://api.spotify.com/v1/artists/5zzrJD2jXrE9dZ1AklRFcL,62,https://i.scdn.co/image/9cd1397d9a52ba73919dafaf06c29373fe1a3813
+40,Cascada,Cascada,0N0d3kjwdY2h7UVuTdJGfp,https://api.spotify.com/v1/artists/0N0d3kjwdY2h7UVuTdJGfp,69,https://i.scdn.co/image/cab03bbdf40faf6c264174d99208c8308062e229
+41,D4L,D4L,4AllEJE7mVkhhyUV6DjqPz,https://api.spotify.com/v1/artists/4AllEJE7mVkhhyUV6DjqPz,53,https://i.scdn.co/image/8c0e6450f325451431ce7a9937ab6f80427e9443
+42,Kenny Chesney,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O,79,https://i.scdn.co/image/3062555a3ee95a02e3b082fed602e09a97b38b62
+43,Keyshia Cole,Keyshia Cole,1vfezMIyCr4XUdYRaKIKi3,https://api.spotify.com/v1/artists/1vfezMIyCr4XUdYRaKIKi3,70,https://i.scdn.co/image/0a5f449c2db42f645042756871625000ca482038
+44,Kanye West,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x,92,https://i.scdn.co/image/bd1c6fdf3705cf9b7d0c8ac8e7bbed98e31a1559
+45,E-40,E-40,3crnzLy8R4lVwaigKEOz7V,https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V,73,https://i.scdn.co/image/d8f36f82cd2f4752e93167e4187636cd032881c5
+46,Juelz Santana,Juelz Santana,6Uh8uJyN9g7oFjDK16nJgb,https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb,67,https://i.scdn.co/image/3181f9da53d969400dc55574f2b227dc461d2e12
+47,Nick Lachey,Nick Lachey,6ewMqjrF31lC8ywRsvm073,https://api.spotify.com/v1/artists/6ewMqjrF31lC8ywRsvm073,48,https://i.scdn.co/image/f0fad0c943dff19b4fba352521c22e808b28f4e4
+48,Busta Rhymes,Busta Rhymes,1YfEcTuGvBQ8xSD1f53UnK,https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK,75,https://i.scdn.co/image/d4c28fb970ac89443e6ce401222de7ad30382ee5
+49,Lil Jon,Lil Jon,7sfl4Xt5KmfyDs2T3SVSMK,https://api.spotify.com/v1/artists/7sfl4Xt5KmfyDs2T3SVSMK,75,https://i.scdn.co/image/5c35fe3e2d2c28f88940a7c48c4241528726c0c3
+50,Akon,Akon,0z4gvV4rjIZ9wHck67ucSV,https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV,82,https://i.scdn.co/image/20745ad5adc438c4aec164ca3cc2e04ed3abcb99
+51,Bon Jovi,Bon Jovi,58lV9VcRSjABbAbfWS6skp,https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp,81,https://i.scdn.co/image/255476a832d9647d73ed03ae51727cb911c565df
+52,Ciara,Ciara,2NdeV5rLm47xAvogXrYhJX,https://api.spotify.com/v1/artists/2NdeV5rLm47xAvogXrYhJX,74,https://i.scdn.co/image/50b2efea0870ebe54f7d8c34bf2673be4f8a4ca6
+53,Fort Minor,Fort Minor,7dWYWUbO68rXJOcyA7SpJk,https://api.spotify.com/v1/artists/7dWYWUbO68rXJOcyA7SpJk,66,https://i.scdn.co/image/d333d13b32a54c3dfdd0404eed2ed5bb435f12f7
+54,Three 6 Mafia,Three 6 Mafia,26s8LSolLfCIY88ysQbIuT,https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT,64,https://i.scdn.co/image/165ae96a3db4307de64173fa4e7b84a247784ca5
+55,Bubba Sparxxx,Bubba Sparxxx,3RPYHNSwe3w0mtfJwKIN9P,https://api.spotify.com/v1/artists/3RPYHNSwe3w0mtfJwKIN9P,60,https://i.scdn.co/image/b700a1c15e02064cd2d61fec033682255c584284
+56,Tim McGraw,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd,77,https://i.scdn.co/image/9c69376c94995012f70180c46fad020234b25128
+57,Jibbs,Jibbs,4USNIVeRwXIAdbVSTqelbh,https://api.spotify.com/v1/artists/4USNIVeRwXIAdbVSTqelbh,46,https://i.scdn.co/image/57cbafd7ba8ed411001e7f5570fc80090805891a
+58,Dierks Bentley,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,https://api.spotify.com/v1/artists/7x8nK0m0cP2ksQf0mjWdPS,73,https://i.scdn.co/image/c1a29282a8bdc55ce2a3a08c1500498349443fb8
+59,Ray J,Ray J,6gbGGM0E8Q1hE511psqxL0,https://api.spotify.com/v1/artists/6gbGGM0E8Q1hE511psqxL0,61,https://i.scdn.co/image/4326f63423f49ba204dab0153216ca5b333103c8
+60,Josh Turner,Josh Turner,7vCtweS8UVAXTyau2j0rDT,https://api.spotify.com/v1/artists/7vCtweS8UVAXTyau2j0rDT,68,https://i.scdn.co/image/4e74650d431430826f23e939a55323736901a2fa
+61,Keith Urban,Keith Urban,0u2FHSq3ln94y5Q57xazwf,https://api.spotify.com/v1/artists/0u2FHSq3ln94y5Q57xazwf,77,https://i.scdn.co/image/7c3954e6c88355a8cd5b41e1131765aa1b7afbce
+62,Lil Wayne,Lil Wayne,55Aa2cqylxrFIXC767Z865,https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865,90,https://i.scdn.co/image/df959d3993ded32689c465c1e6d0e96b612c1404
+63,Brad Paisley,Brad Paisley,13YmWQJFwgZrd4bf5IjMY4,https://api.spotify.com/v1/artists/13YmWQJFwgZrd4bf5IjMY4,71,https://i.scdn.co/image/6c35f9ead223914d15418a2e4a89106ba36772e7
+64,Ashlee Simpson,Ashlee Simpson,4hqDqHtBlgxXpLXVYf7c8L,https://api.spotify.com/v1/artists/4hqDqHtBlgxXpLXVYf7c8L,52,https://i.scdn.co/image/ece1104250b6a3cde1f8bec1bcfc1d7656821d1b
+65,Cherish,Cherish,1c70yCa8sRgIiQxl3HOEFo,https://api.spotify.com/v1/artists/1c70yCa8sRgIiQxl3HOEFo,51,https://i.scdn.co/image/1ced68845f35dde71852439f037871b3b3a677ab
+66,JoJo,JoJo,5xuNBZoM7z1Vv8IQ6uM0p6,https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6,69,https://i.scdn.co/image/71ef6b7eaa9b9f0d10f5374ddc71ca8328aba7b0
+67,Danity Kane,Danity Kane,3FD9VAd0ppjmKbfxF4LzUh,https://api.spotify.com/v1/artists/3FD9VAd0ppjmKbfxF4LzUh,51,https://i.scdn.co/image/68125870fdff456e17ad48b25d0ba948d1379515
+68,Field Mob,Field Mob,0Uo6kyjrbQoZBlcXsMb8Vm,https://api.spotify.com/v1/artists/0Uo6kyjrbQoZBlcXsMb8Vm,48,https://i.scdn.co/image/cc5491ff832e63f08f9b51d580fb5821670e4fd0
+69,Timbaland,Timbaland,5Y5TRrQiqgUO4S36tzjIRZ,https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ,76,https://i.scdn.co/image/71e2c7a1026d3a2397ae7ee08797a95d9a16c19f
+70,Daddy Yankee,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m,91,https://i.scdn.co/image/aadcc5ddaf244604d3c8126d634aedf2a272c4fd
+71,Evanescence,Evanescence,5nGIFgo0shDenQYSE0Sn7c,https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c,74,https://i.scdn.co/image/596321c7e8a65b43e285a2b33447673d0e3e8613
+72,Weezer,Weezer,3jOstUTkEu2JkjvRdBA5Gu,https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu,76,https://i.scdn.co/image/6b6289ebd6f1b70f65a7ea0b0d83af8e9dda5859
+73,Madonna,Madonna,6tbjWDEIzxoDsBA1FuhfPW,https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW,79,https://i.scdn.co/image/96b4818a65820e91e0e17fcf55a4d2213b019ad4
+74,Blue October,Blue October,1TJbmc7jTpw78GKCiMpvDh,https://api.spotify.com/v1/artists/1TJbmc7jTpw78GKCiMpvDh,61,https://i.scdn.co/image/cb41b77bee6e1fa50b6b839247bd74bc1880cd3d
+75,Toby Keith,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8,73,https://i.scdn.co/image/f7fa421e319432a08c0f1a13cdb03d6788f4a03e
+76,Lifehouse,Lifehouse,5PokPZn11xzZXyXSfnvIM3,https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3,68,https://i.scdn.co/image/9f4e1537f151e246c4286f8752b5541045cd5d7a
+77,Wyclef Jean,Wyclef Jean,7aBzpmFXB4WWpPl2F7RjBe,https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe,72,https://i.scdn.co/image/ba6e9bbf813f0a877ff31c397ffeda1366522517
+78,Young Jeezy,DJ Drama & Young Jeezy,1kJXCyS43NnwlscWJFxjCK,https://api.spotify.com/v1/artists/1kJXCyS43NnwlscWJFxjCK,22,https://i.scdn.co/image/ab67616d0000b27318e04370ad30963dc51e2bf8
+79,Bow Wow,Bow Wow,7352aRY2mqSxBZwzUb6LmA,https://api.spotify.com/v1/artists/7352aRY2mqSxBZwzUb6LmA,65,https://i.scdn.co/image/f67a804bc8323d2b5bf616926561a072649f15e4
+80,Young Dro,Young Dro,3ZooCJzNMTLpmJaIRUEorI,https://api.spotify.com/v1/artists/3ZooCJzNMTLpmJaIRUEorI,55,https://i.scdn.co/image/06fbfde57a9e92f9c21820b5683690a3d6dd0b81
+81,John Mayer,John Mayer,0hEurMDQu99nJRq8pTxO14,https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14,83,https://i.scdn.co/image/093f63fe03e52d014286eb6e0afa9a099214cf65
+82,Paul Wall,Paul Wall,0k7Xl1pqI3tu8sSEjo5oEg,https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg,64,https://i.scdn.co/image/c8ffc8b2eee2b4111c75d689b7fec456fcc0b839
+83,Kelis,Kelis,0IF46mUS8NXjgHabxk2MCM,https://api.spotify.com/v1/artists/0IF46mUS8NXjgHabxk2MCM,65,https://i.scdn.co/image/977668064535a289d35377405b81673d22355411
+84,Chingy,Chingy,3s2wTjWxK8NOX09dmsvVOh,https://api.spotify.com/v1/artists/3s2wTjWxK8NOX09dmsvVOh,62,https://i.scdn.co/image/bcefde6ea47489f646036348f09a260145a20420
+85,Gwen Stefani,Gwen Stefani,4yiQZ8tQPux8cPriYMWUFP,https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP,75,https://i.scdn.co/image/5e97075f4f0f5b9ab433277f1e81711937831af9
+86,Krayzie Bone,Krayzie Bone,53B8dEQzmtefvkdCAkO0YR,https://api.spotify.com/v1/artists/53B8dEQzmtefvkdCAkO0YR,60,https://i.scdn.co/image/418fbdf9c8f00e8e431dfe9aec1affafaff52066
+87,George Strait,George Strait,5vngPClqofybhPERIqQMYd,https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd,75,https://i.scdn.co/image/707d970fca0f22c19b105e4b8493549c61e70e05
+88,Slim Thug,Slim Thug,0st5vgzw9XkH5ALJiUM1lE,https://api.spotify.com/v1/artists/0st5vgzw9XkH5ALJiUM1lE,62,https://i.scdn.co/image/c5a7b744cc9c97d29d53f99fe06dfc6dbd1b0635
+89,Trace Adkins,Trace Adkins,79FMDwzZQxHgSkIYBl3ODU,https://api.spotify.com/v1/artists/79FMDwzZQxHgSkIYBl3ODU,67,https://i.scdn.co/image/7cd32573cfad17996a733b399872e97d5d79876a
+90,Gorillaz,Gorillaz,3AA28KZvwAUcZuOKwyblJQ,https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ,81,https://i.scdn.co/image/6db4b03387bbf74d61d8f3eedda973ab6c2ae331
+91,Taylor Hicks,Taylor Hicks,3E3tW69eMfAffLGgsmP3GG,https://api.spotify.com/v1/artists/3E3tW69eMfAffLGgsmP3GG,30,https://i.scdn.co/image/b6908e878d14e98576e6f386a39a5486c1b4de31
+92,Snoop Dogg,Snoop Dogg,7hJcb9fa4alzcOq3EaNPoG,https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG,85,https://i.scdn.co/image/11208d65843456cf3854717b8e411ef8fede7141
+93,Little Big Town,Little Big Town,3CygdxquGHurS7f9LjNLkv,https://api.spotify.com/v1/artists/3CygdxquGHurS7f9LjNLkv,69,https://i.scdn.co/image/318ea2866d1ba4684455deac74b9d1b8a2f04899
+94,P!nk,P!nk,1KCSPY1glIKqW2TotWuXOR,https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR,83,https://i.scdn.co/image/afc2d276d9c1b398d4f1048c20584f926296b9c0
+95,Goo Goo Dolls,The Goo Goo Dolls,2sil8z5kiy4r76CRTXxBCA,https://api.spotify.com/v1/artists/2sil8z5kiy4r76CRTXxBCA,73,https://i.scdn.co/image/f4722064424e9bf36c762cb73035c093d7ee70a4
+96,Faith Hill,Faith Hill,25NQNriVT2YbSW80ILRWJa,https://api.spotify.com/v1/artists/25NQNriVT2YbSW80ILRWJa,67,https://i.scdn.co/image/7f96ce69950537eeed0a5050d41c7b838670f441
+97,Teddy Geiger,Teddy Geiger,1YIpZOfyHXMUgUaxxxgbaC,https://api.spotify.com/v1/artists/1YIpZOfyHXMUgUaxxxgbaC,41,https://i.scdn.co/image/9ad04e70b1e23cf02d6607b82dce5ac44d5c6376
+98,The Wreckers,The Wreckers,2jI32eTOcSx2bn1MGgRyei,https://api.spotify.com/v1/artists/2jI32eTOcSx2bn1MGgRyei,47,https://i.scdn.co/image/0b599d55ec9592e8a3010d4b948db1aa8b4a0bd5
+99,Daughtry,Daughtry,5P5FTygHyx2G57oszR3Wot,https://api.spotify.com/v1/artists/5P5FTygHyx2G57oszR3Wot,68,https://i.scdn.co/image/0dbd14e742ead19c971f83eee4d09b8ef1e0c7ea
+100,Avril Lavigne,Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j,79,https://i.scdn.co/image/035ad2a01098302eb1d195668fe153c364cb77b1
+101,Maroon 5,Maroon 5,04gDigrS5kc9YWfZHwBETP,https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP,89,https://i.scdn.co/image/608c7b23420c9556a7eabd9097f7e171a91d3871
+102,Plain White T's,Plain White T's,1g1yxsNVPhMUl9GrMjEb2o,https://api.spotify.com/v1/artists/1g1yxsNVPhMUl9GrMjEb2o,70,https://i.scdn.co/image/a889bfd56066100596b2f3a42956d8c4dea475c3
+103,Mims,MiMS,76RrKpsvOmSKG8CIjROdSG,https://api.spotify.com/v1/artists/76RrKpsvOmSKG8CIjROdSG,50,https://i.scdn.co/image/bea4d41a52c39970ad1f20d8b0ee980c71eaa583
+104,Unk,Unknown Mortal Orchestra,1LeVJ5GPeYDOVUjxx1y7Rp,https://api.spotify.com/v1/artists/1LeVJ5GPeYDOVUjxx1y7Rp,67,https://i.scdn.co/image/a8ca1855ebcd08dc6203d67560c76a37110c9fc3
+105,Shop Boyz,Shop Boyz,3v3clM1KQgVfpPjKJFPAmx,https://api.spotify.com/v1/artists/3v3clM1KQgVfpPjKJFPAmx,49,https://i.scdn.co/image/4f1ed874f1bd01b72d3ef5a955134566b0421091
+106,Sean Kingston,Sean Kingston,6S0dmVVn4udvppDhZIWxCr,https://api.spotify.com/v1/artists/6S0dmVVn4udvppDhZIWxCr,74,https://i.scdn.co/image/ce0a4412aa74a2b7e591b23380e7b238678a1df3
+107,Soulja Boy Tell'em,Soulja Boy,6GMYJwaziB4ekv1Y6wCDWS,https://api.spotify.com/v1/artists/6GMYJwaziB4ekv1Y6wCDWS,70,https://i.scdn.co/image/4a3d35ac9793444096cfe1c97ce689786a4128e8
+108,Lloyd,Lloyd,1Xfmvd48oOhEWkscWyEbh9,https://api.spotify.com/v1/artists/1Xfmvd48oOhEWkscWyEbh9,68,https://i.scdn.co/image/ad7bfe74eb0f28fe77e461e95aca69e6df87d489
+109,Jim Jones,Jim Jones,6AMa1VFQ7qCi61tCRtVWXe,https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe,58,https://i.scdn.co/image/10412f2e4d9cbeadf0d168806b283adf7b02ee09
+110,Linkin Park,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz,86,https://i.scdn.co/image/1685533969d5b68cbc630f991e873bd6467f1814
+111,JAY-Z,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB,86,https://i.scdn.co/image/4912d27d6b01dd790313d8ef76586be6b100550f
+112,My Chemical Romance,My Chemical Romance,7FBcuc1gsnv6Y1nwFtNRCb,https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb,79,https://i.scdn.co/image/bab47daddd2c01b0ee83e54536aa7e2c77ba7c14
+113,Gym Class Heroes,Gym Class Heroes,4IJczjB0fJ04gs4uvP0Fli,https://api.spotify.com/v1/artists/4IJczjB0fJ04gs4uvP0Fli,69,https://i.scdn.co/image/e5b90ff0cf95729bcf5fd7790d8d0e23acdc325b
+114,Diddy,Diddy,59wfkuBoNyhDMQGCljbUbA,https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA,76,https://i.scdn.co/image/605b9f65fff2dee52625aac975d146f13cc6bf1d
+115,Huey,Huey Lewis & The News,7A9yZMTrFZcgEWAX2kBfK6,https://api.spotify.com/v1/artists/7A9yZMTrFZcgEWAX2kBfK6,67,https://i.scdn.co/image/09f7435fcbfd7f57dae159b875b4e04f49305db7
+116,Elliott Yamin,Elliott Yamin,4am1I89OWXUzFh4ctRLkdd,https://api.spotify.com/v1/artists/4am1I89OWXUzFh4ctRLkdd,51,https://i.scdn.co/image/4483920e320a5761d09fe33dfdb206c3b57abdd3
+117,Taylor Swift,Taylor Swift,06HL4z0CvFAxyc27GXpf02,https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02,91,https://i.scdn.co/image/62b33d12e2b9a033cf77585f6e3d4b2c6b3a63a1
+118,Omarion,Omarion,0f5nVCcR06GX8Qikz0COtT,https://api.spotify.com/v1/artists/0f5nVCcR06GX8Qikz0COtT,67,https://i.scdn.co/image/9cb73d7cb6ad30278674bed3721e914257e5e785
+119,Robin Thicke,Robin Thicke,0ZrpamOxcZybMHGg1AYtHP,https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP,68,https://i.scdn.co/image/2dcf2d7a9ae2f3548d09ab7cca7d8351f3825518
+120,R. Kelly,R. Kelly,2mxe0TnaNL039ysAj51xPQ,https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ,71,https://i.scdn.co/image/b81390065f0c65c26270a4ca1d2ceae3e30efed6
+121,Hurricane Chris,Hurricane Chris,1fQ46lgoUCz8FVXdTVNk0a,https://api.spotify.com/v1/artists/1fQ46lgoUCz8FVXdTVNk0a,48,https://i.scdn.co/image/9349596db90c1b27c1a00b1f1946c5b40b4f75e4
+122,The Red Jumpsuit Apparatus,The Red Jumpsuit Apparatus,1SImpQO0GbjRgvlwCcCtFo,https://api.spotify.com/v1/artists/1SImpQO0GbjRgvlwCcCtFo,65,https://i.scdn.co/image/a4a9a73ac151c0a36634ce7273a96d5c2d9b290d
+123,Fabolous,Fabolous,0YWxKQj2Go9CGHCp77UOyy,https://api.spotify.com/v1/artists/0YWxKQj2Go9CGHCp77UOyy,74,https://i.scdn.co/image/6e1c2c7512e8432b4ef2f2fbeb80fdb3c8593ea8
+124,50 Cent,50 Cent,3q7HBObVc0L8jNeTe5Gofh,https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh,85,https://i.scdn.co/image/dd031b9c5d1b6eba4a691cd89c954255aae787f2
+125,Amy Winehouse,Amy Winehouse,6Q192DXotxtaysaqNPy5yR,https://api.spotify.com/v1/artists/6Q192DXotxtaysaqNPy5yR,78,https://i.scdn.co/image/19278c375c5a1bedc0718a8f6c486989db352ea5
+126,Rodney Atkins,Rodney Atkins,2qgvmDsc4jrqbAbjq1HGM2,https://api.spotify.com/v1/artists/2qgvmDsc4jrqbAbjq1HGM2,69,https://i.scdn.co/image/6b835aad40164890d996b54b6c01771f6e07d672
+127,Sugarland,Sugarland,0hYxQe3AK5jBPCr5MumLHD,https://api.spotify.com/v1/artists/0hYxQe3AK5jBPCr5MumLHD,63,https://i.scdn.co/image/43d2b949b75d07184f0a1976e838f2755dd529f3
+128,Musiq Soulchild,Musiq Soulchild,3UVRliakQfa1pMWIsNuiZ8,https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8,62,https://i.scdn.co/image/28e2d398637ed9e43b4656706cc9785e318e272d
+129,Colbie Caillat,Colbie Caillat,6aZyMrc4doVtZyKNilOmwu,https://api.spotify.com/v1/artists/6aZyMrc4doVtZyKNilOmwu,73,https://i.scdn.co/image/b907bdadb452c37654d528e945c933c36c66555a
+130,J. Holiday,J. Holiday,7G6hXrjGpi6I7waNl4wxAk,https://api.spotify.com/v1/artists/7G6hXrjGpi6I7waNl4wxAk,57,https://i.scdn.co/image/e8a48dd66904570087b66f1196b900554aef78a0
+131,Fat Joe,Fat Joe,3ScY9CQxNLQei8Umvpx5g6,https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6,72,https://i.scdn.co/image/43b2c59d9442d43ab76577226b399000239ada51
+132,Alicia Keys,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa,82,https://i.scdn.co/image/e22dcb4ff37667bf1cd605639ec393d1e5dce1db
+133,Plies,Plies,3jksrX4oBklxR78ft8gv3j,https://api.spotify.com/v1/artists/3jksrX4oBklxR78ft8gv3j,67,https://i.scdn.co/image/336e8483ab962ecae9368c4d0e78dcb642c7e86a
+134,Boys Like Girls,Boys Like Girls,0vWCyXMrrvMlCcepuOJaGI,https://api.spotify.com/v1/artists/0vWCyXMrrvMlCcepuOJaGI,64,https://i.scdn.co/image/98255bba79d0fc188644801b8fd551f2623df32b
+135,Lil' Boosie,Lil Boosie,1dZj9MWXyeVTdP1ezinAwa,https://api.spotify.com/v1/artists/1dZj9MWXyeVTdP1ezinAwa,27,https://i.scdn.co/image/ab67616d0000b273c238e576bca28ee19a5aa604
+136,Hellogoodbye,Hellogoodbye,6GH0NzpthMGxu1mcfAkOde,https://api.spotify.com/v1/artists/6GH0NzpthMGxu1mcfAkOde,51,https://i.scdn.co/image/46eb8bc663f5a161833eea7eee32c60353f23893
+137,Pretty Ricky,Pretty Ricky,6XwcepfAsPhrvwziGxhwju,https://api.spotify.com/v1/artists/6XwcepfAsPhrvwziGxhwju,61,https://i.scdn.co/image/e287f7925453b7cf7c8b5f6757a8aa53f028d1aa
+138,Baby Boy Da Prince,Baby Boy Da Prince,15Y1yUEchPPl4w20CLvFyb,https://api.spotify.com/v1/artists/15Y1yUEchPPl4w20CLvFyb,45,https://i.scdn.co/image/e49f1e1bb438a866472e97dc2087c87afdc9e5c0
+139,Bone Thugs-N-Harmony,Bone Thugs-N-Harmony,5spEJXLwD1sKUdC2bnOHPg,https://api.spotify.com/v1/artists/5spEJXLwD1sKUdC2bnOHPg,68,https://i.scdn.co/image/2549ade83c56688941a10a824779d755361c3dce
+140,Three Days Grace,Three Days Grace,2xiIXseIJcq3nG7C8fHeBj,https://api.spotify.com/v1/artists/2xiIXseIJcq3nG7C8fHeBj,77,https://i.scdn.co/image/2a9ec8d494f8d0a52fd67c3239efc2b9e79a4ced
+141,Paula DeAnda,Paula DeAnda,54kWB5z9SbenPFQXtBDUBK,https://api.spotify.com/v1/artists/54kWB5z9SbenPFQXtBDUBK,50,https://i.scdn.co/image/bf674893123f8a111beffdde44f9cc14a413adce
+142,Jonas Brothers,Jonas Brothers,7gOdHgIoIKoe4i9Tta6qdD,https://api.spotify.com/v1/artists/7gOdHgIoIKoe4i9Tta6qdD,84,https://i.scdn.co/image/81415a47bf49148ed333cba4765551f4da5d7d30
+143,Finger Eleven,Finger Eleven,0niJkG4tKkne3zwr7I8n9n,https://api.spotify.com/v1/artists/0niJkG4tKkne3zwr7I8n9n,59,https://i.scdn.co/image/d934f4b7e61eec74c55414a9dd75192823d869d0
+144,Rich Boy,Rich Boy,6mXlDbi03T8wXYwWYew0Ut,https://api.spotify.com/v1/artists/6mXlDbi03T8wXYwWYew0Ut,49,https://i.scdn.co/image/69799c37a792d622e6738f186b9058f6b6c0a0d3
+145,Fantasia,Fantasia,7xAcVHPiirnUqfdqo0USb1,https://api.spotify.com/v1/artists/7xAcVHPiirnUqfdqo0USb1,61,https://i.scdn.co/image/da597aa7beecf038e5dd9dc143c346025b2c3b6d
+146,Hannah Montana,Hannah Montana,7nU4hB040gTmHm45YYMvqc,https://api.spotify.com/v1/artists/7nU4hB040gTmHm45YYMvqc,67,https://i.scdn.co/image/1bb652996764243c1d963008898de2ab514b4796
+147,Keri Hilson,Keri Hilson,63wjoROpeh5f11Qm93UiJ1,https://api.spotify.com/v1/artists/63wjoROpeh5f11Qm93UiJ1,68,https://i.scdn.co/image/d4292e99f89f4a9e75e9723da5a0d592ed307215
+148,Big & Rich,Big & Rich,0oBEeN6BCxEgMogzThqrPf,https://api.spotify.com/v1/artists/0oBEeN6BCxEgMogzThqrPf,62,https://i.scdn.co/image/9262e44f60c7095fad0971bb46aa8653fad296ed
+149,Jason Aldean,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH,79,https://i.scdn.co/image/444faa613370092987253ac10d35433c96223295
+150,DJ Khaled,DJ Khaled,0QHgL1lAIqAw0HtD7YldmP,https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP,80,https://i.scdn.co/image/6157e32d132fda1549975e50b20035962ba24076
+151,Augustana,Augustana,61YE3whKiuRr83j1yOm5M7,https://api.spotify.com/v1/artists/61YE3whKiuRr83j1yOm5M7,53,https://i.scdn.co/image/8c483f97584f394ccfb6665a0e321da1e56c0e51
+152,Britney Spears,Britney Spears,26dSoYclwsYLMAKD3tpOr4,https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4,82,https://i.scdn.co/image/3e47967513ccda2182b17a1b29c00810b8965bd9
+153,Eve,Eve,4d3yvTptO48nOYTPBcPFZC,https://api.spotify.com/v1/artists/4d3yvTptO48nOYTPBcPFZC,68,https://i.scdn.co/image/8d176bb912f0b30db3f2a1c5ff7c06903963b9bc
+154,Patrick Stump,Patrick Stump,0wsdUS0EJ7zHgti2nxTVWR,https://api.spotify.com/v1/artists/0wsdUS0EJ7zHgti2nxTVWR,47,https://i.scdn.co/image/8d536e7709acc8aeaef0decdb7656ead61a43408
+155,Kilo,Kilo Kish,7lsnwlX6puQ7lcpSEpJbZE,https://api.spotify.com/v1/artists/7lsnwlX6puQ7lcpSEpJbZE,52,https://i.scdn.co/image/2818f577d3d2d7bb6893d7f4434b9d3470dd9a4c
+156,Leona Lewis,Leona Lewis,5lKZWd6HiSCLfnDGrq9RAm,https://api.spotify.com/v1/artists/5lKZWd6HiSCLfnDGrq9RAm,72,https://i.scdn.co/image/2d72162726d3e1b9cee0c37fb35701201396fc04
+157,Flo Rida,Flo Rida,0jnsk9HBra6NMjO2oANoPY,https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY,81,https://i.scdn.co/image/2d0b5f483c7ed95b7c3c63147c3d38f9366b2c21
+158,Jordin Sparks,Jordin Sparks,2AQjGvtT0pFYfxR3neFcvz,https://api.spotify.com/v1/artists/2AQjGvtT0pFYfxR3neFcvz,68,https://i.scdn.co/image/cd7dd075376199bbeacd472734712ed35c6e6ea7
+159,Katy Perry,Katy Perry,6jJ0s89eD6GaHleKKya26X,https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X,87,https://i.scdn.co/image/ecebace064c7a48b7ae4a611b82887aa79163c1e
+160,Sara Bareilles,Sara Bareilles,2Sqr0DXoaYABbjBo9HaMkM,https://api.spotify.com/v1/artists/2Sqr0DXoaYABbjBo9HaMkM,73,https://i.scdn.co/image/c0ba7c3e23bb7446df54244be5fb7a50372f7183
+161,Coldplay,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU,88,https://i.scdn.co/image/4ffd6710617d289699cc0df60cf975e316025119
+162,Miley Cyrus,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6,83,https://i.scdn.co/image/b5079187578650ea27fba00480ddf80182777fda
+163,Usher,Usher,23zg3TcAtWQy7J6upgbUnj,https://api.spotify.com/v1/artists/23zg3TcAtWQy7J6upgbUnj,83,https://i.scdn.co/image/59790a2ffc64b4e3823a3758c622af25bc794d23
+164,OneRepublic,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ,86,https://i.scdn.co/image/5d3c1ba4fe1c8bf44591864e725d7b0f98e46755
+165,The-Dream,The-Dream,1W3FSF1BLpY3hlVIgvenLz,https://api.spotify.com/v1/artists/1W3FSF1BLpY3hlVIgvenLz,69,https://i.scdn.co/image/61850dc2b8b91b519e9b2aa520c95017c2509918
+166,Jesse McCartney,Jesse McCartney,2Hjj68yyUPiC0HKEOigcEp,https://api.spotify.com/v1/artists/2Hjj68yyUPiC0HKEOigcEp,68,https://i.scdn.co/image/39eb57f413179fb8b49e147df75986713f8a6d1e
+167,Jason Mraz,Jason Mraz,4phGZZrJZRo4ElhRtViYdl,https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl,79,https://i.scdn.co/image/71c566f8ddb1c137fd9ae6b7f8bcc9e41322d2db
+168,Metro Station,Metro Station,7vXwfZyDp3spzIVNXDaTPN,https://api.spotify.com/v1/artists/7vXwfZyDp3spzIVNXDaTPN,58,https://i.scdn.co/image/4a3b8fda2a1185f4d9746edaeb457c1d0ade467e
+169,David Cook,David Cook,4SQxI8xg6LcSWL3KuGVHLa,https://api.spotify.com/v1/artists/4SQxI8xg6LcSWL3KuGVHLa,49,https://i.scdn.co/image/ca9768bea754ac8d31a5b071ae29a4bab28abf45
+170,Yung Berg,Yung Berg,0BrPKSAeplwezYR1T2DF9s,https://api.spotify.com/v1/artists/0BrPKSAeplwezYR1T2DF9s,45,https://i.scdn.co/image/908faae8baa3ce535fee4ec922f99d532d03e87c
+171,M.I.A.,M.I.A.,0QJIPDAEDILuo8AIq3pMuU,https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU,68,https://i.scdn.co/image/31ef1aaf80f623deaeda9c8d5a4074b7f8b34516
+172,Paramore,Paramore,74XFHRwlV6OrjEM0A2NCMF,https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF,79,https://i.scdn.co/image/7c46ccf2b9b95366a3b660470e009dac3f21dc40
+173,Buckcherry,Buckcherry,0yN7xI1blow9nYIK0R8nM7,https://api.spotify.com/v1/artists/0yN7xI1blow9nYIK0R8nM7,60,https://i.scdn.co/image/940a49ad26401eb412ebc5731e37096e190b133d
+174,3 Doors Down,3 Doors Down,2RTUTCvo6onsAnheUk3aL9,https://api.spotify.com/v1/artists/2RTUTCvo6onsAnheUk3aL9,73,https://i.scdn.co/image/ead4e883a59d30d8c157385aa531d3fe8e688fc0
+175,Kardinal Offishall,Kardinal Offishall,5P2rwRBgIN450RaJxdjYdA,https://api.spotify.com/v1/artists/5P2rwRBgIN450RaJxdjYdA,61,https://i.scdn.co/image/05969c013975c0cfd41734bbfd86b917c5708cf1
+176,Alan Jackson,Alan Jackson,4mxWe1mtYIYfP040G38yvS,https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS,75,https://i.scdn.co/image/43fdc2605725f488299398758ffb2c46e6ee7d38
+177,Secondhand Serenade,Secondhand Serenade,6eouuqqGggqDlYRV63cgPo,https://api.spotify.com/v1/artists/6eouuqqGggqDlYRV63cgPo,63,https://i.scdn.co/image/152cbbc070b2586156496e96bdb6f71ecd521972
+178,Static Major,Static Major,3pbi8H08p95NUZ7m6ybxUV,https://api.spotify.com/v1/artists/3pbi8H08p95NUZ7m6ybxUV,61,https://i.scdn.co/image/076a47cb200b8981b3001216089857a544c61fe7
+179,Trey Songz,Trey Songz,2iojnBLj0qIMiKPvVhLnsH,https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH,78,https://i.scdn.co/image/24d2af9d7f807fe744a157018cf0e0e9f9391f53
+180,Colby O'Donis,Colby O'Donis,7fObcBw9VM3x7ntWKCYl0z,https://api.spotify.com/v1/artists/7fObcBw9VM3x7ntWKCYl0z,67,https://i.scdn.co/image/5778a26294a00f22b82bb4cd029b431825545043
+181,David Archuleta,David Archuleta,2C9n4tQgNLhHPhSCmdsQnk,https://api.spotify.com/v1/artists/2C9n4tQgNLhHPhSCmdsQnk,62,https://i.scdn.co/image/64c55d584425802f5f13ce40564474cf5722f567
+182,Montgomery Gentry,Montgomery Gentry,3bGXaFVQLASmDMdjjeJr8a,https://api.spotify.com/v1/artists/3bGXaFVQLASmDMdjjeJr8a,64,https://i.scdn.co/image/fb3bd375b7e7ad66bf06137d9a0032a0d873fcf8
+183,Estelle,Estelle,5T0MSzX9RC5NA6gAI6irSn,https://api.spotify.com/v1/artists/5T0MSzX9RC5NA6gAI6irSn,68,https://i.scdn.co/image/096472d14e73f69c619f5d580a9518c68a302677
+184,Webbie,Webbie,6aIm51fHkokqlJn2vzNTH8,https://api.spotify.com/v1/artists/6aIm51fHkokqlJn2vzNTH8,60,https://i.scdn.co/image/08fa85178f4a59b0230fe345ae43930648d2e1f4
+185,Rick Ross,Rick Ross,1sBkRIssrMs1AbVkOJbc7a,https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a,83,https://i.scdn.co/image/d385491147314cbbe2826da3a379902891f97213
+186,Baby Bash,Baby Bash,12PSlydMSjEHzSCj9X5qv7,https://api.spotify.com/v1/artists/12PSlydMSjEHzSCj9X5qv7,66,https://i.scdn.co/image/e660bb0a1059c2fdefd00f579b7bdf7bca87ca2f
+187,Kid Rock,Kid Rock,7dOBabd5O4CvKrg4iriHTM,https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM,73,https://i.scdn.co/image/89f8d2b745e628e73886533744c8df602328874e
+188,Gavin DeGraw,Gavin DeGraw,5DYAABs8rkY9VhwtENoQCz,https://api.spotify.com/v1/artists/5DYAABs8rkY9VhwtENoQCz,69,https://i.scdn.co/image/80f2e66ec853cf0974a870307abc686c98be1822
+189,Jazmine Sullivan,Jazmine Sullivan,7gSjFKpVmDgC2MMsnN8CYq,https://api.spotify.com/v1/artists/7gSjFKpVmDgC2MMsnN8CYq,63,https://i.scdn.co/image/c44cb365c0c87157cb1842615aa6ad7bd8a1245f
+190,Gavin Rossdale,Gavin Rossdale,6lBam1B1t8wpnH7pJHWnj6,https://api.spotify.com/v1/artists/6lBam1B1t8wpnH7pJHWnj6,38,https://i.scdn.co/image/6156030d79bc2b4a14b7ad91c0061fd2e00935f5
+191,Lupe Fiasco,Lupe Fiasco,01QTIT5P1pFP3QnnFSdsJf,https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf,70,https://i.scdn.co/image/3dc24b4e5b47c80ff3614aa20ebc4fcfc39e5b65
+192,Kevin Rudolf,Kevin Rudolf,0Chxmm4XMM87mJOHvyiUzL,https://api.spotify.com/v1/artists/0Chxmm4XMM87mJOHvyiUzL,57,https://i.scdn.co/image/1c06c58c1049dbc082a44edc35ac2e20f8f69c96
+193,David Banner,David Banner,7jFaoqWPhYLrKzjzlpXmUO,https://api.spotify.com/v1/artists/7jFaoqWPhYLrKzjzlpXmUO,56,https://i.scdn.co/image/633d4785459de9d79caef69e87d3d54dcb19cfa0
+194,Saving Abel,Saving Abel,2AVVj8ezW2mJ0v8u7XydiF,https://api.spotify.com/v1/artists/2AVVj8ezW2mJ0v8u7XydiF,58,https://i.scdn.co/image/dc40b45568815720418c391ce60e7a0fdcc153da
+195,Yael Naim,Yael Naim,32aFdXARUiqP81SXqIPD4w,https://api.spotify.com/v1/artists/32aFdXARUiqP81SXqIPD4w,56,https://i.scdn.co/image/9a28c362e81d1ee52d30ad6617709fd4a05c0978
+196,Pitbull,Pitbull,0TnOYISbd1XYRBk9myaseg,https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg,85,https://i.scdn.co/image/1353990534aef10c946cf3a47865ac22471be5c4
+197,Jennifer Hudson,Jennifer Hudson,35GL8Cu2GKTcHzKGi75xl5,https://api.spotify.com/v1/artists/35GL8Cu2GKTcHzKGi75xl5,63,https://i.scdn.co/image/a93b0372e1caf4bc5645beb07b226cbc6065a4f7
+198,The Game,The Game,0NbfKEOTQCcwd6o7wSDOHI,https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI,76,https://i.scdn.co/image/78b601bc99711d752b6e28eda5a4857315488166
+199,Mario,Mario,20s0P9QLxGqKuCsGwFsp7w,https://api.spotify.com/v1/artists/20s0P9QLxGqKuCsGwFsp7w,70,https://i.scdn.co/image/bddf9d80fb1d1729ec5aaa7084e1eaf7f581cdbd
+200,James Otto,James Otto,3VStI6m5Ig9FAyUaa0lYAP,https://api.spotify.com/v1/artists/3VStI6m5Ig9FAyUaa0lYAP,49,https://i.scdn.co/image/5cdb96a9feee72d7c294224c508e237370710bb7
+201,Duffy,,,,,
+202,matchbox twenty,Matchbox Twenty,3Ngh2zDBRPEriyxQDAMKd1,https://api.spotify.com/v1/artists/3Ngh2zDBRPEriyxQDAMKd1,70,https://i.scdn.co/image/f67260ebb6d8f65bcadbb765f31537d94159dae6
+203,Blake Shelton,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw,77,https://i.scdn.co/image/0ca896cd5d9ecba06f93c20ddc3c09417a363d83
+204,Lady Gaga,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms,93,https://i.scdn.co/image/d9ae12e3a1ce7fcf169fb494ccc9b05769ab314d
+205,Drake,Drake,3TVXtAsR1Inumwj472S9r4,https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4,98,https://i.scdn.co/image/60cfab40c6bb160a1906be45276829d430058005
+206,Kings Of Leon,Kings of Leon,2qk9voo8llSGYcZ6xrBzKx,https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx,78,https://i.scdn.co/image/168a281f4a0b1c2c61acb010239ead4710a234a3
+207,Kid Cudi,Kid Cudi,0fA0VVWsXO9YnASrzqfmYu,https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu,86,https://i.scdn.co/image/e69bd60976fd81d1368adc34423c691d86f92e0d
+208,Shinedown,Shinedown,70BYFdaZbEKbeauJ670ysI,https://api.spotify.com/v1/artists/70BYFdaZbEKbeauJ670ysI,75,https://i.scdn.co/image/74292a0155904aa148fb470cae6e6cbbad2b659f
+209,Zac Brown Band,Zac Brown Band,6yJCxee7QumYr820xdIsjo,https://api.spotify.com/v1/artists/6yJCxee7QumYr820xdIsjo,78,https://i.scdn.co/image/c229d59dead54557194c6c3961e5290639ffa00c
+210,3OH!3,3OH!3,0FWzNDaEu9jdgcYTbcOa4F,https://api.spotify.com/v1/artists/0FWzNDaEu9jdgcYTbcOa4F,66,https://i.scdn.co/image/305a374cd85f4be8c8dc0aaabd06b2b45d774eab
+211,Jeremih,Jeremih,3KV3p5EY4AvKxOlhGHORLg,https://api.spotify.com/v1/artists/3KV3p5EY4AvKxOlhGHORLg,81,https://i.scdn.co/image/48e38236955edc0ac5dbe291992dbf82a90e6d6d
+212,Jay Sean,Jay Sean,4pADjHPWyrlAF0FA7joK2H,https://api.spotify.com/v1/artists/4pADjHPWyrlAF0FA7joK2H,70,https://i.scdn.co/image/5802cbd4236451a2ae39d213fd087fa925bfca1c
+213,Jason Derulo,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,https://api.spotify.com/v1/artists/07YZf4WDAMNwqr4jfgOZ8y,88,https://i.scdn.co/image/300b459748ce4d11ce1e222eb3d7dff8e854d6da
+214,Lady A,Lady A,32WkQRZEVKSzVAAYqukAEA,https://api.spotify.com/v1/artists/32WkQRZEVKSzVAAYqukAEA,74,https://i.scdn.co/image/1c56e7ca36810c54aab6f0d9d05f59379c008150
+215,Green Day,Green Day,7oPftvlwr6VrsViSDV7fJY,https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY,83,https://i.scdn.co/image/41778f8778469286e6aa9ef751cdc8e942bc0a6f
+216,Darius Rucker,Darius Rucker,7FY5V3XMwlNBPitEjXowHQ,https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ,70,https://i.scdn.co/image/ff980d04733dc5ac8e399cddce9dfa74478ade47
+217,Billy Currington,Billy Currington,1By9QBFnjZAoI83BZppHlt,https://api.spotify.com/v1/artists/1By9QBFnjZAoI83BZppHlt,71,https://i.scdn.co/image/b54b36596d1511fd262e8e60445689624cd1adca
+218,Owl City,Owl City,07QEuhtrNmmZ0zEcqE9SF6,https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6,73,https://i.scdn.co/image/16cfd34449fabdebefffd80ab1e77678f05ffe6c
+219,Justin Bieber,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s,94,https://i.scdn.co/image/d745628f6659a715f0f69eed1508805849796e5e
+220,Cobra Starship,Cobra Starship,2aYJ5LAta2ScCdfLhKgZOY,https://api.spotify.com/v1/artists/2aYJ5LAta2ScCdfLhKgZOY,62,https://i.scdn.co/image/25e630bed4195828dbde8130c47d750208a3c58f
+221,Young Money,Young Money,5OrB6Jhhrl9y2PK0pSV4VP,https://api.spotify.com/v1/artists/5OrB6Jhhrl9y2PK0pSV4VP,66,https://i.scdn.co/image/ca134959a6212f3931540a4c59a08e5c0774978d
+222,The Veronicas,The Veronicas,1dIdBZaaHRW2bDTkHNfWln,https://api.spotify.com/v1/artists/1dIdBZaaHRW2bDTkHNfWln,62,https://i.scdn.co/image/cc4f699c18147b28da25b5aeeee0fa549708af29
+223,Asher Roth,Asher Roth,1wgY8huggK60P5nvYrwcYT,https://api.spotify.com/v1/artists/1wgY8huggK60P5nvYrwcYT,56,https://i.scdn.co/image/479216a7845db4dd4e700ce5de41f2dbef84dac3
+224,Maxwell,Maxwell,2AOt5htsbtyaHd5Eq3kl3j,https://api.spotify.com/v1/artists/2AOt5htsbtyaHd5Eq3kl3j,61,https://i.scdn.co/image/fa3d56e6c4a26d014bde4cb4eb11ef7bed6c35f2
+225,Rob Thomas,Rob Thomas,3aBkeBhwadnWMWoVJ2CxJC,https://api.spotify.com/v1/artists/3aBkeBhwadnWMWoVJ2CxJC,66,https://i.scdn.co/image/2a366803a05bcbefe4cae6a271cf5b091c8552d8
+226,Iyaz,Iyaz,5tKXB9uuebKE34yowVaU3C,https://api.spotify.com/v1/artists/5tKXB9uuebKE34yowVaU3C,70,https://i.scdn.co/image/07be68a6b678e0307e38303186ddbc6816f250af
+227,Demi Lovato,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp,85,https://i.scdn.co/image/51e7125964a144d5720af2a4c693255bed18443e
+228,New Boyz,New Boyz,1ZKqrja0WvbSssYNFO3lzs,https://api.spotify.com/v1/artists/1ZKqrja0WvbSssYNFO3lzs,58,https://i.scdn.co/image/f0cdce4c0af094fdd687295efef1fd4ea1935fd3
+229,Kristinia DeBarge,Kristinia DeBarge,5Z22vlK4DCgDrQgBEqfc8w,https://api.spotify.com/v1/artists/5Z22vlK4DCgDrQgBEqfc8w,39,https://i.scdn.co/image/2a1666780d4cad06c66c5657cbcd1dd8c0eddb8d
+230,Sammie,Sammie,4p07QU02SrLsaORo25h2Lg,https://api.spotify.com/v1/artists/4p07QU02SrLsaORo25h2Lg,65,https://i.scdn.co/image/8e1cd2d8102a163936d2aff78d762c2f23e36bcb
+231,The Ting Tings,The Ting Tings,2wvUfjKGoXvcnDHq7GgMOa,https://api.spotify.com/v1/artists/2wvUfjKGoXvcnDHq7GgMOa,56,https://i.scdn.co/image/452855b7ed13b692f6011fa98c224941673c0eba
+232,Pleasure P,Pleasure P,6dROiL44pIQZVNZ6Bc0OJO,https://api.spotify.com/v1/artists/6dROiL44pIQZVNZ6Bc0OJO,58,https://i.scdn.co/image/244d1bb06296b19d5cd50bafe9b50f2a14877cd3
+233,Theory Of A Deadman,Theory of a Deadman,74eX4C98E4FCrAMl39qRsJ,https://api.spotify.com/v1/artists/74eX4C98E4FCrAMl39qRsJ,71,https://i.scdn.co/image/cff55f4db79d376396d6c9732bac9ac6fa02e1a3
+234,LMFAO,LMFAO,3sgFRtyBnxXD5ESfmbK4dl,https://api.spotify.com/v1/artists/3sgFRtyBnxXD5ESfmbK4dl,70,https://i.scdn.co/image/2d75f5222d8a92d5e12419ae3e5238261f943df6
+235,Dorrough,Dorrough Music,5MAp6rMiUJjRLXMWtArXRS,https://api.spotify.com/v1/artists/5MAp6rMiUJjRLXMWtArXRS,50,https://i.scdn.co/image/d24a9ae296bdff62c5e7a8c4d77f898a9b04603c
+236,Kellie Pickler,Kellie Pickler,021hNAnkFIbyFyL97br6NB,https://api.spotify.com/v1/artists/021hNAnkFIbyFyL97br6NB,49,https://i.scdn.co/image/83cdca46da848b674babcc05a0f0e1827a45796a
+237,David Guetta,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai,87,https://i.scdn.co/image/3a8476a71714e7718a41a1157c40f93abb8cc750
+238,Ke$ha,Kevin Hart,3rHl3rSgCnHhOlVB87ZxyF,https://api.spotify.com/v1/artists/3rHl3rSgCnHhOlVB87ZxyF,50,https://i.scdn.co/image/f6fc8e2ab55d7c561fa32324782953c3bcb26d7e
+239,Taio Cruz,Taio Cruz,6MF9fzBmfXghAz953czmBC,https://api.spotify.com/v1/artists/6MF9fzBmfXghAz953czmBC,73,https://i.scdn.co/image/dedc6fcfc7ec914af993c783a60a8f34bdcfaa01
+240,B.o.B,B.o.B,5ndkK3dpZLKtBklKjxNQwT,https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT,76,https://i.scdn.co/image/8f6d0d95d98fe8ceaf275f51b97674fb1f148c12
+241,Train,Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz,80,https://i.scdn.co/image/757188b7c946beccf9c452a03efdd7f79b6c1b61
+242,Bruno Mars,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C,88,https://i.scdn.co/image/aa32d6d4ca2467974403518dd3ebfe8831c5ced1
+243,Mike Posner,Mike Posner,2KsP6tYLJlTBvSUxnwlVWa,https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa,74,https://i.scdn.co/image/271f32661dd63fa214d6a4657c8856e5d5f65f9f
+244,Nicki Minaj,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh,92,https://i.scdn.co/image/1a6476028ced225730a1fe889af3b963dd260259
+245,Glee Cast,Glee Cast,0SCbttzoZTnLFebDYmAWCm,https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm,80,https://i.scdn.co/image/5b5a95f260ac429405e871777e3c17c9126c30ad
+246,The Script,The Script,3AQRLZ9PuTAozP28Skbq8V,https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V,78,https://i.scdn.co/image/b0d7782a07bb4305554837a88078a3b19a5c9eda
+247,Adam Lambert,Adam Lambert,6prmLEyn4LfHlD9NnXWlf7,https://api.spotify.com/v1/artists/6prmLEyn4LfHlD9NnXWlf7,67,https://i.scdn.co/image/9c744b4fad02cdb77042dd0e565b1898eb6c2bfa
+248,Enrique Iglesias,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,https://api.spotify.com/v1/artists/7qG3b048QCHVRO5Pv1T5lw,82,https://i.scdn.co/image/2bfeac48a9fd693e262335c96b8f7fb745b7b5f3
+249,Travie McCoy,Travie McCoy,7o9Nl7K1Al6NNAHX6jn6iG,https://api.spotify.com/v1/artists/7o9Nl7K1Al6NNAHX6jn6iG,66,https://i.scdn.co/image/db1a69dfba64f053deb550d971423400cd582841
+250,Michael Buble,Michael Bublé,1GxkXlMwML1oSg5eLPiAz3,https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3,77,https://i.scdn.co/image/6bf4c3c955399c4c45cd0677a860a42f39b6a508
+251,La Roux,La Roux,3K2zB87GZv1krx031en5VA,https://api.spotify.com/v1/artists/3K2zB87GZv1krx031en5VA,63,https://i.scdn.co/image/e69b50a5ca78ea5374bc2e5202b07e9c497d02c1
+252,Selena Gomez,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx,88,https://i.scdn.co/image/dc6dd5ccdccee8c947b41af13e3b60ce0a235708
+253,Miranda Lambert,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,https://api.spotify.com/v1/artists/66lH4jAE7pqPlOlzUKbwA0,73,https://i.scdn.co/image/7f65c4cd1d9c40eec469e25182c5a049bb068bd1
+254,Kris Allen,Kris Allen,2zwHaEmXxX6DTv4i8ajNCM,https://api.spotify.com/v1/artists/2zwHaEmXxX6DTv4i8ajNCM,48,https://i.scdn.co/image/a3c9c4e8b6618cc6c74fde904a8acbd7010a7bd4
+255,will.i.am,will.i.am,085pc2PYOi8bGKj0PNjekA,https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA,76,https://i.scdn.co/image/d9e6047498dc100048c4597be2aa1d20ebf6df40
+256,Far*East Movement,Far East Movement,698hF4vcwHwPy8ltmXermq,https://api.spotify.com/v1/artists/698hF4vcwHwPy8ltmXermq,70,https://i.scdn.co/image/93b2785adf676fad08b852122e6e48753c3d966b
+257,Orianthi,Orianthi,0yNy8fi1yBBq526E6mx4Zs,https://api.spotify.com/v1/artists/0yNy8fi1yBBq526E6mx4Zs,48,https://i.scdn.co/image/187c20447675739506e387e14a53e03b3866ec13
+258,Hayley Williams,Hayley Williams,6Rx1JKzBrSzoKQtmbVmBnM,https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM,71,https://i.scdn.co/image/4f8aa2c4786064e094706683c707d8eb7e5d23eb
+259,Neon Trees,Neon Trees,0RpddSzUHfncUWNJXKOsjy,https://api.spotify.com/v1/artists/0RpddSzUHfncUWNJXKOsjy,71,https://i.scdn.co/image/bba84ebc9a51c581608e9eb83c1d1d12ec3025bb
+260,Shontelle,Shontelle,4M6Z1wubeKtwPqbjJygTOc,https://api.spotify.com/v1/artists/4M6Z1wubeKtwPqbjJygTOc,59,https://i.scdn.co/image/5e8c7ade0fce6e74dd313d3a2505bc705170ec5e
+261,Luke Bryan,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,https://api.spotify.com/v1/artists/0BvkDsjIUla7X0k6CSWh1I,80,https://i.scdn.co/image/7d0807400f9076bd4c16d05ccec24c4ae1675e16
+262,Easton Corbin,Easton Corbin,070kGpqtESdDsLb3gdMIyx,https://api.spotify.com/v1/artists/070kGpqtESdDsLb3gdMIyx,61,https://i.scdn.co/image/ddaf5a1f1adc23ab31cfbbe59ffdb75b1e12948a
+263,Gucci Mane,Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo,84,https://i.scdn.co/image/666097bb14996636cf7e106ca712a36fb39f8774
+264,Monica,Monica,6nzxy2wXs6tLgzEtqOkEi2,https://api.spotify.com/v1/artists/6nzxy2wXs6tLgzEtqOkEi2,66,https://i.scdn.co/image/328896170b380ff5fc06795a857c175e68bb526c
+265,The Band Perry,The Band Perry,75FnCoo4FBxH5K1Rrx0k5A,https://api.spotify.com/v1/artists/75FnCoo4FBxH5K1Rrx0k5A,62,https://i.scdn.co/image/d953b71f31f36ff1cb921e63d2b9a711bdfb707e
+266,Reba McEntire,Reba McEntire,02rd0anEWfMtF7iMku9uor,https://api.spotify.com/v1/artists/02rd0anEWfMtF7iMku9uor,68,https://i.scdn.co/image/02bd6f8ffe0f3909be616ed36f7e106077ce7fb9
+267,Uncle Kracker,Uncle Kracker,2DnqqkzzDKm3vAoyHtn8So,https://api.spotify.com/v1/artists/2DnqqkzzDKm3vAoyHtn8So,68,https://i.scdn.co/image/c9df59ef9defdeefd3006b6f47522329cd2dc7bf
+268,Cali Swag District,Cali Swag District,1EeArivTpzLNCqubV95255,https://api.spotify.com/v1/artists/1EeArivTpzLNCqubV95255,51,https://i.scdn.co/image/5b52cf6ad5ed1fa8c4ea91f2eaad4d8d482af62f
+269,Jerrod Niemann,Jerrod Niemann,0RKP52f5PNDCRZ9Luq2Sr7,https://api.spotify.com/v1/artists/0RKP52f5PNDCRZ9Luq2Sr7,58,https://i.scdn.co/image/22f175748443810789166eae18f4b4847fb2ec5b
+270,Jaron And The Long Road To Love,Jaron And The Long Road To Love,1gnxlAhv4TnE1Kbvcbv8QI,https://api.spotify.com/v1/artists/1gnxlAhv4TnE1Kbvcbv8QI,47,https://i.scdn.co/image/2090ce47d8f68c28c33518b345c15aa8cae3c1bb
+271,CeeLo Green,CeeLo Green,5nLYd9ST4Cnwy6NHaCxbj8,https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8,71,https://i.scdn.co/image/08cb2b18e53fa9e4314b0e864f9ddf9688c8e6e9
+272,Chris Young,Chris Young,4BYxqVkZyFjtik7crYLg5Q,https://api.spotify.com/v1/artists/4BYxqVkZyFjtik7crYLg5Q,72,https://i.scdn.co/image/f6b573b322493915d214910d0d9212c2bc8948b3
+273,Adele,Adele,4dpARuHxo51G3z768sgnrY,https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY,84,https://i.scdn.co/image/ccbe7b4fef679f821988c78dbd4734471834e3d9
+274,Wiz Khalifa,Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop,87,https://i.scdn.co/image/119b0e8f0ddd4cfc13945e69205e201750b6006c
+275,Foster The People,Foster The People,7gP3bB2nilZXLfPHJhMdvc,https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc,77,https://i.scdn.co/image/e1f7871e6eb5814b15257ae55027d3e17e0aca9f
+276,Jennifer Lopez,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR,79,https://i.scdn.co/image/6ae2a9eef263be601f3d02f47b2f4b8912dde429
+277,Hot Chelle Rae,Hot Chelle Rae,6jTnHxhb6cDCaCu4rdvsQ0,https://api.spotify.com/v1/artists/6jTnHxhb6cDCaCu4rdvsQ0,65,https://i.scdn.co/image/3d4f1f69332b73b6e9bd4f38f701ea7a1a793dc2
+278,Christina Perri,Christina Perri,7H55rcKCfwqkyDFH9wpKM6,https://api.spotify.com/v1/artists/7H55rcKCfwqkyDFH9wpKM6,75,https://i.scdn.co/image/79be6e801831767ff470246dcabe1395aa355f57
+279,Bad Meets Evil,Bad Meets Evil,77IURH5NC56Jn09QHi76is,https://api.spotify.com/v1/artists/77IURH5NC56Jn09QHi76is,64,https://i.scdn.co/image/570d46c60960d93990710d83a5f8012217eb7aec
+280,Dev,Devin Dawson,2ySHS7UojGu20XfUPaBlyu,https://api.spotify.com/v1/artists/2ySHS7UojGu20XfUPaBlyu,66,https://i.scdn.co/image/0cb1fb5e8bd1afb371b40e84b904bed593e66f90
+281,Dr. Dre,Dr. Dre,6DPYiyq5kWVQS4RGwxzPC7,https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7,81,https://i.scdn.co/image/83d2489cade1dadcdc533ddbcd74993d0ca6d4cb
+282,Diddy - Dirty Money,Diddy - Dirty Money,2QYEvpsWUOjqaYuxDPTCmV,https://api.spotify.com/v1/artists/2QYEvpsWUOjqaYuxDPTCmV,58,https://i.scdn.co/image/184674b36baa9cc7f0048502e78ce615a35ba08f
+283,Waka Flocka Flame,Waka Flocka Flame,6f4XkbvYlXMH0QgVRzW0sM,https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM,69,https://i.scdn.co/image/41801ac40576d7c377c90c9fd5d20f548d7ecd1a
+284,Miguel,Miguel,360IAlyVv4PCEVjgyMZrxK,https://api.spotify.com/v1/artists/360IAlyVv4PCEVjgyMZrxK,81,https://i.scdn.co/image/b3dc491decb5b3e054935375acf7ed60c139ddf2
+285,Big Sean,Big Sean,0c173mlxpT3dSFRgMO8XPh,https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh,83,https://i.scdn.co/image/ace48339c5cdca66a84a780aa0e6420b35b638c3
+286,Eli Young Band,Eli Young Band,6eKWqnckwdIlSnjaYgIyxv,https://api.spotify.com/v1/artists/6eKWqnckwdIlSnjaYgIyxv,67,https://i.scdn.co/image/2587196d36a3cc4ab96621c7a737b612bf882106
+287,Thompson Square,Thompson Square,0Bvs8yPjrQSbmVIRqSg1Sp,https://api.spotify.com/v1/artists/0Bvs8yPjrQSbmVIRqSg1Sp,54,https://i.scdn.co/image/ba41292fce33a5d4a64535247f2da6fbd91b8a13
+288,Kelly Rowland,Kelly Rowland,3AuMNF8rQAKOzjYppFNAoB,https://api.spotify.com/v1/artists/3AuMNF8rQAKOzjYppFNAoB,71,https://i.scdn.co/image/1f55c76000e66001c5da2a3d393faad445a2182b
+289,Jake Owen,Jake Owen,1n2pb9Tsfe4SwAjmUac6YT,https://api.spotify.com/v1/artists/1n2pb9Tsfe4SwAjmUac6YT,72,https://i.scdn.co/image/670f1d25e41ea254ec9baed5a686af14fea8548a
+290,Tinie Tempah,Tinie Tempah,0Tob4H0FLtEONHU1MjpUEp,https://api.spotify.com/v1/artists/0Tob4H0FLtEONHU1MjpUEp,70,https://i.scdn.co/image/e3e3b7d0e4d84678ed68bf502d4e2b08e18b1585
+291,Eric Church,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,https://api.spotify.com/v1/artists/2IvkS5MXK0vPGnwyJsrEyV,77,https://i.scdn.co/image/f052d17f87d18447b42ddf9c31b8721461c30d44
+292,Afrojack,Afrojack,4D75GcNG95ebPtNvoNVXhz,https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz,77,https://i.scdn.co/image/903c3b850a41b7b8bfaa47625ea1d6477875f984
+293,Skylar Grey,Skylar Grey,4utLUGcTvOJFr6aqIJtYWV,https://api.spotify.com/v1/artists/4utLUGcTvOJFr6aqIJtYWV,73,https://i.scdn.co/image/a8ed483429082a3ce8da63401a2fda7de1c8d23a
+294,Alexandra Stan,Alexandra Stan,0BmLNz4nSLfoWYW1cYsElL,https://api.spotify.com/v1/artists/0BmLNz4nSLfoWYW1cYsElL,63,https://i.scdn.co/image/7d2f47e3aa5228450e112fbbf1b1895548b4fc34
+295,Mumford & Sons,Mumford & Sons,3gd8FJtBJtkRxdfbTu19U2,https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2,78,https://i.scdn.co/image/293aad1937b2e6292f1c9076c1476e2bf2437cbc
+296,Sara Evans,Sara Evans,7qvsLYsYP0MHD7jkdv6DAG,https://api.spotify.com/v1/artists/7qvsLYsYP0MHD7jkdv6DAG,58,https://i.scdn.co/image/8d05dea2d3945c475ea31b758c0d0737f42d54c0
+297,Edward Maya,Edward Maya,6XwwFnewNgWp81MYMK8zLq,https://api.spotify.com/v1/artists/6XwwFnewNgWp81MYMK8zLq,64,https://i.scdn.co/image/685717f63ed2cbbf9c09ffdfd93f02c6432d5944
+298,Vika Jigulina,Vika Jigulina,34dZRjYum6vVBGslgYaBtB,https://api.spotify.com/v1/artists/34dZRjYum6vVBGslgYaBtB,63,https://i.scdn.co/image/ab67616d0000b273d629ba472bce9c426eb1fdc4
+299,Jessie J,Jessie Reyez,3KedxarmBCyFBevnqQHy3P,https://api.spotify.com/v1/artists/3KedxarmBCyFBevnqQHy3P,77,https://i.scdn.co/image/5c3ac07ff50cd4308c38059f5651cd4455c5d724
+300,Selena Gomez & The Scene,Selena Gomez & The Scene,6dJeKm76NjfXBNTpHmOhfO,https://api.spotify.com/v1/artists/6dJeKm76NjfXBNTpHmOhfO,70,https://i.scdn.co/image/469b6a74f5ddca9560e9f5137842e3772c8576c0
+301,WILLOW,WILLOW,3rWZHrfrsPBxVy692yAIxF,https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF,75,https://i.scdn.co/image/09a320c87e69ced87bb1b0989e9131a10a1066f2
+302,fun.,fun.,5nCi3BB41mBaMH9gfr6Su0,https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0,72,https://i.scdn.co/image/37bc85c957e17d3463ae40da1c8ade6bb5ecd546
+303,Carly Rae Jepsen,Carly Rae Jepsen,6sFIWsNpZYqfjUpaCgueju,https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju,76,https://i.scdn.co/image/cae6fb01fab512f2047d40baffb3f8f561d1567d
+304,One Direction,One Direction,4AK6F7OLvEQ5QYCBNiQWHq,https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq,89,https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8
+305,Gotye,Gotye,2AsusXITU8P25dlRNhcAbG,https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG,70,https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c
+306,The Wanted,The Wanted,2NhdGz9EDv2FeUw6udu2g1,https://api.spotify.com/v1/artists/2NhdGz9EDv2FeUw6udu2g1,68,https://i.scdn.co/image/ac3995e49a3f4d6922990776235e4aabd4c751ce
+307,Ellie Goulding,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,https://api.spotify.com/v1/artists/0X2BH1fck6amBIoJhDVmmJ,84,https://i.scdn.co/image/fdc30f0bdec92a3821fb0dde9a69dd0b8de9275a
+308,Calvin Harris,Calvin Harris,7CajNmpbOovFoOoasH2HaY,https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY,87,https://i.scdn.co/image/1fd90cd274102d458ec3a9243ced32e659738133
+309,Tyga,Tyga,5LHRHt1k9lMyONurDHEdrp,https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp,90,https://i.scdn.co/image/c498995c045e4ecff35e3f22e4950a82b5b781d4
+310,Alex Clare,Alex Clare,5Tf4EH8tDvznnjULcFxkIl,https://api.spotify.com/v1/artists/5Tf4EH8tDvznnjULcFxkIl,61,https://i.scdn.co/image/86aebdeb6819da14ad234ad67c142bfb05d455ed
+311,2 Chainz,2 Chainz,17lzZA2AlOHwCwFALHttmp,https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp,83,https://i.scdn.co/image/080a4a7e0ae0d7941278572033bfaf639ef9e698
+312,Kimbra,Kimbra,6hk7Yq1DU9QcCCrz9uc0Ti,https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti,70,https://i.scdn.co/image/1a044806dac30b3291e43c7d6c772bc8eed2fb8d
+313,J. Cole,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5,88,https://i.scdn.co/image/1e9eeefb2c94579150fc37916e8319b975ec8a52
+314,Sia,Sia,5WUlDfRSoLAfcVSX1WnrxN,https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN,87,https://i.scdn.co/image/63e7afb473ac268477b4436dc66510bebbc73791
+315,Hunter Hayes,Hunter Hayes,7H6dkUChT5EoOQtUVMg4cN,https://api.spotify.com/v1/artists/7H6dkUChT5EoOQtUVMg4cN,67,https://i.scdn.co/image/9b7cc78b65e03afcb2c3a4a79e0a4e9815308deb
+316,Janelle Monae,Janelle Monáe,6ueGR6SWhUJfvEhqkvMsVs,https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs,71,https://i.scdn.co/image/01725ba396132ac8166d89d5c5d9b4afc3b83229
+317,PSY,The Psychedelic Furs,0O0lrN34wrcuBenkqlEDZe,https://api.spotify.com/v1/artists/0O0lrN34wrcuBenkqlEDZe,60,https://i.scdn.co/image/110d973ebd18709ec98cb3f0b53aec19d1639301
+318,Lee Brice,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,https://api.spotify.com/v1/artists/5Zq7R5qmi58ByYyBQTlNuk,75,https://i.scdn.co/image/825ab69889237f8f8d6cce8eb8a1a57e381edba7
+319,Phillip Phillips,Phillip Phillips,6p5JxpTc7USNnBnLzctyd4,https://api.spotify.com/v1/artists/6p5JxpTc7USNnBnLzctyd4,64,https://i.scdn.co/image/7a6325d8923b3d58167b807d6cd988f986777e3b
+320,Karmin,Karmin,4M0DLz8te9Q1lNIXBBwvfG,https://api.spotify.com/v1/artists/4M0DLz8te9Q1lNIXBBwvfG,58,https://i.scdn.co/image/cfddb43870ce59cf445c0915da6c6ae31c1e157b
+321,Cher Lloyd,Cher Lloyd,4m4SfDVbF5wxrwEjDKgi4k,https://api.spotify.com/v1/artists/4m4SfDVbF5wxrwEjDKgi4k,67,https://i.scdn.co/image/fd800c71038196dd35a285fe72099ce057b63f36
+322,The Lumineers,The Lumineers,16oZKvXb6WkQlVAjwo2Wbg,https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg,79,https://i.scdn.co/image/81bc6a0807ec258fc05f5cdd70fa8c4066bd91db
+323,Imagine Dragons,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q,89,https://i.scdn.co/image/01b36ca0f45f2f15117022a2754287a6ca1acdcc
+324,Kip Moore,Kip Moore,2hJPr4lk7Q8SSvCVBl9fWM,https://api.spotify.com/v1/artists/2hJPr4lk7Q8SSvCVBl9fWM,70,https://i.scdn.co/image/6af52013b12e7e6f771dd508921a4f3c98ca3d61
+325,Kirko Bangz,Kirko Bangz,2r8r62VGJKGi463aH1HJUZ,https://api.spotify.com/v1/artists/2r8r62VGJKGi463aH1HJUZ,57,https://i.scdn.co/image/21794bbbc03b43f52592b9b447aa7385c01c7189
+326,Ca$h Out,Ca$h Out,7Kp7SzuRuNiPFCy7JIwnLx,https://api.spotify.com/v1/artists/7Kp7SzuRuNiPFCy7JIwnLx,51,https://i.scdn.co/image/53a09ff296728443edfa9c3a9421a34ce66bf758
+327,Of Monsters And Men,Of Monsters and Men,4dwdTW1Lfiq0cM8nBAqIIz,https://api.spotify.com/v1/artists/4dwdTW1Lfiq0cM8nBAqIIz,72,https://i.scdn.co/image/3e38d07dccf32d6b32c1b7768263041ebe5e50c5
+328,Future,Future,1RyvyyTE3xzB2ZywiAwp0i,https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i,91,https://i.scdn.co/image/fa9015ca2bf85af90b967500148da9706a156e3b
+329,Love And Theft,Love and Theft,03a5eVjzFyQlR4XyVSwt4t,https://api.spotify.com/v1/artists/03a5eVjzFyQlR4XyVSwt4t,52,https://i.scdn.co/image/fc89589b963666d3d7f1cada85ad5ae3ead27bfc
+330,Gloriana,Gloriana,5RjqSn7vYk8Qb9GeLWRRhB,https://api.spotify.com/v1/artists/5RjqSn7vYk8Qb9GeLWRRhB,47,https://i.scdn.co/image/c4e4ccfed5ff778e54f2662928ffed711c24f6a6
+331,Dustin Lynch,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,https://api.spotify.com/v1/artists/1dID9zgn0OV0Y8ud7Mh2tS,72,https://i.scdn.co/image/f97f53681cf22f16a2025b8e1ddb4f791a9839e6
+332,Wale,Wale,67nwj3Y5sZQLl72VNUHEYE,https://api.spotify.com/v1/artists/67nwj3Y5sZQLl72VNUHEYE,77,https://i.scdn.co/image/20a2669aad3e87270699534ed03546ff87b20df2
+333,Outasight,Outasight,1zuG3w1Zgeou53fb3Vu3bO,https://api.spotify.com/v1/artists/1zuG3w1Zgeou53fb3Vu3bO,45,https://i.scdn.co/image/0b5276e60498aa59aaf9a445db295d4d181575fb
+334,Frank Ocean,Frank Ocean,2h93pZq0e7k5yf4dywlkpM,https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM,85,https://i.scdn.co/image/7db34c8aace6feb91f38601bb75e6b3301b4657a
+335,Brantley Gilbert,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,https://api.spotify.com/v1/artists/5q8HGNo0BjLWaTAhRtbwxa,72,https://i.scdn.co/image/c1b40745e2e28761d1f2b6129368d3b0ccbcc41f
+336,Macklemore & Ryan Lewis,Macklemore & Ryan Lewis,5BcAKTbp20cv7tC5VqPFoC,https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC,78,https://i.scdn.co/image/aa77c545af000003e22621637813e2e7c65c4203
+337,Baauer,Baauer,25fqWEebq6PoiGQIHIrdtv,https://api.spotify.com/v1/artists/25fqWEebq6PoiGQIHIrdtv,62,https://i.scdn.co/image/b910d8abb7ee82e6e90e2e13461a61c94afade6e
+338,Florida Georgia Line,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg,83,https://i.scdn.co/image/0e85d1c412ecea2f99d7cc70b847979fba68bf4d
+339,Lorde,Lorde,163tK9Wjr9P9DmM0AVK7lm,https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm,80,https://i.scdn.co/image/d25fc756cd04c8b3ea196b7c07c6d057685cc405
+340,Avicii,Avicii,1vCWHaC5f2uS3yhpwWbIA6,https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6,85,https://i.scdn.co/image/81b19a403109c4fe528ee3972137127b85be9519
+341,Kendrick Lamar,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg,89,https://i.scdn.co/image/3a836196bfb341f736c7fe2704fb75de53f8dfbb
+342,Anna Kendrick,Anna Kendrick,6xfqnpe2HnLVUaYXs2F8YS,https://api.spotify.com/v1/artists/6xfqnpe2HnLVUaYXs2F8YS,69,https://i.scdn.co/image/ab67616d0000b2738f00f06afe95022f6266ba65
+343,Daft Punk,Daft Punk,4tZwfgrHOc3mvqYlEYSvVi,https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi,82,https://i.scdn.co/image/b8aaf4b179bb0a52f29a810fdb0f9d5c16ec2c75
+344,AWOLNATION,AWOLNATION,4njdEjTnLfcGImKZu1iSrz,https://api.spotify.com/v1/artists/4njdEjTnLfcGImKZu1iSrz,69,https://i.scdn.co/image/b2dba6ffb7917d7bdf367392164ded199a448ec9
+345,Capital Cities,Capital Cities,4gwpcMTbLWtBUlOijbVpuu,https://api.spotify.com/v1/artists/4gwpcMTbLWtBUlOijbVpuu,67,https://i.scdn.co/image/20ff4095012395a58d4a925bd1b5bb87e6fbf8d9
+346,Pharrell Williams,Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8,81,https://i.scdn.co/image/555bf2119822c212ebf8cbe12b2a9fbff964a2e7
+347,Wanz,Wanz,56xTxG4nQMAs1GW9kvn0uA,https://api.spotify.com/v1/artists/56xTxG4nQMAs1GW9kvn0uA,66,https://i.scdn.co/image/3f919dd392c9ce49952804ed40c2226c01f65985
+348,Zedd,Zedd,2qxJFvFYMEDqd7ui6kSAcq,https://api.spotify.com/v1/artists/2qxJFvFYMEDqd7ui6kSAcq,81,https://i.scdn.co/image/27d060a60d16f9a0c4cb3891cd18580e178e05af
+349,Ed Sheeran,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V,93,https://i.scdn.co/image/f55cab0739390cf3b2c2f773b9c779b2f0ae8a99
+350,Ariana Grande,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR,94,https://i.scdn.co/image/b1dfbe843b0b9f54ab2e588f33e7637d2dab065a
+351,Swedish House Mafia,Swedish House Mafia,1h6Cn3P4NGzXbaXidqURXs,https://api.spotify.com/v1/artists/1h6Cn3P4NGzXbaXidqURXs,70,https://i.scdn.co/image/07f22733e0285e6ba9e746c5a0d5be4e92f9f46d
+352,Icona Pop,Icona Pop,1VBflYyxBhnDc9uVib98rw,https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw,72,https://i.scdn.co/image/30ea1d461c1614d8f02fa2a02bd22b9d067816c1
+353,A$AP Rocky,A$AP Rocky,13ubrt8QOOCPljQ2FL1Kca,https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca,85,https://i.scdn.co/image/cce607c4d975ae49d68b484eaef51a6413fa73b1
+354,Lana Del Rey,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa,85,https://i.scdn.co/image/6e8dc460cfb6b89d7970302259febd0aa73b38c6
+355,Randy Houser,Randy Houser,56x8mYvS3cyDGAi8N2FxbB,https://api.spotify.com/v1/artists/56x8mYvS3cyDGAi8N2FxbB,65,https://i.scdn.co/image/55884cbd57cd3aee1ca8ac67c21f50e08c9e6f38
+356,Ray Dalton,Ray Dalton,4e0nWw2r4BoQSKPQ2zpU13,https://api.spotify.com/v1/artists/4e0nWw2r4BoQSKPQ2zpU13,67,https://i.scdn.co/image/72972a673eba22cfc29cfae74e9f97bd4c0a36ea
+357,Nate Ruess,Nate Ruess,1qUjOF5fzrpoNycD36b2jZ,https://api.spotify.com/v1/artists/1qUjOF5fzrpoNycD36b2jZ,68,https://i.scdn.co/image/5d5dec419f704181b9a23dd9c55562632817c442
+358,Sage The Gemini,Sage The Gemini,6d47Z08T4snK50HgTEHo5Z,https://api.spotify.com/v1/artists/6d47Z08T4snK50HgTEHo5Z,69,https://i.scdn.co/image/b6759df8b05efa25245af87f9e49b261f8a07923
+359,Ylvis,Ylvis,2lEOFtf3cCyzomQcMHJGfZ,https://api.spotify.com/v1/artists/2lEOFtf3cCyzomQcMHJGfZ,53,https://i.scdn.co/image/8e77f7b7750f4689830802801ca817760de298d2
+360,Mikky Ekko,Mikky Ekko,1buzCmyYZE4kcdLRudsb8V,https://api.spotify.com/v1/artists/1buzCmyYZE4kcdLRudsb8V,67,https://i.scdn.co/image/aa80693e1bfb69cbadcb1878d1a156d54e4f032a
+361,Juicy J,Juicy J,5gCRApTajqwbnHHPbr2Fpi,https://api.spotify.com/v1/artists/5gCRApTajqwbnHHPbr2Fpi,78,https://i.scdn.co/image/8019b0f1b2166f1ef1d45027ec07cffd13cbf814
+362,Emeli Sande,Emeli Sandé,7sfgqEdoeBTjd8lQsPT3Cy,https://api.spotify.com/v1/artists/7sfgqEdoeBTjd8lQsPT3Cy,69,https://i.scdn.co/image/b8c5636622eeefc90df71b4717f21aac14bf7e61
+363,Thomas Rhett,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8,82,https://i.scdn.co/image/ae406c9213a87f7ae2db5851285afa2e9867ff50
+364,Cedric Gervais,Cedric Gervais,4Wjf8diP59VmPG7fi4y724,https://api.spotify.com/v1/artists/4Wjf8diP59VmPG7fi4y724,69,https://i.scdn.co/image/aa8b799ffde6cc2c8fd9d8d5b7d138ee01c83ac9
+365,Passenger,Passenger,0gadJ2b9A4SKsB1RFkBb66,https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66,76,https://i.scdn.co/image/4cc8542ea52b2f0cc4f62d68728a6439068c28b4
+366,Trinidad James,Trinidad James,0I5HubncQ8E1MFZOlPDY4J,https://api.spotify.com/v1/artists/0I5HubncQ8E1MFZOlPDY4J,62,https://i.scdn.co/image/8aa4560dbf181947ac46fb7b9b8098d638aa4596
+367,Iggy Azalea,Iggy Azalea,5yG7ZAZafVaAlMTeBybKAL,https://api.spotify.com/v1/artists/5yG7ZAZafVaAlMTeBybKAL,75,https://i.scdn.co/image/f8ace7e639f7342f6952496559535ec44b1e8a4d
+368,John Legend,John Legend,5y2Xq6xcjJb2jVM54GHK3t,https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t,83,https://i.scdn.co/image/c09d676e90e27904078ed9eb93d24a3f93bb24a4
+369,Sam Smith,Sam Smith,2wY79sveU1sp5g7SokKOiI,https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI,88,https://i.scdn.co/image/bd64a9e1545d1ac612483d4ac0dc4ca217dc4af5
+370,Meghan Trainor,Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz,80,https://i.scdn.co/image/757188b7c946beccf9c452a03efdd7f79b6c1b61
+371,MAGIC!,Casper Magico,1fux65HMCBvfJHqlBc4Nno,https://api.spotify.com/v1/artists/1fux65HMCBvfJHqlBc4Nno,77,https://i.scdn.co/image/b359f910b9f7b55145454941b6a3ffee8fd7bf72
+372,Charli XCX,Charli XCX,25uiPmTg16RbhZWAqwLBy5,https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5,78,https://i.scdn.co/image/664de47b004746cd7f5da4731a6735f57a989ebc
+373,Bastille,Bastille,7EQ0qTo7fWT7DPxmxtSYEc,https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc,81,https://i.scdn.co/image/7fd538c4aa21542d840e17773e6c8802196d1c4d
+374,Nico & Vinz,Nico & Vinz,0awl5piYwO0CDTHEkCjUhn,https://api.spotify.com/v1/artists/0awl5piYwO0CDTHEkCjUhn,65,https://i.scdn.co/image/e2f06f056c2b1d907f2078493746dd468dde3f97
+375,Idina Menzel,Idina Menzel,73Np75Wv2tju61Eo9Zw4IR,https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR,76,https://i.scdn.co/image/75d36765aad4334c14b73152bac6467ff51e9986
+376,Tove Lo,Tove Lo,4NHQUGzhtTLFvgF5SZesLK,https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK,79,https://i.scdn.co/image/e088be208a6ded5ede7a8294792d2e877f03163d
+377,American Authors,American Authors,0MlOPi3zIDMVrfA9R04Fe3,https://api.spotify.com/v1/artists/0MlOPi3zIDMVrfA9R04Fe3,69,https://i.scdn.co/image/4838c1c1b0d440234ed21fcd3856e7846fb1d408
+378,5 Seconds Of Summer,5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy,85,https://i.scdn.co/image/8ef3c09019477060d8fb06ecac36a79b5ed1b730
+379,YG,YG,0A0FS04o6zMoto8OKPsDwY,https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY,83,https://i.scdn.co/image/e6dd0c4e7c2fbeaf3e8cc4fc8513fdcfc660e908
+380,Kid Ink,Kid Ink,6KZDXtSj0SzGOV705nNeh3,https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3,75,https://i.scdn.co/image/92a89311631851defbc80ebcdff44ba3e78922cc
+381,DJ Snake,DJ Snake,540vIaP2JwjQb9dm3aArA4,https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4,83,https://i.scdn.co/image/3b232935a2d2dc1fcc3bfd8db2d6be58292b2317
+382,Aloe Blacc,Aloe Blacc,0id62QV2SZZfvBn9xpmuCl,https://api.spotify.com/v1/artists/0id62QV2SZZfvBn9xpmuCl,75,https://i.scdn.co/image/8606ace0a9f4a1c749674cbce0ece299573a23e1
+383,Disclosure,Disclosure,6nS5roXSAGhTGr34W6n7Et,https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et,81,https://i.scdn.co/image/cde64861a67aa8de5e33c5290d30cf40b4caa36e
+384,ScHoolboy Q,ScHoolboy Q,5IcR3N7QB1j6KBL8eImZ8m,https://api.spotify.com/v1/artists/5IcR3N7QB1j6KBL8eImZ8m,78,https://i.scdn.co/image/16e1c84dcb5ab6b682f113a048ed172ca3ca2ef6
+385,MKTO,MKTO,2l35CQqtYRh3d8ZIiBep4v,https://api.spotify.com/v1/artists/2l35CQqtYRh3d8ZIiBep4v,73,https://i.scdn.co/image/23ce63b04f7edb4d337e3213336aed9f3a1d0b4c
+386,A Great Big World,A Great Big World,5xKp3UyavIBUsGy3DQdXeF,https://api.spotify.com/v1/artists/5xKp3UyavIBUsGy3DQdXeF,69,https://i.scdn.co/image/1ce0470c0f497de6ef061790f9ed6d204f165da9
+387,Bobby Shmurda,Bobby Shmurda,34Y0ldeyUv7jBvukWOGASO,https://api.spotify.com/v1/artists/34Y0ldeyUv7jBvukWOGASO,66,https://i.scdn.co/image/5317e07d7271035084c02bc5aed5a3293e44f1df
+388,Clean Bandit,Clean Bandit,6MDME20pz9RveH9rEXvrOM,https://api.spotify.com/v1/artists/6MDME20pz9RveH9rEXvrOM,79,https://i.scdn.co/image/08a4e4c0edda46a1ab4c9ee851f8fa567741d7e6
+389,Echosmith,Echosmith,1PbBg2aYjWLKRk84zJK15x,https://api.spotify.com/v1/artists/1PbBg2aYjWLKRk84zJK15x,64,https://i.scdn.co/image/5744c7ff2d060913b0407450bcbce56882ebec13
+390,Cole Swindell,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,https://api.spotify.com/v1/artists/1mfDfLsMxYcOOZkzBxvSVW,70,https://i.scdn.co/image/512a48d4d0d5569e35220cabafce3862653e864e
+391,Young Thug,Young Thug,50co4Is1HCEo8bhOyUWKpn,https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn,91,https://i.scdn.co/image/10ea494021e8341a2b5a8fcc8cd3b9a000cbc878
+392,Becky G,Becky G,4obzFoKoKRHIphyHzJ35G3,https://api.spotify.com/v1/artists/4obzFoKoKRHIphyHzJ35G3,83,https://i.scdn.co/image/9f0ed003e9bd03395d16fda314c83b74a78f2dd9
+393,Rixton,Rixton,0kkxsdcaWmWU2yWAqclDh4,https://api.spotify.com/v1/artists/0kkxsdcaWmWU2yWAqclDh4,65,https://i.scdn.co/image/97ddb423c3218de0d6bfda32c7e9a31546f76c12
+394,Martin Garrix,Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,https://api.spotify.com/v1/artists/60d24wfXkVzDSfLS6hyCjZ,84,https://i.scdn.co/image/19b193e731a99776449d2b06742942e1e1f58fb2
+395,Rae Sremmurd,Rae Sremmurd,7iZtZyCzp3LItcw1wtPI3D,https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D,78,https://i.scdn.co/image/7d6e7fa3946448178d50c8e3e42c517a6dd06aa1
+396,Frankie Ballard,Frankie Ballard,0dvKgSdNB2U1gfp6ZcekYi,https://api.spotify.com/v1/artists/0dvKgSdNB2U1gfp6ZcekYi,59,https://i.scdn.co/image/42629f2bcb3bfc084622f6bae99a66d53bd09ba9
+397,The Neighbourhood,The Neighbourhood,77SW9BnxLY8rJ0RciFqkHh,https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh,80,https://i.scdn.co/image/7880e6831c1b83030a4c261f46386b04003b0a97
+398,Ty Dolla $ign,Ty Dolla $ign,7c0XG5cIJTrrAgEC3ULPiq,https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq,88,https://i.scdn.co/image/6d0222ada3a614c277aaff64fb1d7eb84a34644b
+399,Sam Hunt,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,https://api.spotify.com/v1/artists/2kucQ9jQwuD8jWdtR9Ef38,78,https://i.scdn.co/image/27cbfa04b239981387f38375e542eef2058f3d21
+400,Joe Nichols,Joe Nichols,4aJTB79uwT4sP0Nb8QGWHc,https://api.spotify.com/v1/artists/4aJTB79uwT4sP0Nb8QGWHc,62,https://i.scdn.co/image/03015214fbc6bedd5cd00f5efb329922421954b7
+401,John Newman,John Newman,34v5MVKeQnIo0CWYMbbrPf,https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf,71,https://i.scdn.co/image/2f7e0bedb1a06d9f76a58f89aab905072d67265d
+402,Rich Homie Quan,Rich Homie Quan,5lHRUCqkQZCIWeX7xG4sYT,https://api.spotify.com/v1/artists/5lHRUCqkQZCIWeX7xG4sYT,71,https://i.scdn.co/image/0ba2528909a62b165800aba7a94e244ec449afaa
+403,KONGOS,KONGOS,58R5LHkK3vkmEyGUPOR5kS,https://api.spotify.com/v1/artists/58R5LHkK3vkmEyGUPOR5kS,59,https://i.scdn.co/image/9d33167ed2e5210c3199b5cf8393c6cc3740d9bd
+404,Tinashe,Tinashe,0NIIxcxNHmOoyBx03SfTCD,https://api.spotify.com/v1/artists/0NIIxcxNHmOoyBx03SfTCD,74,https://i.scdn.co/image/d3dce253bfa66403e9cb2a3aa4a6d33775cd43c7
+405,Rita Ora,Rita Ora,5CCwRZC6euC8Odo6y9X8jr,https://api.spotify.com/v1/artists/5CCwRZC6euC8Odo6y9X8jr,80,https://i.scdn.co/image/ccac2f7381ac773987322dd45922bd35a2886056
+406,Vance Joy,Vance Joy,10exVja0key0uqUkk6LJRT,https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT,77,https://i.scdn.co/image/7d186c3a80955b82a8cc46fe86bdf305478629e8
+407,The Weeknd,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ,95,https://i.scdn.co/image/d9a875c37277c35b94c60c00d2cd256db098505d
+408,Fetty Wap,Fetty Wap,6PXS4YHDkKvl1wkIl4V8DL,https://api.spotify.com/v1/artists/6PXS4YHDkKvl1wkIl4V8DL,77,https://i.scdn.co/image/345ba48efb55e88a86e7421e992794e551570bdb
+409,Mark Ronson,Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp,79,https://i.scdn.co/image/d91845f215e0a90b0d4b03bf930221fdf2316b97
+410,WALK THE MOON,WALK THE MOON,6DIS6PRrLS3wbnZsf7vYic,https://api.spotify.com/v1/artists/6DIS6PRrLS3wbnZsf7vYic,72,https://i.scdn.co/image/0b69b8f5e80d58a9124b32af61a25b6adad57910
+411,Silento,Silentó,7juKTDFlPesGeWQ1GmjmOv,https://api.spotify.com/v1/artists/7juKTDFlPesGeWQ1GmjmOv,55,https://i.scdn.co/image/116582b17276bf4ff6b9f8bb7aa0d267a191d3e2
+412,OMI,OMI,5MouCg6ta7zAxsfMEbc1uh,https://api.spotify.com/v1/artists/5MouCg6ta7zAxsfMEbc1uh,70,https://i.scdn.co/image/2777a98213ec412317ea177edc8615e2fdee8be5
+413,Nick Jonas,Nick Jonas,4Rxn7Im3LGfyRkY2FlHhWi,https://api.spotify.com/v1/artists/4Rxn7Im3LGfyRkY2FlHhWi,72,https://i.scdn.co/image/2ec2b90705392f28dbb01bd8900cadbb0f696d88
+414,Hozier,Hozier,2FXC3k01G6Gw61bmprjgqS,https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS,81,https://i.scdn.co/image/2e4114631a20bd71903bc335b88f872afdce9a33
+415,Rachel Platten,Rachel Platten,3QLIkT4rD2FMusaqmkepbq,https://api.spotify.com/v1/artists/3QLIkT4rD2FMusaqmkepbq,69,https://i.scdn.co/image/a3d166c1aa9fd07f415493548f165bfdb6967565
+416,Charlie Puth,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7,84,https://i.scdn.co/image/ffd124dc5d0a342db0f50454f8caa613202452d8
+417,Andy Grammer,Andy Grammer,2oX42qP5ineK3hrhBECLmj,https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj,77,https://i.scdn.co/image/a8660c4ae74a883067345f1bc0095b2c291d2e3c
+418,Fifth Harmony,Fifth Harmony,1l8Fu6IkuTP0U5QetQJ5Xt,https://api.spotify.com/v1/artists/1l8Fu6IkuTP0U5QetQJ5Xt,75,https://i.scdn.co/image/c5e2e813755c107d8f4b068ec1001ea0f91409f1
+419,Shawn Mendes,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr,88,https://i.scdn.co/image/6bd59cfbd3e1e6394af710bddcd62999aae31c6f
+420,T-Wayne,Tion Wayne,7b79bQFziJFedJb75k6hFt,https://api.spotify.com/v1/artists/7b79bQFziJFedJb75k6hFt,74,https://i.scdn.co/image/cd5bce94c304c5cd608edab6288cc6e2b48563bf
+421,X Ambassadors,X Ambassadors,3NPpFNZtSTHheNBaWC82rB,https://api.spotify.com/v1/artists/3NPpFNZtSTHheNBaWC82rB,78,https://i.scdn.co/image/f9669e02d7b9ed1a288c332bf220600911174650
+422,R. City,R. City,4TH4BHy0LdBi3dpBW4P2UX,https://api.spotify.com/v1/artists/4TH4BHy0LdBi3dpBW4P2UX,65,https://i.scdn.co/image/42d26574da8fe764cec5e6c20eb7ea5ae9380f99
+423,Natalie La Rose,Natalie La Rose,2qdONMCoDngQk0eV4Avs1i,https://api.spotify.com/v1/artists/2qdONMCoDngQk0eV4Avs1i,55,https://i.scdn.co/image/91580a9432c1da9bb7e41d1b10c3a5f4c72215c1
+424,Meek Mill,Meek Mill,20sxb77xiYeusSH8cVdatc,https://api.spotify.com/v1/artists/20sxb77xiYeusSH8cVdatc,83,https://i.scdn.co/image/2c9ec5abeb91b41b6fac18ec974c7a2b85319c5d
+425,Major Lazer,Major Lazer,738wLrAtLtCtFOLvQBXOXp,https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp,82,https://i.scdn.co/image/093b23f613441e9b90070939795f3109386edbb4
+426,Brett Eldredge,Brett Eldredge,0qSX3s5pJnAlSsgsCne8Cz,https://api.spotify.com/v1/artists/0qSX3s5pJnAlSsgsCne8Cz,69,https://i.scdn.co/image/d102813048d0a555a8e32950392582b9bb8b61ca
+427,Elle King,Elle King,3bhu7P5PfngueRHiB9hjcx,https://api.spotify.com/v1/artists/3bhu7P5PfngueRHiB9hjcx,66,https://i.scdn.co/image/6139e9f7fac4465da89fdff92a689659f40a3ffb
+428,O.T. Genasis,O.T. Genasis,1Zatb2YN4erBOoSivOXc0o,https://api.spotify.com/v1/artists/1Zatb2YN4erBOoSivOXc0o,64,https://i.scdn.co/image/7293eeb8b9f5b0115cc1521a6e2cd04e74278af0
+429,iLoveMemphis,iLoveMemphis,3GsIlcwgQDJVjHD82mbA0Z,https://api.spotify.com/v1/artists/3GsIlcwgQDJVjHD82mbA0Z,44,https://i.scdn.co/image/8e45f5a2ec8e40cd84724cad7ceec5b096730178
+430,Skrillex,Skrillex,5he5w2lnU9x7JFhnwcekXX,https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX,81,https://i.scdn.co/image/e33f8e4117d6bd60e3ad6ab8e608dea3f9dfa690
+431,M0,M0B,1czB7ak5HgzWC5a3MppcmP,https://api.spotify.com/v1/artists/1czB7ak5HgzWC5a3MppcmP,35,https://i.scdn.co/image/0315a4e63db3eabfe127ed44523a25d24d798f90
+432,George Ezra,George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,https://api.spotify.com/v1/artists/2ysnwxxNtSgbb9t1m2Ur4j,77,https://i.scdn.co/image/f145882e808633707759012c6417264f657304be
+433,DeJ Loaf,DeJ Loaf,7kFfY4UjNdNyaeUgLIEbIF,https://api.spotify.com/v1/artists/7kFfY4UjNdNyaeUgLIEbIF,69,https://i.scdn.co/image/c36a96bbe00897ed3889dbe31759e79c06a6ba4d
+434,Jidenna,Jidenna,4TsHKU8l8Wq7n7OPVikirn,https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn,61,https://i.scdn.co/image/debb0d42c2a626cdb1a6c1ea40f750c2ab438ffd
+435,Ella Henderson,Ella Henderson,7nDsS0l5ZAzMedVRKPP8F1,https://api.spotify.com/v1/artists/7nDsS0l5ZAzMedVRKPP8F1,73,https://i.scdn.co/image/2f4f13cb5c69bc13b7475c21f739614d1f6101f1
+436,Alessia Cara,Alessia Cara,2wUjUUtkb5lvLKcGKsKqsR,https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR,82,https://i.scdn.co/image/56dcc0e8f919ea86b139b4ccd084439e10a8704e
+437,Mr. Probz,Mr. Probz,33W1pnW9zScZtYTnAoWnOT,https://api.spotify.com/v1/artists/33W1pnW9zScZtYTnAoWnOT,72,https://i.scdn.co/image/261cf047c334ad684d0c8e6b8ba0e32409679c70
+438,Chris Janson,Chris Janson,60gmlHZmT16wiO9GiXKYK9,https://api.spotify.com/v1/artists/60gmlHZmT16wiO9GiXKYK9,68,https://i.scdn.co/image/73e17948367d82f8e3d198d69b682836047d82b7
+439,Remy Boyz,,,,,
+440,Paul McCartney,Paul McCartney,4STHEaNw4mPZ2tzheohgXB,https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB,74,https://i.scdn.co/image/2e9e61aa45f32c8d6c35a7e407d50ce1256df210
+441,James Newton Howard,James Newton Howard,2M4eNCvV3CJUswavkhAQg2,https://api.spotify.com/v1/artists/2M4eNCvV3CJUswavkhAQg2,66,https://i.scdn.co/image/998e3bfa6efb8832802670a015b03b1e334dc311
+442,I LOVE MAKONNEN,ILOVEMAKONNEN,3aGFCoR8xGN6DKwvdzeSja,https://api.spotify.com/v1/artists/3aGFCoR8xGN6DKwvdzeSja,66,https://i.scdn.co/image/2463b9aa3a15866848b8ebed2196c3fcf3c92b08
+443,twenty one pilots,Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx,86,https://i.scdn.co/image/19e8f3bc875b7a4b9cf0041a5ee696c4be5478aa
+444,The Chainsmokers,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp,87,https://i.scdn.co/image/960547a625bc2eb742bb3dd170cbc049d2e94cf9
+445,Desiigner,Desiigner,7pFeBzX627ff0VnN6bxPR4,https://api.spotify.com/v1/artists/7pFeBzX627ff0VnN6bxPR4,71,https://i.scdn.co/image/e285c8f623c9a7c18bb523f1415b007f132792d1
+446,Lukas Graham,Lukas Graham,25u4wHJWxCA9vO0CzxAbK7,https://api.spotify.com/v1/artists/25u4wHJWxCA9vO0CzxAbK7,76,https://i.scdn.co/image/5bd7d837e985d43ca5197a72db3feb3ffa1a2821
+447,Bryson Tiller,Bryson Tiller,2EMAnMvWE2eb56ToJVfCWs,https://api.spotify.com/v1/artists/2EMAnMvWE2eb56ToJVfCWs,80,https://i.scdn.co/image/17cb13828da84ff2e33f86b6984dab07b7ae66b6
+448,DNCE,DNCE,6T5tfhQCknKG4UnH90qGnz,https://api.spotify.com/v1/artists/6T5tfhQCknKG4UnH90qGnz,71,https://i.scdn.co/image/574b498747261e65fc6b17ab48981a1f664c4078
+449,Daya,Daya,6Dd3NScHWwnW6obMFbl1BH,https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH,76,https://i.scdn.co/image/6dcfbf8e78a3dc84e2535db44a0a062d6ccf5980
+450,Zayn,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81,82,https://i.scdn.co/image/90e30d448412c75b896da19a68db1da01ed99133
+451,Kevin Gates,Kevin Gates,1gPhS1zisyXr5dHTYZyiMe,https://api.spotify.com/v1/artists/1gPhS1zisyXr5dHTYZyiMe,79,https://i.scdn.co/image/f5faf3cd4c88cb79a3052ebd475e33c0d8c63083
+452,Tory Lanez,Tory Lanez,2jku7tDXc6XoB6MO2hFuqg,https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg,88,https://i.scdn.co/image/de0fd96b002bba9f13e90fd986c6dbf647f78e7c
+453,G-Eazy,G-Eazy,02kJSzxNuaWGqwubyUba0Z,https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z,85,https://i.scdn.co/image/c9087fc76c4d0f4feb86ec38078e00d083d5ac59
+454,Bebe Rexha,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb,84,https://i.scdn.co/image/d7846ef6807a6a5e449997e9d11e5bd8b2d2576a
+455,James Bay,James Bay,4EzkuveR9pLvDVFNx6foYD,https://api.spotify.com/v1/artists/4EzkuveR9pLvDVFNx6foYD,78,https://i.scdn.co/image/5f5d665db928583d126db1eb3b2ebf990511d73b
+456,Kent Jones,Kent Jones,3jHBxvZ9gbBkZ17wKUqVsO,https://api.spotify.com/v1/artists/3jHBxvZ9gbBkZ17wKUqVsO,57,https://i.scdn.co/image/ca1736e2b28ab60aa0b68eb385675079c5578916
+457,Kiiara,Kiiara,4u5smJBskI6Adzv08PuiUP,https://api.spotify.com/v1/artists/4u5smJBskI6Adzv08PuiUP,68,https://i.scdn.co/image/d3a9a2f2830cf32a618b56a3955bd3697e624f1c
+458,Travis Scott,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY,97,https://i.scdn.co/image/fec51156ed94b7ee30fbd4c7fd29b4a840e7daec
+459,Halsey,Halsey,26VFTg2z8YR0cCuwLzESi2,https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2,91,https://i.scdn.co/image/1ccc88afcd13131dc35a1bd028922dbc748a55fb
+460,Post Malone,Post Malone,246dkjvS1zLTtiykXe5h60,https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60,94,https://i.scdn.co/image/93fec27f9aac86526b9010e882037afbda4e3d5f
+461,D.R.A.M.,D.R.A.M,1Wry0EFTpNuY88F1Mt3OYY,https://api.spotify.com/v1/artists/1Wry0EFTpNuY88F1Mt3OYY,0,https://i.scdn.co/image/ab67616d0000b273bd0cd6b68fa51c53451c0891
+462,gnash,gnash,3iri9nBFs9e4wN7PLIetAw,https://api.spotify.com/v1/artists/3iri9nBFs9e4wN7PLIetAw,74,https://i.scdn.co/image/078bc7ec593bf6da34297a5192d2eb3cf79842f4
+463,Prince,Prince,5a2EaR3hamoenG9rDuVn8j,https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j,76,https://i.scdn.co/image/0040a9952a800042a6e85b2ea3c3b9cb6a077edf
+464,Lil Uzi Vert,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz,92,https://i.scdn.co/image/271c672ac7a84a95f3c557177a29b8936923d152
+465,Ruth B,Ruth B.,2WzaAvm2bBCf4pEhyuDgCY,https://api.spotify.com/v1/artists/2WzaAvm2bBCf4pEhyuDgCY,71,https://i.scdn.co/image/f23154cc88248a5d6308e2276097b2a7ab18b375
+466,Kelsea Ballerini,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,https://api.spotify.com/v1/artists/3RqBeV12Tt7A8xH3zBDDUF,75,https://i.scdn.co/image/3b987e0f3d9f94b40b33cc673b96971cde05da83
+467,Zara Larsson,Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg,82,https://i.scdn.co/image/a1f0668e410c1b495b2d63da7bf13e800ea81fb4
+468,Lil Yachty,Lil Yachty,6icQOAFXDZKsumw3YXyusw,https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw,84,https://i.scdn.co/image/e5271c94202acebab521f1977757eae5cafc2a9b
+469,Yo Gotti,Yo Gotti,6Ha4aES39QiVjR0L2lwuwq,https://api.spotify.com/v1/artists/6Ha4aES39QiVjR0L2lwuwq,75,https://i.scdn.co/image/0e1015748e671a4e4568d2a34313d8cdaddabce7
+470,Flume,Flume,6nxWCVXbOlEVRexSbLsTer,https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer,77,https://i.scdn.co/image/0436e3871c9f88b8f83559a70fd8d2f22cb3fd01
+471,Old Dominion,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,https://api.spotify.com/v1/artists/6y8XlgIV8BLlIg1tT1R10i,75,https://i.scdn.co/image/6141dbd07bf49a1eae7e847718de009238e380c7
+472,MNEK,MNEK,7uMh23xWiuR7zsNkuNcm2G,https://api.spotify.com/v1/artists/7uMh23xWiuR7zsNkuNcm2G,73,https://i.scdn.co/image/72a3b52ef8f24d7da05c978e9da275745b11b7e9
+473,Maren Morris,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,https://api.spotify.com/v1/artists/6WY7D3jk8zTrHtmkqqo5GI,79,https://i.scdn.co/image/0ebf5efc32cdc134bc95fe0e69e0d12a695d70ad
+474,Jon Pardi,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,https://api.spotify.com/v1/artists/4MoAOfV4ROWofLG3a3hhBN,75,https://i.scdn.co/image/ac93115d44fc860352cc30c9342ae6eb79ad08dd
+475,Kyla,Kyla,77DAFfvm3O9zT5dIoG0eIO,https://api.spotify.com/v1/artists/77DAFfvm3O9zT5dIoG0eIO,69,https://i.scdn.co/image/7ada5b2050ba6587454bdd847ca477769346fb33
+476,Dan + Shay,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,https://api.spotify.com/v1/artists/7z5WFjZAIYejWy0NI5lv4T,80,https://i.scdn.co/image/ff4a12b96c4cd11472c7058a2468c5b609999ccf
+477,LOCASH,LOCASH,5IcGbIAgdns0R5EJKHMjCQ,https://api.spotify.com/v1/artists/5IcGbIAgdns0R5EJKHMjCQ,64,https://i.scdn.co/image/30fd3e728b3d760f57a8d0402c86a7820b0e9638
+478,Disturbed,Disturbed,3TOqt5oJwL9BE2NG9MEwDa,https://api.spotify.com/v1/artists/3TOqt5oJwL9BE2NG9MEwDa,78,https://i.scdn.co/image/b57e634f63dc9a71052c5d61cafc00d221c42afb
+479,MadeinTYO,MadeinTYO,5SyGEPymt1G2uto47tVWvZ,https://api.spotify.com/v1/artists/5SyGEPymt1G2uto47tVWvZ,71,https://i.scdn.co/image/73781da6e88b00e74ba2ad7067743ac2236efffd
+480,Rozes,ROZES,6jsjhAEteAlY0vCiLvMLBA,https://api.spotify.com/v1/artists/6jsjhAEteAlY0vCiLvMLBA,65,https://i.scdn.co/image/e4f92c4517fb5ef97a19c73ba01688f709d7d9e2
+481,Troye Sivan,Troye Sivan,3WGpXCj9YhhfX11TToZcXP,https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP,80,https://i.scdn.co/image/9cce778c3e78cdfc197cfc246e0758e99a422d71
+482,Migos,Migos,6oMuImdp5ZcFhWP0ESe6mG,https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG,84,https://i.scdn.co/image/ba2d3bfa4c427f1a12ec667f4138bb5d3ecd661c
+483,Khalid,Khalid,6LuN9FCkKOj5PcnpouEgny,https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny,92,https://i.scdn.co/image/05da6a798c59e8ab7102d77c8deb79d67a1360ed
+484,James Arthur,James Arthur,4IWBUUAFIplrNtaOHcJPRM,https://api.spotify.com/v1/artists/4IWBUUAFIplrNtaOHcJPRM,83,https://i.scdn.co/image/dd8ceb41c23ec3352cfc19df178e7f243d6182e4
+485,Niall Horan,Niall Horan,1Hsdzj7Dlq2I7tHP7501T4,https://api.spotify.com/v1/artists/1Hsdzj7Dlq2I7tHP7501T4,83,https://i.scdn.co/image/a4686e5325963338133068128683d274dc2d645d
+486,Luis Fonsi,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG,80,https://i.scdn.co/image/6004641991ca63396cccdd8553f9120d69ea58d0
+487,Kodak Black,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7,83,https://i.scdn.co/image/7e3b329829c210144d51035a91b92ce3f55d79fb
+488,21 Savage,21 Savage,1URnnhqYAYcrqrcwql10ft,https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft,86,https://i.scdn.co/image/cfd6e47fbe4446750ec209dfa37bc919cb55c86f
+489,Cardi B,Cardi B,4kYSro6naA4h99UJvo89HB,https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB,87,https://i.scdn.co/image/85145039b32b56e911bd2ad39f28f96277aea9f3
+490,Childish Gambino,Childish Gambino,73sIBHcqh3Z3NyqHKZ7FOL,https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL,82,https://i.scdn.co/image/2e1d974c14fb66eb5050bf3526c84c4f6e2f47ae
+491,Julia Michaels,Julia Michaels,0ZED1XzwlLHW4ZaG4lOT6m,https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m,84,https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157
+492,Quavo,Quavo,0VRj0yCOv2FXJNP47XQnx5,https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5,89,https://i.scdn.co/image/5bbc6877502c2a0db474b3b2bd48a073f5048bc2
+493,French Montana,French Montana,6vXTefBL93Dj5IqAWq6OTv,https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv,82,https://i.scdn.co/image/14443f9c4ab806e91aee7feaad4f90b91f29f7b6
+494,XXXTENTACION,XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4,92,https://i.scdn.co/image/942afa81f0a2298ead0c154fb7b4b606de48d9e6
+495,Camila Cabello,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF,88,https://i.scdn.co/image/667daebca4856db3f4cbe8f51a4881091e62c401
+496,Brett Young,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,https://api.spotify.com/v1/artists/0fiWOxhsBsQQvFDtxUQWo0,75,https://i.scdn.co/image/0cb3c81ecb89fd34900f7e2cfe7fcc780f44f809
+497,KYLE,KYLE,4qBgvVog0wzW75IQ48mU7v,https://api.spotify.com/v1/artists/4qBgvVog0wzW75IQ48mU7v,76,https://i.scdn.co/image/09b2ac3797fd2181917f20871ff396c441603312
+498,Luke Combs,Luke Combs,718COspgdWOnwOFpJHRZHS,https://api.spotify.com/v1/artists/718COspgdWOnwOFpJHRZHS,85,https://i.scdn.co/image/ea98cb1e9fb4ffcee63d580107d77d9d790c3f3c
+499,Portugal. The Man,Portugal. The Man,4kI8Ie27vjvonwaB2ePh8T,https://api.spotify.com/v1/artists/4kI8Ie27vjvonwaB2ePh8T,72,https://i.scdn.co/image/a271a02a19e114c59d9586612857ab691f8c7ee2
+500,Logic,Logic,4xRYI6VqpkE3UwrDrAZL8L,https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L,83,https://i.scdn.co/image/efa0b73c2cdaf40b1767b4b1e1254b1cfc5b51db
+501,SZA,SZA,7tYKF4w9nC0nq9CsPZTHyP,https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP,81,https://i.scdn.co/image/e1e46c441024525643a19402b3a12188de219420
+502,Liam Payne,Liam Payne,5pUo3fmmHT8bhCyHE52hA6,https://api.spotify.com/v1/artists/5pUo3fmmHT8bhCyHE52hA6,77,https://i.scdn.co/image/4459594a6c3d1986de232382582967bb1e363e13
+503,Amine,Aminé,3Gm5F95VdRxW3mqCn8RPBJ,https://api.spotify.com/v1/artists/3Gm5F95VdRxW3mqCn8RPBJ,78,https://i.scdn.co/image/474d98b081007f98edd402e5889304eade75fe57
+504,Ayo & Teo,Ayo & Teo,27mFvqQj8KpjmdKIqcw1mG,https://api.spotify.com/v1/artists/27mFvqQj8KpjmdKIqcw1mG,62,https://i.scdn.co/image/dc60060f6ed15398076e19f07f69fde2e14d66f0
+505,Zay Hilfigerrr & Zayion McCall,,,,,
+506,Kesha,Kesha,6LqNN22kT3074XbTVUrhzX,https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX,80,https://i.scdn.co/image/282055081bba71c1f715c6459de13d12fb4373d5
+507,Kygo,Kygo,23fqKkggKUBHNkbKtXEls4,https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4,90,https://i.scdn.co/image/eee84c026e93f6d970fdc82c5010c45219530577
+508,Playboi Carti,Playboi Carti,699OTQXzgjhIYAHMy9RyPD,https://api.spotify.com/v1/artists/699OTQXzgjhIYAHMy9RyPD,83,https://i.scdn.co/image/a47ceed38754e29c1b2c0cb381b005030cbf1ced
+509,Machine Gun Kelly,Machine Gun Kelly,6TIYQ3jFPwQSRmorSezPxX,https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX,83,https://i.scdn.co/image/ea21df1c0d8fa7d35026c32aafa52e825583a6b4
+510,A Boogie Wit da Hoodie,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,https://api.spotify.com/v1/artists/31W5EY0aAly4Qieq6OFu6I,88,https://i.scdn.co/image/c5624d93f38067845f2454189b0248cc0b4e69cf
+511,Jon Bellion,Jon Bellion,50JJSqHUf2RQ9xsHs0KMHg,https://api.spotify.com/v1/artists/50JJSqHUf2RQ9xsHs0KMHg,76,https://i.scdn.co/image/c130cf4ab4e8a9b8046153102bccedae5ad6d8ed
+512,Harry Styles,Harry Styles,6KImCVD70vtIoJWnq6nGn3,https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3,91,https://i.scdn.co/image/b2163e7456f3d618a0e2a4e32bc892d6b11ce673
+513,Hailee Steinfeld,Hailee Steinfeld,5p7f24Rk5HkUZsaS3BLG5F,https://api.spotify.com/v1/artists/5p7f24Rk5HkUZsaS3BLG5F,80,https://i.scdn.co/image/4520a1f2ef56222c7e96d14271fbb0cb01cddd0d
+514,Swae Lee,Swae Lee,1zNqQNIdeOUZHb8zbZRFMX,https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX,85,https://i.scdn.co/image/a177469870b41f7e17e3b5f2156c1ab7a7e92df8
+515,Marian Hill,Marian Hill,1xHQO9GJIW9OXHxGBISYc5,https://api.spotify.com/v1/artists/1xHQO9GJIW9OXHxGBISYc5,64,https://i.scdn.co/image/0282fb73918aef66b36cabfee1f7e3f26aa0f31a
+516,Dua Lipa,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we,92,https://i.scdn.co/image/330f9806621bc0fe67f5c06f2f1f8df53d011b4e
+517,blackbear,blackbear,2cFrymmkijnjDg9SS92EPM,https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM,86,https://i.scdn.co/image/fc4e26fa446d3370789e927bacbcfa40fb648f5c
+518,Maluma,Maluma,1r4hJ1h58CWwUQe3MxPuau,https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau,89,https://i.scdn.co/image/14344d337b11e96e3ee86861928be35eba12d75e
+519,Kane Brown,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,https://api.spotify.com/v1/artists/3oSJ7TBVCWMDMiYjXNiCKE,82,https://i.scdn.co/image/c1c4dca1973a866b372b642f10486ca952b7e211
+520,Juice WRLD,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz,100,https://i.scdn.co/image/d8e62447a338a882b490460da20e90aac6d60ae7
+521,6ix9ine,6ix9ine,7gZfnEnfiaHzxARJ2LeXrf,https://api.spotify.com/v1/artists/7gZfnEnfiaHzxARJ2LeXrf,87,https://i.scdn.co/image/cb2fa696eab4e8295ed211d1a051027145afa10a
+522,Ella Mai,Ella Mai,7HkdQ0gt53LP4zmHsL0nap,https://api.spotify.com/v1/artists/7HkdQ0gt53LP4zmHsL0nap,76,https://i.scdn.co/image/575a623d09d4b40a0c1e956ced7e7b0378e0e58a
+523,Bazzi,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,https://api.spotify.com/v1/artists/4GvEc3ANtPPjt1ZJllr5Zl,84,https://i.scdn.co/image/f1d8f8439b1120fad1f87e59a223998c85036638
+524,Marshmello,Marshmello,64KEffDW9EtZ1y2vBYgq8T,https://api.spotify.com/v1/artists/64KEffDW9EtZ1y2vBYgq8T,90,https://i.scdn.co/image/b378853a6838299aeb068851850dfa8f5d18832a
+525,Lil Pump,Lil Pump,3wyVrVrFCkukjdVIdirGVY,https://api.spotify.com/v1/artists/3wyVrVrFCkukjdVIdirGVY,78,https://i.scdn.co/image/aafa5a282b9af40a1a683c8fc20af99d7cd9fbdd
+526,NF,NF,6fOMl44jA4Sp5b9PpYCkzz,https://api.spotify.com/v1/artists/6fOMl44jA4Sp5b9PpYCkzz,85,https://i.scdn.co/image/55db20d7c49bdcf52162474265c66ca601054b1c
+527,Lil Baby,Lil Baby,5f7VJjfbwm532GiveGC0ZK,https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK,94,https://i.scdn.co/image/8228781d8e7fa97831a42525c831063148736e87
+528,J Balvin,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5,96,https://i.scdn.co/image/c197cd71445eedb25326f490130581b0718def85
+529,YoungBoy Never Broke Again,YoungBoy Never Broke Again,7wlFDEWiM5OoIAt8RSli8b,https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b,86,https://i.scdn.co/image/97bb629b95a57ce4b12d82959c3557244bc669c2
+530,Rich The Kid,Rich The Kid,1pPmIToKXyGdsCF6LmqLmI,https://api.spotify.com/v1/artists/1pPmIToKXyGdsCF6LmqLmI,80,https://i.scdn.co/image/d985318181090736aa5b9fc7e0b3a39a4ccfb080
+531,Bad Bunny,Bad Bunny,4q3ewBCX7sLwd24euuV69X,https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X,98,https://i.scdn.co/image/23009960c33ef08d5973440cca17985a6c70a515
+532,Lauv,Lauv,5JZ7CnR6gTvEMKX4g70Amv,https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv,87,https://i.scdn.co/image/445586dad6973252057c96c4e6c27ec2d5e6b9f4
+533,BlocBoy JB,BlocBoy JB,4TEJudQY2pXxVHPE3gD2EU,https://api.spotify.com/v1/artists/4TEJudQY2pXxVHPE3gD2EU,69,https://i.scdn.co/image/ab67616d0000b27355cad990bc1ce5808367fa0e
+534,Offset,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,https://api.spotify.com/v1/artists/4DdkRBBYG6Yk9Ka8tdJ9BW,84,https://i.scdn.co/image/d718d632faa01221dd271f4e60a421596718fda0
+535,Normani,Normani,2cWZOOzeOm4WmBJRnD5R7I,https://api.spotify.com/v1/artists/2cWZOOzeOm4WmBJRnD5R7I,76,https://i.scdn.co/image/eaef9743235fa95f1cb777fb690747c2fbd7e01d
+536,Grey,Grey,4lDBihdpMlOalxy1jkUbPl,https://api.spotify.com/v1/artists/4lDBihdpMlOalxy1jkUbPl,73,https://i.scdn.co/image/c85e9ece66d71ba7a7e229addcc466a65650b968
+537,Famous Dex,Famous Dex,0WOxhx4hikIsyF3CRPLC8W,https://api.spotify.com/v1/artists/0WOxhx4hikIsyF3CRPLC8W,70,https://i.scdn.co/image/e5a6d1f14768080849db378c2f074e73ee7f8145
+538,Metro Boomin,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp,81,https://i.scdn.co/image/8986705c72b71411c261c0f9eb65b6a2c04cfe90
+539,Russell Dickerson,Russell Dickerson,1E2AEtxaFaJtH0lO7kgNKw,https://api.spotify.com/v1/artists/1E2AEtxaFaJtH0lO7kgNKw,71,https://i.scdn.co/image/6d5b235fc94890cd9fbc309c8f1780f7845a8efc
+540,Anne-Marie,Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,https://api.spotify.com/v1/artists/1zNqDE7qDGCsyzJwohVaoX,82,https://i.scdn.co/image/2b231e5a968c3e9e853e24c394a9529a291bd646
+541,Lil Dicky,Lil Dicky,1tqhsYv8yBBdwANFNzHtcr,https://api.spotify.com/v1/artists/1tqhsYv8yBBdwANFNzHtcr,72,https://i.scdn.co/image/33c1ec97b187cedcea9bec3ea55c707fab2a29ef
+542,The Carters,The Carters,4fpTMHe34LC5t3h5ztK8qu,https://api.spotify.com/v1/artists/4fpTMHe34LC5t3h5ztK8qu,64,https://i.scdn.co/image/56bfc8d434ae07d44e737b42b87aebb639841406
+543,Lil Skies,Lil Skies,7d3WFRME3vBY2cgoP38RDo,https://api.spotify.com/v1/artists/7d3WFRME3vBY2cgoP38RDo,82,https://i.scdn.co/image/624688061520965ea8fe67f4f6ddffa75cf75d46
+544,Chris Stapleton,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,https://api.spotify.com/v1/artists/4YLtscXsxbVgi031ovDDdh,77,https://i.scdn.co/image/e11519e9cd6bcc5777a2e2a1cd47d0ca19446882
+545,MAX,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F,87,https://i.scdn.co/image/17dd5fa37e315ddd1267d8ebf3eccdf127ba8548
+546,Ozuna,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY,93,https://i.scdn.co/image/81ce72009afb34196d399f764e7159411c885061
+547,lovelytheband,lovelytheband,4KJ6jujcNPzOyhdNoiNftp,https://api.spotify.com/v1/artists/4KJ6jujcNPzOyhdNoiNftp,68,https://i.scdn.co/image/b42e6ea35ce6f7767966a2fa88a625fb743d65c9
+548,A$AP Ferg,A$AP Ferg,5dHt1vcEm9qb8fCyLcB3HL,https://api.spotify.com/v1/artists/5dHt1vcEm9qb8fCyLcB3HL,78,https://i.scdn.co/image/ea08ae0c9e60a0a416f18b02b35bb6591f62d171
+549,Queen Naija,Queen Naija,3nViOFa3kZW8OMSNOzwr98,https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98,68,https://i.scdn.co/image/2062be9aadba620a85bbaac9b068b5228e5323c3
+550,Billie Eilish,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH,92,https://i.scdn.co/image/2622edec99d68d1d141886be593c88cbe509f6d8
+551,Lil Nas X,Lil Nas X,7jVv8c5Fj3E9VhNjxT4snq,https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq,80,https://i.scdn.co/image/12d5ab979779aa41e697ce823328d527e643e4cf
+552,DaBaby,DaBaby,4r63FhuTkUYltbVAg5TQnk,https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk,95,https://i.scdn.co/image/f68192e6516d89a77a2b16904725a77b75b42056
+553,Lizzo,Lizzo,56oDRnqbIiwx4mymNEv7dS,https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS,81,https://i.scdn.co/image/e33e4245fe5901ed940ba95070bb8d56679b6fe0
+554,Ava Max,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F,87,https://i.scdn.co/image/17dd5fa37e315ddd1267d8ebf3eccdf127ba8548
+555,Lil Tecca,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,https://api.spotify.com/v1/artists/4Ga1P7PMIsmqEZqhYZQgDo,83,https://i.scdn.co/image/3d4af4718b5bb0b90cd1e658919eac8add51475b
+556,Billy Ray Cyrus,Billy Ray Cyrus,60rpJ9SgigSd16DOAG7GSa,https://api.spotify.com/v1/artists/60rpJ9SgigSd16DOAG7GSa,74,https://i.scdn.co/image/5ca1f02e6c8689ca77513046dbc3f30b5bf87936
+557,Lewis Capaldi,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,https://api.spotify.com/v1/artists/4GNC7GD6oZMSxPGyXy4MNB,88,https://i.scdn.co/image/5ed13d249e562fea4e296aaeb745ce06d27ec88f
+558,YNW Melly,YNW Melly,1cNDP5yjU5vjeR8qMf4grg,https://api.spotify.com/v1/artists/1cNDP5yjU5vjeR8qMf4grg,83,https://i.scdn.co/image/030819be90d9cd2438d122215868eb46ed880ebf
+559,Gunna,Gunna,2hlmm7s2ICUX0LVIhVFlZQ,https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ,90,https://i.scdn.co/image/f7b2c8b9382c0e140b245af65dbfcfbe1ac0eb7c
+560,Blueface,Blueface,3Fl1V19tmjt57oBdxXKAjJ,https://api.spotify.com/v1/artists/3Fl1V19tmjt57oBdxXKAjJ,77,https://i.scdn.co/image/6924d354dc0667e20868cc9d10c3117249fa6373
+561,City Girls,City Girls,37hAfseJWi0G3Scife12Il,https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il,75,https://i.scdn.co/image/ac12821f53c50d36a2d1ae4ddc5ce744e1a380e3
+562,Sheck Wes,Sheck Wes,2RDOrhPqAM4jzTRCEb19qX,https://api.spotify.com/v1/artists/2RDOrhPqAM4jzTRCEb19qX,71,https://i.scdn.co/image/c0f2b79210f155ffbc25a5a3900d3918566cec6b
+563,Morgan Wallen,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM,83,https://i.scdn.co/image/283d70b5ad864786e52fbe6e59a28ff8a533d7e3
+564,Bradley Cooper,Bradley Cooper,4VIvfOurcf0vuLRxLkGnIG,https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG,77,https://i.scdn.co/image/d207b7babef86bfe4da836d90f894292c78476b7
+565,Dean Lewis,Dean Lewis,3QSQFmccmX81fWCUSPTS7y,https://api.spotify.com/v1/artists/3QSQFmccmX81fWCUSPTS7y,79,https://i.scdn.co/image/2e0a51cd1cf44a3daff20f5fcf899c2fbfca114b
+566,Lauren Daigle,Lauren Daigle,40LHVA5BTQp9RxHOQ9JPYj,https://api.spotify.com/v1/artists/40LHVA5BTQp9RxHOQ9JPYj,73,https://i.scdn.co/image/bda8309d6e51d334c150e2ee56b1272356158060
+567,Blanco Brown,Blanco Brown,3yzRiNMZdTsSUgplcyYZ4i,https://api.spotify.com/v1/artists/3yzRiNMZdTsSUgplcyYZ4i,69,https://i.scdn.co/image/e91f74c961a8305b1cc050c0bfd7b242c61d9954
+568,Calboy,Calboy,0HkcYmcjrBR3SCw9Ld5VZk,https://api.spotify.com/v1/artists/0HkcYmcjrBR3SCw9Ld5VZk,70,https://i.scdn.co/image/5a39e17edf447d3393bc091fc00225492745cce3
+569,Megan Thee Stallion,Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK,86,https://i.scdn.co/image/2e1f19583ca93d8d1d7d31adc63eb75425a44c43
+570,Mustard,Mustard,0YinUQ50QDB7ZxSCLyQ40k,https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k,83,https://i.scdn.co/image/4dcf713a3bc309590381ecf718be7d5b1b8f0f61
+571,NLE Choppa,NLE Choppa,0ErzCpIMyLcjPiwT4elrtZ,https://api.spotify.com/v1/artists/0ErzCpIMyLcjPiwT4elrtZ,84,https://i.scdn.co/image/18f6660210b96dce05a13e032c7149a272add4fe
+572,SHAED,SHAED,3KwmxIhSe9UTSEF37kwngR,https://api.spotify.com/v1/artists/3KwmxIhSe9UTSEF37kwngR,70,https://i.scdn.co/image/d4a8d208a0334c183ffa012724df7d85a1878c20
+573,Flipp Dinero,Flipp Dinero,2HUwZ0kumzCSlhFcjFZfpp,https://api.spotify.com/v1/artists/2HUwZ0kumzCSlhFcjFZfpp,71,https://i.scdn.co/image/00c6da6b5821d9fe0e7e525fdeb75cbde822800c
+574,Polo G,Polo G,6AgTAQt8XS6jRWi4sX7w49,https://api.spotify.com/v1/artists/6AgTAQt8XS6jRWi4sX7w49,88,https://i.scdn.co/image/86dc350509ace5cc41b7658979a87c8be757e71d
+575,benny blanco,benny blanco,5CiGnKThu5ctn9pBxv7DGa,https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa,77,https://i.scdn.co/image/6397158bae9bf66c29bb425edba14961dbf14a20
+576,Summer Walker,Summer Walker,57LYzLEk2LcFghVwuWbcuS,https://api.spotify.com/v1/artists/57LYzLEk2LcFghVwuWbcuS,83,https://i.scdn.co/image/a38579606746ef34c38c349f4cdb250784f3aee8
+577,Pinkfong,Pinkfong,7cTXfwpe9peK0UE1bZyIWZ,https://api.spotify.com/v1/artists/7cTXfwpe9peK0UE1bZyIWZ,70,https://i.scdn.co/image/9c9f80da41aabf9da540d60100743d053d3569d7
+578,Saweetie,Saweetie,6cK3NBO6uP7hh0oyuVELFl,https://api.spotify.com/v1/artists/6cK3NBO6uP7hh0oyuVELFl,76,https://i.scdn.co/image/1931fe3856a71a79e0dffb843f0004289feffc28
+579,YK Osiris,YK Osiris,7meyrw7Or5DwteYxDJrkCM,https://api.spotify.com/v1/artists/7meyrw7Or5DwteYxDJrkCM,69,https://i.scdn.co/image/e47b3e55c0b3b38f23adc8a68863d87b10a1feaf
+580,"Tyler, The Creator","Tyler, The Creator",4V8LLVI7PbaPR0K2TGSxFF,https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF,85,https://i.scdn.co/image/fe839f5bd121774e64f377b5eead237c69a01711
+581,Lil Tjay,Lil Tjay,6jGMq4yGs7aQzuGsMgVgZR,https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR,85,https://i.scdn.co/image/db9945fd5985316262acb98c17b0a15ed5a65c8c
+582,Anuel AA,Anuel AA,2R21vXR83lH98kGeO99Y66,https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66,95,https://i.scdn.co/image/2c8e2fbb522593952741bfb1cab74c0f8cd6e2c5
+583,Chase Rice,Chase Rice,6pBNfggcZZDCmb0p92OnGn,https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn,72,https://i.scdn.co/image/96f331905724c6cf7caf473c51b9eddac98dc7c0
+584,Scotty McCreery,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,https://api.spotify.com/v1/artists/6ZV6lGY0prbqpTD0Md8i29,67,https://i.scdn.co/image/910c586869b8c4d741d3b2d43c4504ab83017728
